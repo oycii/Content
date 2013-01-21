@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "exportXML.dtd">
+<catalog update_id="67378" update_to="77378" media_type="games" region="RU">
+	<service_groups>
+				<service_group id = "250" price="2.50">		
+							<service id="797" operator_name="Билайн" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="440" operator_name="МТС" phone="1515" real_price=" 101,26  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="431" operator_name="Мегафон Москва" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="432" operator_name="Мегафон Поволжье" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="234" operator_name="Мегафон Кавказ" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="695" operator_name="СМАРТС" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="441" operator_name="Байкалвестком" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="416" operator_name="Мегафон-Сибирь" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="610" operator_name="Теле2" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="541" operator_name="НТК" phone="1515" real_price=" 102,32  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="124" operator_name="Пенза GSM" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="976" operator_name="Мотив" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="258" operator_name="Мегафон Дальний Восток" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="222" operator_name="Мегафон центр" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="247" operator_name="Шупашкар-GSM" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="293" operator_name="Мегафон Северо-Запад" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="269" operator_name="Енисей Телеком" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="305" operator_name="Мегафон-Урал" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="309" operator_name="Ютел" phone="1515" real_price=" 106  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="376" operator_name="Элайн" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="406" operator_name="СМАРТС (Иваново)" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="453" operator_name="Астрахань GSM" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="507" operator_name="Оренбург-GSM" phone="1515" real_price=" 141,60  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="518" operator_name="НСС Ульяновск" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="563" operator_name="НСС Чувашия" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="552" operator_name="НСС Саратов" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="707" operator_name="СМАРТС (Ярославль)" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="833" operator_name="СМАРТС (Волгоград)" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="585" operator_name="НСС Нижний Новгород" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"  />
+							<service id="591" operator_name="Улан-Удэнская Сотовая сеть" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo=""  />
+							<service id="572" operator_name="НСС Татарстан" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo=""  />
+							<service id="761" operator_name="НСС Мордовия" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo=""  />
+					</service_group>
+			<service_group id = "300" price="3.00">		
+							<service id="804" operator_name="Билайн" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="24" operator_name="МТС" phone="1717" real_price=" 135,12  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="25" operator_name="Мегафон Москва" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="26" operator_name="Мегафон Поволжье" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="27" operator_name="Мегафон Кавказ" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="33" operator_name="СМАРТС" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="34" operator_name="Байкалвестком" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="415" operator_name="Мегафон-Сибирь" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="604" operator_name="Теле2" phone="1717" real_price=" 129,80  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="96" operator_name="НТК" phone="1717" real_price=" 136,88  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="128" operator_name="Пенза GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="481" operator_name="Мотив" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="256" operator_name="Мегафон Дальний Восток" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="225" operator_name="Мегафон центр" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="245" operator_name="Шупашкар-GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="292" operator_name="Мегафон Северо-Запад" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="267" operator_name="Енисей Телеком" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="304" operator_name="Мегафон-Урал" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="316" operator_name="Ютел" phone="1717" real_price=" 124  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="375" operator_name="Элайн" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="405" operator_name="СМАРТС (Иваново)" phone="1717" real_price=" 125  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="447" operator_name="Астрахань GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="501" operator_name="Оренбург-GSM" phone="1717" real_price=" 105,85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="512" operator_name="НСС Ульяновск" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="557" operator_name="НСС Чувашия" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="546" operator_name="НСС Саратов" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="701" operator_name="СМАРТС (Ярославль)" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="828" operator_name="СМАРТС (Волгоград)" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="584" operator_name="НСС Нижний Новгород" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"  />
+							<service id="590" operator_name="Улан-Удэнская Сотовая сеть" phone="1717" real_price=" 130  рублей с НДС" operator_logo=""  />
+							<service id="567" operator_name="НСС Татарстан" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo=""  />
+							<service id="759" operator_name="НСС Мордовия" phone="1717" real_price=" 132,79  рубля с НДС" operator_logo=""  />
+							<service id="1038" operator_name="НСС Пенза" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo=""  />
+					</service_group>
+			<service_group id = "50" price="0.50">		
+							<service id="795" operator_name="Билайн" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="2" operator_name="МТС" phone="1313" real_price=" 16,93  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="3" operator_name="Мегафон Москва" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="4" operator_name="Мегафон Поволжье" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="5" operator_name="Мегафон Кавказ" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="57" operator_name="СМАРТС" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="58" operator_name="Байкалвестком" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="408" operator_name="Мегафон-Сибирь" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="600" operator_name="Теле2" phone="1313" real_price=" 17,11  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="90" operator_name="НТК" phone="1313" real_price=" 17,11  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="127" operator_name="Пенза GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="478" operator_name="Мотив" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="255" operator_name="Мегафон Дальний Восток" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="220" operator_name="Мегафон центр" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="244" operator_name="Шупашкар-GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="283" operator_name="Мегафон Северо-Запад" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="266" operator_name="Енисей Телеком" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="295" operator_name="Мегафон-Урал" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="307" operator_name="Ютел" phone="1313" real_price=" 18  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="367" operator_name="Элайн" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="397" operator_name="СМАРТС (Иваново)" phone="1313" real_price=" 17,70  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="442" operator_name="Астрахань GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="497" operator_name="Оренбург-GSM" phone="1313" real_price=" 13,81  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="508" operator_name="НСС Ульяновск" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="553" operator_name="НСС Чувашия" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="542" operator_name="НСС Саратов" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="697" operator_name="СМАРТС (Ярославль)" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="831" operator_name="СМАРТС (Волгоград)" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="820" operator_name="НСС Нижний Новгород" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"  />
+							<service id="888" operator_name="Улан-Удэнская Сотовая сеть" phone="1313" real_price=" 17  рублей с НДС" operator_logo=""  />
+							<service id="826" operator_name="НСС Татарстан" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo=""  />
+							<service id="756" operator_name="НСС Мордовия" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo=""  />
+							<service id="1033" operator_name="НСС Пенза" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo=""  />
+					</service_group>
+			<service_group id = "400" price="4.00">		
+							<service id="808" operator_name="Билайн" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="642" operator_name="МТС" phone="1715" real_price=" 186,26  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="643" operator_name="Мегафон Москва" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="644" operator_name="Мегафон Поволжье" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="645" operator_name="Мегафон Кавказ" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="696" operator_name="СМАРТС" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="649" operator_name="Байкалвестком" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="650" operator_name="Мегафон-Сибирь" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="651" operator_name="Теле2" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="652" operator_name="НТК" phone="1715" real_price=" 171,10  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="657" operator_name="Мотив" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="253" operator_name="Мегафон Дальний Восток" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="660" operator_name="Мегафон центр" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="661" operator_name="Шупашкар-GSM" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="662" operator_name="Мегафон Северо-Запад" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="664" operator_name="Енисей Телеком" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="665" operator_name="Мегафон-Урал" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="666" operator_name="Ютел" phone="1715" real_price=" 180  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="710" operator_name="Элайн" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="667" operator_name="СМАРТС (Иваново)" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="668" operator_name="Астрахань GSM" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="670" operator_name="Оренбург-GSM" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="671" operator_name="НСС Ульяновск" phone="1715" real_price=" 150  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="674" operator_name="НСС Чувашия" phone="1715" real_price=" 150  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="675" operator_name="НСС Саратов" phone="1715" real_price=" 150  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="679" operator_name="Улан-Удэнская Сотовая сеть" phone="1715" real_price=" 170  рублей с НДС" operator_logo=""  />
+							<service id="709" operator_name="НСС Татарстан" phone="1715" real_price=" 150  рублей с НДС" operator_logo=""  />
+							<service id="680" operator_name="НСС Мордовия" phone="1715" real_price=" 150  рублей с НДС" operator_logo=""  />
+							<service id="1037" operator_name="НСС Пенза" phone="1715" real_price=" 150  рублей с НДС" operator_logo=""  />
+					</service_group>
+			<service_group id = "200" price="2.00">		
+							<service id="802" operator_name="Билайн" phone="1220" real_price=" 85  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="428" operator_name="МТС" phone="1220" real_price=" 84,67  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="231" operator_name="Мегафон Москва" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="434" operator_name="Мегафон Поволжье" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="1210" operator_name="Мегафон Кавказ" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="845" operator_name="СМАРТС" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="38" operator_name="Байкалвестком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="116" operator_name="Мегафон-Сибирь" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="606" operator_name="Теле2" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="89" operator_name="НТК" phone="1220" real_price=" 85,21  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="118" operator_name="Пенза GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="482" operator_name="Мотив" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="248" operator_name="Мегафон Дальний Восток" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="226" operator_name="Мегафон центр" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="237" operator_name="Шупашкар-GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="288" operator_name="Мегафон Северо-Запад" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="259" operator_name="Енисей Телеком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="300" operator_name="Мегафон-Урал" phone="1220" real_price=" 82,60  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="314" operator_name="Ютел" phone="1220" real_price=" 88,50  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="371" operator_name="Элайн" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="401" operator_name="СМАРТС (Иваново)" phone="1220" real_price=" 84  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="449" operator_name="Астрахань GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="503" operator_name="Оренбург-GSM" phone="1220" real_price=" 70,45  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="514" operator_name="НСС Ульяновск" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="559" operator_name="НСС Чувашия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="548" operator_name="НСС Саратов" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="703" operator_name="СМАРТС (Ярославль)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="855" operator_name="СМАРТС (Волгоград)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="582" operator_name="НСС Нижний Новгород" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"  />
+							<service id="588" operator_name="Улан-Удэнская Сотовая сеть" phone="1220" real_price=" 85  рублей с НДС" operator_logo=""  />
+							<service id="569" operator_name="НСС Татарстан" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""  />
+							<service id="753" operator_name="НСС Мордовия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""  />
+							<service id="1032" operator_name="НСС Пенза" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""  />
+					</service_group>
+			<service_group id = "100" price="1.00">		
+							<service id="799" operator_name="Билайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"  />
+							<service id="13" operator_name="МТС" phone="1615" real_price=" 44,03  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"  />
+							<service id="14" operator_name="Мегафон Москва" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="15" operator_name="Мегафон Поволжье" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="16" operator_name="Мегафон Кавказ" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="39" operator_name="СМАРТС" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="35" operator_name="Байкалвестком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"  />
+							<service id="411" operator_name="Мегафон-Сибирь" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="602" operator_name="Теле2" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="95" operator_name="НТК" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"  />
+							<service id="125" operator_name="Пенза GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="479" operator_name="Мотив" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"  />
+							<service id="223" operator_name="Мегафон центр" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="242" operator_name="Шупашкар-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="286" operator_name="Мегафон Северо-Запад" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="264" operator_name="Енисей Телеком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"  />
+							<service id="298" operator_name="Мегафон-Урал" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"  />
+							<service id="311" operator_name="Ютел" phone="1615" real_price=" 45  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"  />
+							<service id="370" operator_name="Элайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"  />
+							<service id="400" operator_name="СМАРТС (Иваново)" phone="1615" real_price=" 46  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="444" operator_name="Астрахань GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="499" operator_name="Оренбург-GSM" phone="1615" real_price=" 35,05  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"  />
+							<service id="510" operator_name="НСС Ульяновск" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="555" operator_name="НСС Чувашия" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="544" operator_name="НСС Саратов" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"  />
+							<service id="699" operator_name="СМАРТС (Ярославль)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="830" operator_name="СМАРТС (Волгоград)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"  />
+							<service id="580" operator_name="НСС Нижний Новгород" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"  />
+							<service id="586" operator_name="Улан-Удэнская Сотовая сеть" phone="1615" real_price=" 44  рубля с НДС" operator_logo=""  />
+							<service id="570" operator_name="НСС Татарстан" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo=""  />
+							<service id="1035" operator_name="НСС Пенза" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo=""  />
+					</service_group>
+			</service_groups>
+	<phones>
+<phone id="2547" vendor="Samsung" model="Samsung M2513" />
+<phone id="2548" vendor="Samsung" model="Samsung i688" /><phone id="2549" vendor="Samsung" model="Samsung M2520 Beat" /><phone id="2551" vendor="Samsung" model="Samsung S8500 Wave" /><phone id="2552" vendor="Samsung" model="Samsung A886 Forever" /><phone id="2554" vendor="Samsung" model="Samsung A797 Flight" /><phone id="2555" vendor="Samsung" model="Samsung D788" /><phone id="2556" vendor="Samsung" model="Samsung S5503" /><phone id="2557" vendor="Samsung" model="Samsung A177" /><phone id="2558" vendor="Samsung" model="Samsung A697 Sunburst" /><phone id="2559" vendor="Samsung" model="Samsung T636" /><phone id="2560" vendor="Samsung" model="Samsung S5500 Eco" /><phone id="2563" vendor="Vodafone" model="Vodafone 716" /><phone id="2566" vendor="Nokia" model="Nokia E73 Mode" /><phone id="2569" vendor="HTC" model="HTC P5500 Nike" /><phone id="2570" vendor="HTC" model="HTC P5520 Touch Dual" /><phone id="2572" vendor="LG" model="LG U400" /><phone id="2573" vendor="LG" model="LG KU970 Shine" /><phone id="2574" vendor="LG" model="LG U900" /><phone id="2576" vendor="Samsung" model="Samsung I6220 Star TV" /><phone id="2577" vendor="Samsung" model="Samsung S7550 Blue Earth" /><phone id="2578" vendor="Samsung" model="Samsung ZX10" /><phone id="2579" vendor="Samsung" model="Samsung ZX20" /><phone id="2581" vendor="Motorola" model="Motorola V540" /><phone id="2582" vendor="Sharp" model="Sharp GX-40" /><phone id="2584" vendor="Samsung" model="Samsung I7500 Galaxy" /><phone id="2585" vendor="Samsung" model="Samsung I5700 Galaxy Spica" /><phone id="2587" vendor="Nokia" model="Nokia C7-00" /><phone id="2588" vendor="HTC" model="HTC Droid Eris" /><phone id="2590" vendor="FLY" model="Fly G1" /><phone id="2591" vendor="HTC" model="HTC Magic" /><phone id="2592" vendor="Nokia" model="Nokia 6131 NFC" /><phone id="2594" vendor="FLY" model="Fly MC220" /><phone id="2600" vendor="Motorola" model="Motorola MB300 Backflip" /><phone id="2601" vendor="Motorola" model="Motorola A555 Devour" /><phone id="2602" vendor="Motorola" model="Motorola MB200 Cliq/Dext" /><phone id="2603" vendor="Motorola" model="Motorola A853 Milestone" /><phone id="2604" vendor="Motorola" model="Motorola XT720 Motoroi" /><phone id="2605" vendor="LG" model="LG GW620 Eve" /><phone id="2606" vendor="LG" model="LG GT540 Optimus/Swift" /><phone id="2607" vendor="Huawei" model="Huawei U8220 Pulse" /><phone id="2608" vendor="Huawei" model="Huawei U8230 RBM2" /><phone id="2609" vendor="Samsung" model="Samsung I5800 Galaxy 3" /><phone id="2610" vendor="Samsung" model="Samsung I5801 Galaxy Apollo" /><phone id="2611" vendor="SonyEricsson" model="SonyEricsson Xperia X3" />
+<phone id="2612" vendor="Nokia" model="Nokia 5228" />
+<phone id="2613" vendor="SonyEricsson" model="Sony Xperia X8" />
+<phone id="2615" vendor="Nokia" model="Nokia C5-01" />
+<phone id="2616" vendor="Nokia" model="Nokia X5-01" />
+<phone id="2620" vendor="FLY" model="Fly E150" />
+<phone id="2622" vendor="HTC" model="HTC A3333 Wildfire" />
+<phone id="2623" vendor="HTC" model="HTC Nexus One" />
+<phone id="2624" vendor="Samsung" model="Samsung I9000 Galaxy S" />
+<phone id="2625" vendor="Acer" model="Acer S100 Liquid" />
+<phone id="2637" vendor="HTC" model="HTC T3320 Touch2" />
+<phone id="2638" vendor="HTC" model="HTC Gemini" />
+<phone id="2640" vendor="SonyEricsson" model="SonyEricsson J108i Cedar" />
+<phone id="2646" vendor="Huawei" model="Huawei U3100" />
+<phone id="2649" vendor="LG" model="LG GX300" />
+<phone id="2650" vendor="LG" model="LG GS500 Cookie Plus" />
+<phone id="2651" vendor="LG" model="LG GX500" />
+<phone id="2652" vendor="LG" model="LG GU230" />
+<phone id="2653" vendor="LG" model="LG GS205" />
+<phone id="2654" vendor="LG" model="LG GT400 Viewty Smile" />
+<phone id="2655" vendor="LG" model="LG GM360" />
+<phone id="2658" vendor="LG" model="LG GX200" />
+<phone id="2661" vendor="LG" model="LG GT350 Town" />
+<phone id="2662" vendor="LG" model="LG KT525" />
+<phone id="2668" vendor="Motorola" model="Motorola A855 Droid" />
+<phone id="2669" vendor="Samsung" model="Samsung T939 Behold 2" />
+<phone id="2670" vendor="SonyEricsson" model="SonyEricsson P200i Paris" />
+<phone id="2671" vendor="HTC" model="HTC 9090 Blue Angel" />
+<phone id="2677" vendor="HTC" model="HTC ADR6300 Incredible" />
+<phone id="2678" vendor="Motorola" model="Motorola RIZR Z10" />
+<phone id="2682" vendor="Samsung" model="Samsung I8320" />
+<phone id="2684" vendor="Samsung" model="Samsung S5320 Star" />
+<phone id="2685" vendor="LG" model="LG GM750 Layla" />
+<phone id="2686" vendor="LG" model="LG VS740 Ally" />
+<phone id="2687" vendor="Motorola" model="Motorola i1 Opus One" />
+<phone id="2688" vendor="LG" model="LG VX9700 Dare" />
+<phone id="2690" vendor="LG" model="LG VX9400" />
+<phone id="2691" vendor="Nokia" model="Nokia 2322 Classic" />
+<phone id="2692" vendor="Nokia" model="Nokia 2332 Classic" />
+<phone id="2697" vendor="LG" model="LG VX5600 Accolade" />
+<phone id="2698" vendor="LG" model="LG MG280" />
+<phone id="2699" vendor="LG" model="LG KG210" />
+<phone id="2700" vendor="LG" model="LG KS365" />
+<phone id="2701" vendor="LG" model="LG LX610 Lotus Elite" />
+<phone id="2702" vendor="LG" model="LG GW305" />
+<phone id="2703" vendor="LG" model="LG MU500" />
+<phone id="2704" vendor="LG" model="LG VX8550" />
+<phone id="2705" vendor="LG" model="LG 265 Script" />
+<phone id="2706" vendor="LG" model="LG GB165" />
+<phone id="2707" vendor="LG" model="LG GM210" />
+<phone id="2708" vendor="LG" model="LG GS390 Prime" />
+<phone id="2709" vendor="LG" model="LG U370" />
+<phone id="2710" vendor="LG" model="LG T300 Cookie" />
+<phone id="2711" vendor="LG" model="LG GB175" />
+<phone id="2712" vendor="LG" model="LG MX505" />
+<phone id="2713" vendor="LG" model="LG AX310" />
+<phone id="2714" vendor="LG" model="LG MG120" />
+<phone id="2715" vendor="LG" model="LG TU720 Shine" />
+<phone id="2717" vendor="LG" model="LG KD876" />
+<phone id="2718" vendor="LG" model="LG KM570 Cookie Music" />
+<phone id="2719" vendor="LG" model="LG KP505" />
+<phone id="2720" vendor="LG" model="LG MG200" />
+<phone id="2721" vendor="LG" model="LG MG235" />
+<phone id="2724" vendor="LG" model="LG U830" />
+<phone id="2727" vendor="SonyEricsson" model="SonyEricsson T123i" />
+<phone id="2728" vendor="Motorola" model="Motorola VE20" />
+<phone id="2729" vendor="Motorola" model="Motorola W755" />
+<phone id="2730" vendor="Motorola" model="Motorola WX404 Grasp" />
+<phone id="2731" vendor="Motorola" model="Motorola ROKR EM35" />
+<phone id="2732" vendor="Motorola" model="Motorola W403" />
+<phone id="2733" vendor="Motorola" model="Motorola WX295" />
+<phone id="2734" vendor="LG" model="LG KE520" />
+<phone id="2735" vendor="LG" model="LG GW820 eXpo" />
+<phone id="2736" vendor="Samsung" model="Samsung C5010" />
+<phone id="2737" vendor="Samsung" model="Samsung E2550 Monte Slider" />
+<phone id="2738" vendor="Nokia" model="Nokia X3-02" />
+<phone id="2740" vendor="Pantech" model="Pantech P7040" />
+<phone id="2743" vendor="Sagem" model="Sagem my401Z" />
+<phone id="2744" vendor="Sagem" model="Sagem VF540" />
+<phone id="2745" vendor="Samsung" model="Samsung C3200 Monte Bar" />
+<phone id="2746" vendor="Samsung" model="Samsung E2152 Duos Lite" />
+<phone id="2747" vendor="Samsung" model="Samsung C3303" />
+<phone id="2748" vendor="Samsung" model="Samsung E2370 Xcover" />
+<phone id="2749" vendor="Samsung" model="Samsung B7722" />
+<phone id="2750" vendor="Samsung" model="Samsung S5250 Wave 2" />
+<phone id="2751" vendor="Samsung" model="Samsung T359 Smiley" />
+<phone id="2752" vendor="Samsung" model="Samsung B7350 Omnia PRO 4" />
+<phone id="2753" vendor="Samsung" model="Samsung T669 Gravity T" />
+<phone id="2754" vendor="Samsung" model="Samsung W259" />
+<phone id="2760" vendor="Samsung" model="Samsung A687 Strive" />
+<phone id="2761" vendor="Samsung" model="Samsung S5628" />
+<phone id="2762" vendor="LG" model="LG KP550 Rip Curl" />
+<phone id="2764" vendor="Toshiba" model="Toshiba G500" />
+<phone id="2765" vendor="Vodafone" model="Vodafone 546" />
+<phone id="2766" vendor="Vodafone" model="Vodafone 547" />
+<phone id="2768" vendor="Vodafone" model="Vodafone 543" />
+<phone id="2776" vendor="Acer" model="Acer E110 beTouch" />
+<phone id="2780" vendor="Alcatel" model="Alcatel OT 255" />
+<phone id="2781" vendor="Alcatel" model="Alcatel OT 508" />
+<phone id="2783" vendor="BlackBerry" model="BlackBerry 9800 Torch" />
+<phone id="2784" vendor="BlackBerry" model="BlackBerry 9300 Curve 3G" />
+<phone id="2788" vendor="Huawei" model="Huawei U3205 Pulso" />
+<phone id="2789" vendor="Huawei" model="Huawei G7002" />
+<phone id="2790" vendor="Huawei" model="Huawei U3311" />
+<phone id="2792" vendor="LG" model="LG LN510 Rumor" />
+<phone id="2793" vendor="LG" model="LG LX370" />
+<phone id="2794" vendor="LG" model="LG AX830 Glimmer" />
+<phone id="2795" vendor="LG" model="LG GM630" />
+<phone id="2796" vendor="LG" model="LG C100" />
+<phone id="2797" vendor="LG" model="LG A133" />
+<phone id="2798" vendor="LG" model="LG KT610" />
+<phone id="2799" vendor="LG" model="LG C1500" />
+<phone id="2801" vendor="LG" model="LG GR501" />
+<phone id="2802" vendor="LG" model="LG KE608" />
+<phone id="2803" vendor="LG" model="LG GM600 Scarlet 2" />
+<phone id="2804" vendor="LG" model="LG CB630" />
+<phone id="2805" vendor="LG" model="LG GD310" />
+<phone id="2806" vendor="Motorola" model="Motorola ZN300" />
+<phone id="2807" vendor="Motorola" model="Motorola W231" />
+<phone id="2808" vendor="Motorola" model="Motorola WX290" />
+<phone id="2809" vendor="Motorola" model="Motorola SLVR V280" />
+<phone id="2810" vendor="Nokia" model="Nokia E7-00" />
+<phone id="2811" vendor="Samsung" model="Samsung i5500 Galaxy 5" />
+<phone id="2812" vendor="Samsung" model="Samsung S3350 Corby 3G" />
+<phone id="2813" vendor="Samsung" model="Samsung I5510 Galaxy 551" />
+<phone id="2814" vendor="Samsung" model="Samsung E2530" />
+<phone id="2817" vendor="Samsung" model="Samsung S7230 Wave 723" />
+<phone id="2818" vendor="Samsung" model="Samsung B2710 Xcover 271" />
+<phone id="2819" vendor="Samsung" model="Samsung S5330 Wave 2 Pro" />
+<phone id="2820" vendor="Samsung" model="Samsung S5530" />
+<phone id="2821" vendor="Samsung" model="Samsung I8330" />
+<phone id="2823" vendor="Samsung" model="Samsung S9110" />
+<phone id="2824" vendor="Samsung" model="Samsung I7410" />
+<phone id="2825" vendor="Samsung" model="Samsung C5110" />
+<phone id="2826" vendor="NEC" model="NEC C228" />
+<phone id="2827" vendor="Panasonic" model="Panasonic MX6" />
+<phone id="2833" vendor="BlackBerry" model="BlackBerry 9330 Curve" />
+<phone id="2834" vendor="HTC" model="HTC P5310 Neon" />
+<phone id="2835" vendor="HTC" model="HTC S630 Cavalier" />
+<phone id="2836" vendor="Nokia" model="Nokia C5-03" />
+<phone id="2839" vendor="Motorola" model="Motorola U3 PEBL" />
+<phone id="2840" vendor="LG" model="LG KS500" />
+<phone id="2841" vendor="LG" model="LG KT770" />
+<phone id="2842" vendor="Nokia" model="Nokia C3-01" />
+<phone id="2844" vendor="Samsung" model="Samsung C3222" />
+<phone id="2848" vendor="Motorola" model="Motorola EX115" />
+<phone id="2849" vendor="Motorola" model="Motorola EX300" />
+<phone id="2851" vendor="SonyEricsson" model="SonyEricsson K758i" />
+<phone id="2853" vendor="SonyEricsson" model="SonyEricsson W618i" />
+<phone id="2865" vendor="LG" model="LG KP330" />
+<phone id="2866" vendor="LG" model="LG LX265" />
+<phone id="2867" vendor="LG" model="LG U250" />
+<phone id="2868" vendor="LG" model="LG U450" />
+<phone id="2869" vendor="LG" model="LG U990" />
+<phone id="2870" vendor="Samsung" model="Samsung D810" />
+<phone id="2871" vendor="Samsung" model="Samsung E388" />
+<phone id="2872" vendor="Samsung" model="Samsung E788" />
+<phone id="2874" vendor="Samsung" model="Samsung T709" />
+<phone id="2875" vendor="Samsung" model="Samsung U540" />
+<phone id="2876" vendor="Samsung" model="Samsung Z700" />
+<phone id="2879" vendor="Nokia" model="Nokia C2-00" />
+<phone id="2889" vendor="LG" model="LG KM710" />
+<phone id="2890" vendor="Motorola" model="Motorola ROKR E3" />
+<phone id="2891" vendor="Samsung" model="Samsung M6710 Beat DISC" />
+<phone id="2892" vendor="Samsung" model="Samsung S5630" />
+<phone id="2893" vendor="Samsung" model="Samsung S5750 Wave 575" />
+<phone id="2894" vendor="Samsung" model="Samsung S8530 Wave II" />
+<phone id="2895" vendor="FLY" model="Fly ST230" />
+<phone id="2897" vendor="FLY" model="Fly MC175 DS" />
+<phone id="2898" vendor="FLY" model="Fly DS186" />
+<phone id="2899" vendor="Samsung" model="Samsung S5253 Wave 525" />
+<phone id="2900" vendor="Samsung" model="Samsung S5333" />
+<phone id="2901" vendor="Samsung" model="Samsung S7233 Wave 723" />
+<phone id="2902" vendor="Samsung" model="Samsung C3530" />
+<phone id="2904" vendor="Samsung" model="Samsung T369" />
+<phone id="2905" vendor="Samsung" model="Samsung D988" />
+<phone id="2906" vendor="Siemens" model="Siemens CT66" />
+<phone id="2907" vendor="Samsung" model="Samsung A257 Magnet" />
+<phone id="2908" vendor="Samsung" model="Samsung A187" />
+<phone id="2909" vendor="Samsung" model="Samsung A927 Flight II" />
+<phone id="2910" vendor="Samsung" model="Samsung T139 Mayon" />
+<phone id="2911" vendor="LG" model="LG ME500" />
+<phone id="2912" vendor="Samsung" model="Samsung A847 Rugby II" />
+<phone id="2913" vendor="LG" model="LG ME540" />
+<phone id="2915" vendor="LG" model="LG MG800" />
+<phone id="2917" vendor="LG" model="LG U8210" />
+<phone id="2920" vendor="Samsung" model="Samsung i760" />
+<phone id="2921" vendor="LG" model="LG CG300" />
+<phone id="2922" vendor="LG" model="LG CE500" />
+<phone id="2923" vendor="LG" model="LG CE110" />
+<phone id="2924" vendor="LG" model="LG F9100" />
+<phone id="2925" vendor="LG" model="LG L1200" />
+<phone id="2926" vendor="LG" model="LG LX160" />
+<phone id="2927" vendor="LG" model="LG LX550 Fusic" />
+<phone id="2928" vendor="LG" model="LG LX350" />
+<phone id="2929" vendor="LG" model="LG VX9900 enV" />
+<phone id="2930" vendor="LG" model="LG PM325" />
+<phone id="2931" vendor="LG" model="LG PM225" />
+<phone id="2932" vendor="Samsung" model="Samsung D347" />
+<phone id="2933" vendor="Samsung" model="Samsung D307" />
+<phone id="2934" vendor="Motorola" model="Motorola IC902" />
+<phone id="2935" vendor="Samsung" model="Samsung D407" />
+<phone id="2936" vendor="Samsung" model="Samsung D357" />
+<phone id="2937" vendor="Nokia" model="Nokia X2-01" />
+<phone id="2938" vendor="Motorola" model="Motorola RAZR2 V9x" />
+<phone id="2939" vendor="LG" model="LG F9200" />
+<phone id="2942" vendor="Samsung" model="Samsung i601" />
+<phone id="2943" vendor="Samsung" model="Samsung A570" />
+<phone id="2944" vendor="Samsung" model="Samsung A560" />
+<phone id="2945" vendor="Samsung" model="Samsung A501" />
+<phone id="2946" vendor="Samsung" model="Samsung R800 Delve" />
+<phone id="2947" vendor="Motorola" model="Motorola V191" />
+<phone id="2948" vendor="Samsung" model="Samsung A600" />
+<phone id="2949" vendor="Samsung" model="Samsung A620" />
+<phone id="2950" vendor="Samsung" model="Samsung A630" />
+<phone id="2951" vendor="Samsung" model="Samsung A650" />
+<phone id="2952" vendor="Samsung" model="Samsung A660" />
+<phone id="2953" vendor="Samsung" model="Samsung A670" />
+<phone id="2954" vendor="Samsung" model="Samsung A760" />
+<phone id="2955" vendor="Samsung" model="Samsung A850" />
+<phone id="2956" vendor="Samsung" model="Samsung A880" />
+<phone id="2957" vendor="Samsung" model="Samsung A890" />
+<phone id="2958" vendor="Samsung" model="Samsung A940" />
+<phone id="2959" vendor="Motorola" model="Motorola IC402" />
+<phone id="2960" vendor="Alcatel" model="Alcatel OT 606 Chat" />
+<phone id="2961" vendor="Alcatel" model="Alcatel OT 710" />
+<phone id="2962" vendor="Alcatel" model="Alcatel OT 909 MAX" />
+<phone id="2963" vendor="Alcatel" model="Alcatel OT 300" />
+<phone id="2969" vendor="HTC" model="НТС Prophet" />
+<phone id="2970" vendor="HTC" model="HTC P3451 Touch" />
+<phone id="2976" vendor="LG" model="LG LX150" />
+<phone id="2977" vendor="Motorola" model="Motorola Q8" />
+<phone id="2978" vendor="Samsung" model="Samsung I770 Saga" />
+<phone id="2979" vendor="LG" model="LG T320 Cookie Style" />
+<phone id="2980" vendor="LG" model="LG T310 Cookie 3G" />
+<phone id="2981" vendor="LG" model="LG GW370 Rumour Plus" />
+<phone id="2982" vendor="LG" model="LG CF750 Secret" />
+<phone id="2983" vendor="LG" model="LG KU830" />
+<phone id="2984" vendor="LG" model="LG KP15xQ" />
+<phone id="2985" vendor="LG" model="LG S310" />
+<phone id="2986" vendor="LG" model="LG P520" />
+<phone id="2987" vendor="LG" model="LG C105" />
+<phone id="2988" vendor="LG" model="LG VX11000 enV Touch" />
+<phone id="2989" vendor="LG" model="LG MG296" />
+<phone id="2990" vendor="LG" model="LG GB280" />
+<phone id="2991" vendor="LG" model="LG BL42 New Chocolate" />
+<phone id="2992" vendor="LG" model="LG MG295" />
+<phone id="2994" vendor="LG" model="LG C300" />
+<phone id="2996" vendor="LG" model="LG 3300" />
+<phone id="2997" vendor="LG" model="LG GT550" />
+<phone id="2998" vendor="LG" model="LG KF301" />
+<phone id="2999" vendor="LG" model="LG KG77" />
+<phone id="3000" vendor="LG" model="LG VN250 Cosmos" />
+<phone id="3001" vendor="LG" model="LG GW550" />
+<phone id="3008" vendor="Lenovo" model="Lenovo A332" />
+<phone id="3011" vendor="Pantech" model="Pantech P4000" />
+<phone id="3012" vendor="Samsung" model="Samsung C3630" />
+<phone id="3014" vendor="Samsung" model="Samsung I220 Code" />
+<phone id="3015" vendor="Samsung" model="Samsung R900" />
+<phone id="3016" vendor="Samsung" model="Samsung R561" />
+<phone id="3017" vendor="Samsung" model="Samsung R100 Stunt" />
+<phone id="3018" vendor="Samsung" model="Samsung T249" />
+<phone id="3019" vendor="Samsung" model="Samsung M350 Seek" />
+<phone id="3020" vendor="Samsung" model="Samsung R351 Freeform" />
+<phone id="3021" vendor="Samsung" model="Samsung A817 Solstice II" />
+<phone id="3022" vendor="Samsung" model="Samsung T301" />
+<phone id="3023" vendor="Samsung" model="Samsung T746 Impact" />
+<phone id="3024" vendor="Toshiba" model="Toshiba TS921" />
+<phone id="3025" vendor="Motorola" model="Motorola QA1 Karma" />
+<phone id="3028" vendor="ZTE" model="ZTE S213" />
+<phone id="3029" vendor="ZTE" model="ZTE F100" />
+<phone id="3030" vendor="ZTE" model="ZTE T100" />
+<phone id="3031" vendor="ZTE" model="ZTE R230" />
+<phone id="3032" vendor="ZTE" model="ZTE R221" />
+<phone id="3033" vendor="ZTE" model="ZTE R100" />
+<phone id="3034" vendor="ZTE" model="ZTE F102" />
+<phone id="3035" vendor="ZTE" model="ZTE F188" />
+<phone id="3036" vendor="ZTE" model="ZTE E520" />
+<phone id="3037" vendor="ZTE" model="ZTE X760" />
+<phone id="3038" vendor="ZTE" model="ZTE R220" />
+<phone id="3040" vendor="ZTE" model="ZTE R6" />
+<phone id="3041" vendor="ZTE" model="ZTE X991 Orange Rio" />
+<phone id="3042" vendor="ZTE" model="ZTE V8301" />
+<phone id="3043" vendor="ZTE" model="ZTE F101" />
+<phone id="3044" vendor="ZTE" model="ZTE F912" />
+<phone id="3045" vendor="ZTE" model="ZTE T930" />
+<phone id="3046" vendor="Nokia" model="Nokia 2692" />
+<phone id="3047" vendor="Nokia" model="Nokia 6316" />
+<phone id="3049" vendor="FLY" model="Fly MC180" />
+<phone id="3052" vendor="LG" model="LG GS170" />
+<phone id="3053" vendor="LG" model="LG X330" />
+<phone id="3054" vendor="LG" model="LG F2250" />
+<phone id="3055" vendor="LG" model="LG C305" />
+<phone id="3056" vendor="LG" model="LG A140" />
+<phone id="3057" vendor="LG" model="LG ME770" />
+<phone id="3058" vendor="LG" model="LG MX8500" />
+<phone id="3060" vendor="Nokia" model="Nokia 3320" />
+<phone id="3061" vendor="Nokia" model="Nokia C2-01" />
+<phone id="3062" vendor="Nokia" model="Nokia E76" />
+<phone id="3063" vendor="SonyEricsson" model="SonyEricsson A8i" />
+<phone id="3064" vendor="LG" model="LG G7200" />
+<phone id="3066" vendor="LG" model="LG M4300" />
+<phone id="3067" vendor="LG" model="LG LN240" />
+<phone id="3069" vendor="LG" model="LG ME830" />
+<phone id="3070" vendor="LG" model="LG MS25" />
+<phone id="3071" vendor="LG" model="LG TU915" />
+	</phones>
+		<media_formats>
+			<media_format id="2" name="games" code_mask="xxxxgj49" code_mask_old="xxxx49" />
+		</media_formats>
+	<format_instances>
+				<format_instance id="252" mf_id="2" sg_id="250" />
+			<format_instance id="302" mf_id="2" sg_id="300" />
+			<format_instance id="52" mf_id="2" sg_id="50" />
+			<format_instance id="402" mf_id="2" sg_id="400" />
+			<format_instance id="202" mf_id="2" sg_id="200" />
+			<format_instance id="102" mf_id="2" sg_id="100" />
+			</format_instances>
+				<genres>
+				<genre id="9" name="Программы"/>
+				<genre id="7" name="Аркады"/>
+				<genre id="2" name="Логические"/>
+				<genre id="20" name="3D игры"/>
+				<genre id="31" name="Волшебный мир Диснея"/>
+				<genre id="5" name="Стрелялки"/>
+				<genre id="8" name="Гонки"/>
+				<genre id="4" name="Спорт"/>
+				<genre id="10" name="Драки"/>
+				<genre id="12" name="Азартные"/>
+				<genre id="1" name="Action"/>
+				<genre id="6" name="Настольные"/>
+				<genre id="28" name="RPG"/>
+				<genre id="11" name="Стратегии"/>
+				<genre id="23" name="Слайдшоу"/>
+				<genre id="15" name="Квесты"/>
+				<genre id="22" name="Сетевые игры"/>
+				<genre id="35" name="Сборники SMS"/>
+				<genre id="21" name="Книги"/>
+				<genre id="26" name="Шпаргалки"/>
+				<genre id="33" name="Flash-lite"/>
+				<genre id="29" name="Symbian"/>
+				<genre id="34" name="Комиксы"/>
+				<genre id="37" name="HD игры"/>
+				<genre id="38" name="&quot;Живые&quot; обои"/>
+			</genres>
+	<items>
+	  <item id="1" name="Биоритмы" genre_id="9" supported_phones="1,3,5,6,7,8,9,11,12,13,25,26,27,28,29,30,34,51,52,61,62,69,70,73,74,88,95,96,97,107,108,153,154,155,183,184,185,186,187,190,191,192,196,199,204,216,222,323,359,519,520,529,531,532,554,555,573,665,670,773,796,797,989,995,997,1014,1068,1416,1525,2297,2298,2300,2304,2316,2378,2379,2384,2387,2506,2733,2808,2839,2906,2947,2959,3060" fi_ids="252"><description><![CDATA[Это полезнейшее приложение поможет вам узнать, как настроены биоритмы вашего организма в любой день – просто введите свою дату рождения! Ваша жизнь подчинена трем биоритмам – физическому, эмоциональному и интеллектуальному, и эта программа покажет вам уровень каждого из них. От того, насколько сильны вы духом или сердцем, зависит многое. Живите современно!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/1_def.gif"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/1.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/00001_162953010140fb9a827a681.gif"/><screenshot url="http://img.playfon.ru/preview/gameimages/00001_182536364840fb9a827c1de.gif"/></screenshots></item>
+	  <item id="2" name="Искатель Приключений" genre_id="7" supported_phones="1,3,5,6,8,13,25,26,27,28,29,30,33,34,51,52,61,62,69,70,97,107,108,109,110,153,156,157,183,184,185,186,187,222,272,323,324,327,359,383,407,485,519,520,827,995,3060" fi_ids="252"><description><![CDATA[Больше всего на свете герой этой игры, маленькая летучая мышь, любит драгоценные камни и приключения. Он готов на все ради того, чтобы набить карманы бриллиантами, даже отправиться в негостеприимные края, полные опасных монстров. Ему предстоит пройти 16 различных уровней, и на каждом из них собрать все самоцветы, разнообразные бонусы и не попасться чудовищам.<br/>Одна из первых мобильных аркад предлагает вам классический геймплей и прекрасное звуковое сопровождение!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/2_web_146588293342c5485774fa0.gif"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/2.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/00002_64825389340fb9a6ca5e0e.gif"/></screenshots></item>
+	  <item id="4" name="Блоки" genre_id="2" supported_phones="3,5,6,7,8,25,26,27,28,29,34,51,61,62,69,70,95,96,97,153,154,155,183,184,185,186,187,190,191,192,196,323,359,519,520,529,531,532,670,995,997,1068,3060" fi_ids="252"><description><![CDATA[Это простая и великая игра на все времена! В новой версии нетленного «Тетриса» сложность возрастает с каждым новым уровнем и появляются новые неожиданные трудности, которые прибавляют классическому складыванию блоков разных форм в линии дополнительного азарта! Выполненная в двух вариантах – цветном и монохромном эта игра с легкостью установится даже на самый старый телефон!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/4_web_105303179742c547309d674.gif"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/4.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/00004_16314072240fb9a835d033.gif"/><screenshot url="http://img.playfon.ru/preview/gameimages/00004_89053845840fb9a8361e62.gif"/></screenshots></item>
+	  <item id="8" name="Вечеринки выпускников" genre_id="7" supported_phones="3,5,6,8,9,11,12,25,26,27,28,29,31,32,33,34,36,38,41,43,45,46,47,48,51,53,55,56,60,61,62,66,68,69,70,71,72,73,74,75,77,78,81,82,83,84,88,90,97,99,100,104,106,109,110,122,136,138,144,149,150,151,153,156,157,161,162,163,164,167,169,175,176,177,178,180,182,183,184,185,186,187,197,198,199,200,204,208,209,210,211,212,213,216,217,218,220,223,225,229,230,235,236,241,242,243,246,248,249,250,252,253,257,258,261,262,263,265,267,271,272,274,275,287,288,293,294,297,301,302,303,304,305,306,307,309,311,312,314,315,316,317,318,319,320,321,322,323,324,325,327,328,332,333,334,335,336,342,343,344,346,347,348,349,350,353,354,359,360,363,364,370,371,372,373,375,379,380,382,383,384,386,387,388,389,392,393,394,395,396,397,398,404,405,407,408,409,410,412,413,414,415,417,418,419,420,423,424,425,426,428,429,430,438,439,441,442,443,444,445,447,448,450,451,461,462,467,468,469,470,476,477,478,479,480,481,483,485,486,487,489,490,491,493,494,495,496,497,498,499,500,501,502,503,505,506,507,510,511,513,514,518,519,520,523,524,526,527,533,534,535,536,537,538,539,540,541,543,545,546,547,548,549,551,552,553,554,555,556,557,559,560,561,562,563,564,565,570,571,572,573,580,581,582,583,584,585,586,587,588,589,590,591,594,595,598,601,602,603,604,605,606,607,609,611,612,614,615,616,617,618,619,620,621,622,623,629,631,632,633,636,647,651,652,654,657,658,660,661,662,663,664,665,675,678,680,681,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,701,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,719,723,727,729,730,732,735,736,738,739,740,742,744,745,747,748,749,750,751,752,753,755,756,764,765,766,768,769,771,772,773,776,777,780,781,782,783,784,785,786,787,788,789,790,791,792,794,796,797,800,801,802,803,804,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,822,823,824,825,826,827,829,830,831,832,833,839,840,841,843,844,845,846,847,848,849,850,851,852,853,854,857,867,868,869,872,873,875,877,878,879,882,884,885,886,894,896,897,898,899,901,902,903,904,905,906,908,909,911,912,913,914,915,916,917,918,927,928,929,930,931,932,933,934,935,936,937,940,942,944,945,946,948,950,952,953,957,958,960,962,963,964,966,968,969,973,974,975,976,978,979,984,985,987,989,990,992,993,994,995,996,998,1001,1002,1003,1004,1005,1006,1007,1009,1010,1011,1014,1016,1017,1019,1023,1024,1025,1028,1029,1032,1040,1042,1043,1044,1045,1054,1055,1056,1058,1059,1060,1061,1062,1069,1070,1071,1072,1076,1077,1078,1079,1080,1081,1082,1087,1088,1089,1090,1091,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103,1104,1106,1107,1108,1109,1110,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121,1122,1123,1125,1126,1127,1131,1132,1133,1134,1135,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1152,1153,1154,1155,1156,1172,1173,1174,1175,1176,1178,1179,1182,1184,1185,1188,1189,1190,1193,1194,1195,1197,1199,1200,1201,1205,1206,1207,1209,1210,1211,1212,1214,1215,1216,1217,1218,1219,1222,1223,1226,1227,1229,1233,1234,1236,1237,1238,1240,1243,1247,1248,1249,1250,1251,1252,1254,1256,1257,1261,1262,1263,1264,1265,1266,1269,1270,1271,1272,1273,1275,1276,1277,1279,1280,1281,1282,1283,1284,1285,1286,1288,1289,1291,1292,1293,1294,1298,1299,1301,1303,1306,1307,1308,1309,1310,1311,1312,1313,1314,1315,1319,1329,1332,1333,1334,1335,1336,1337,1338,1340,1341,1342,1343,1344,1345,1346,1347,1348,1349,1350,1351,1352,1354,1355,1356,1357,1359,1361,1362,1363,1364,1365,1366,1367,1368,1370,1372,1373,1374,1375,1377,1379,1380,1381,1382,1383,1384,1385,1386,1387,1389,1390,1391,1392,1394,1395,1396,1397,1398,1399,1400,1401,1402,1403,1405,1406,1407,1411,1412,1413,1415,1416,1418,1419,1423,1429,1434,1435,1436,1437,1438,1439,1440,1441,1442,1445,1446,1447,1448,1450,1451,1452,1455,1456,1458,1460,1461,1462,1466,1468,1471,1474,1477,1478,1479,1480,1481,1482,1485,1486,1487,1492,1494,1495,1499,1501,1507,1508,1522,1531,1537,1550,1555,1557,1558,1559,1560,1562,1565,1569,1570,1571,1574,1577,1578,1580,1581,1582,1583,1585,1587,1588,1589,1590,1593,1594,1597,1598,1599,1600,1601,1603,1604,1605,1612,1615,1616,1617,1618,1619,1621,1624,1625,1626,1633,1634,1636,1637,1643,1644,1645,1648,1649,1650,1651,1655,1657,1658,1660,1661,1662,1663,1667,1673,1677,1678,1681,1683,1684,1685,1687,1688,1689,1690,1692,1693,1695,1698,1700,1701,1702,1704,1705,1706,1707,1708,1709,1710,1711,1712,1714,1715,1716,1717,1718,1719,1720,1721,1722,1723,1724,1725,1727,1728,1732,1733,1734,1735,1736,1737,1738,1739,1740,1741,1742,1744,1745,1746,1747,1748,1749,1750,1751,1753,1754,1755,1756,1759,1760,1761,1762,1764,1765,1767,1768,1769,1770,1771,1772,1773,1774,1775,1776,1778,1779,1780,1781,1782,1783,1784,1785,1786,1787,1788,1790,1792,1793,1796,1797,1799,1803,1804,1805,1806,1807,1808,1809,1812,1813,1814,1816,1819,1820,1821,1823,1828,1831,1832,1833,1835,1837,1838,1839,1844,1846,1849,1850,1851,1853,1854,1855,1856,1857,1859,1863,1864,1870,1871,1873,1875,1876,1877,1881,1886,1888,1891,1901,1903,1908,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920,1926,1927,1941,1944,1945,1946,1947,1949,1953,1957,1958,1962,1963,1964,1969,1970,1971,1973,1978,1979,1980,1981,1983,1985,1987,1988,1989,1990,1991,1992,1993,1994,1997,1998,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010,2011,2013,2014,2015,2016,2017,2018,2021,2024,2025,2047,2052,2054,2060,2070,2072,2093,2095,2100,2101,2103,2104,2105,2106,2108,2109,2110,2111,2112,2113,2116,2125,2131,2132,2133,2135,2138,2139,2147,2148,2149,2151,2152,2153,2154,2155,2157,2160,2164,2167,2168,2172,2174,2180,2185,2187,2193,2194,2203,2204,2206,2208,2209,2210,2211,2212,2214,2216,2217,2219,2220,2221,2224,2225,2226,2228,2231,2232,2233,2235,2236,2238,2239,2241,2242,2243,2244,2245,2246,2247,2248,2249,2251,2252,2253,2254,2255,2256,2257,2259,2260,2262,2264,2266,2270,2272,2273,2275,2277,2279,2291,2297,2298,2299,2300,2301,2302,2303,2304,2306,2307,2308,2310,2311,2312,2316,2319,2320,2321,2322,2324,2328,2329,2332,2341,2346,2348,2354,2358,2359,2361,2362,2364,2365,2366,2367,2368,2369,2371,2374,2376,2378,2379,2380,2381,2382,2384,2387,2389,2403,2408,2409,2411,2412,2413,2414,2418,2419,2422,2426,2432,2434,2437,2438,2440,2442,2443,2458,2459,2460,2461,2464,2466,2468,2469,2470,2471,2473,2474,2476,2477,2478,2479,2480,2488,2489,2490,2492,2493,2494,2495,2499,2503,2504,2506,2510,2515,2526,2537,2539,2544,2545,2546,2547,2549,2555,2556,2557,2559,2560,2563,2566,2569,2570,2572,2573,2574,2581,2582,2592,2615,2616,2637,2638,2640,2649,2650,2651,2652,2653,2654,2655,2658,2661,2662,2670,2685,2688,2691,2692,2698,2700,2703,2704,2707,2708,2710,2712,2713,2715,2717,2718,2719,2724,2727,2728,2729,2730,2731,2733,2734,2736,2737,2740,2743,2745,2746,2747,2748,2751,2752,2753,2754,2760,2762,2765,2780,2781,2784,2790,2792,2793,2794,2795,2796,2797,2801,2802,2803,2805,2806,2807,2808,2809,2814,2818,2820,2823,2825,2826,2827,2833,2834,2835,2839,2840,2842,2844,2851,2853,2865,2866,2867,2869,2870,2871,2872,2874,2875,2876,2879,2889,2890,2892,2902,2904,2905,2906,2907,2908,2910,2911,2912,2913,2915,2917,2920,2921,2922,2924,2925,2926,2927,2928,2929,2930,2931,2932,2933,2934,2935,2936,2938,2939,2942,2943,2944,2945,2947,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2963,2969,2970,2976,2978,2979,2980,2981,2982,2983,2985,2986,2987,2989,2990,2991,2992,2996,2997,2998,2999,3000,3012,3014,3015,3016,3017,3018,3019,3020,3022,3029,3030,3031,3032,3033,3034,3035,3038,3040,3041,3042,3043,3046,3052,3054,3056,3057,3058,3060,3061,3062,3064,3066,3069,3070,3071" fi_ids="252"><description><![CDATA[Школьные годы подходят к концу – настало время веселиться на всю катушку! Вас ждёт более 20 самых угарных вечеринок, свидания с девушками и сражения за популярность. Множество разнообразных, но одинаково забавных мини-игр подарят вам отличное настроение и создадут неповторимую атмосферу окончания выпускного класса школы! Вы уже не дети, пора задать жару в этом городке!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/8_web_32033488148fdc94b07544.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/8.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/8_image_63604535248fdc96ce0be5.gif"/></screenshots></item>
+	  <item id="9" name="Halloween: В замке вампира" genre_id="7" supported_phones="1,3,5,6,8,11,13,25,26,27,28,29,30,31,33,34,45,46,47,48,51,52,55,60,61,62,65,66,69,70,71,72,75,77,78,81,82,83,90,97,104,106,107,108,109,110,136,150,151,153,156,157,162,164,169,175,176,177,178,180,182,183,184,185,186,187,200,216,217,218,220,222,223,229,230,241,242,243,246,248,253,258,262,263,267,272,275,294,297,298,301,302,303,304,305,306,307,309,317,318,319,320,321,322,323,324,325,327,328,333,334,335,342,343,344,347,348,349,350,353,359,360,363,370,371,372,373,377,379,382,383,384,386,387,388,389,392,397,404,405,407,408,409,410,414,415,420,425,438,441,442,443,444,445,447,448,461,462,467,468,469,470,477,478,479,485,486,487,493,495,496,497,498,499,500,501,502,503,505,506,507,510,511,518,519,520,523,524,526,527,533,534,535,536,537,538,539,540,541,548,549,551,552,553,554,555,556,557,559,560,570,571,572,581,582,583,584,586,587,588,589,590,591,596,598,601,602,603,604,605,606,607,617,618,619,620,621,622,623,631,632,633,647,652,653,654,656,657,658,662,663,664,678,689,690,693,694,695,696,698,699,715,716,717,719,727,729,730,732,735,736,738,739,740,745,747,751,752,756,757,758,759,760,761,762,764,765,768,771,772,776,780,781,782,783,785,786,787,788,789,792,794,800,802,803,804,806,810,816,818,820,824,826,827,829,830,831,832,840,841,844,845,846,847,848,854,857,868,869,875,878,879,882,885,894,896,897,898,899,901,904,906,908,909,911,913,917,918,927,928,929,930,931,932,936,942,945,946,948,957,958,966,968,970,972,974,976,984,986,992,993,994,995,996,1001,1009,1010,1016,1017,1019,1023,1024,1029,1032,1038,1039,1040,1042,1043,1044,1045,1053,1056,1058,1059,1076,1077,1083,1084,1085,1086,1087,1089,1090,1091,1094,1095,1096,1097,1098,1101,1102,1103,1106,1109,1110,1112,1113,1114,1115,1119,1125,1137,1138,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1153,1154,1155,1156,1157,1158,1159,1160,1176,1179,1182,1184,1185,1186,1189,1193,1194,1195,1200,1201,1206,1218,1226,1229,1233,1240,1248,1249,1251,1252,1256,1261,1263,1266,1271,1272,1273,1276,1279,1280,1281,1288,1298,1301,1307,1311,1313,1314,1315,1317,1321,1322,1323,1325,1331,1334,1336,1339,1340,1341,1342,1343,1345,1346,1348,1356,1364,1366,1370,1372,1379,1380,1382,1383,1386,1392,1394,1395,1397,1398,1400,1401,1402,1403,1407,1414,1419,1423,1445,1446,1447,1448,1450,1452,1455,1460,1461,1462,1468,1474,1479,1480,1481,1485,1489,1501,1503,1506,1507,1508,1509,1513,1531,1537,1550,1560,1565,1570,1571,1574,1577,1578,1580,1581,1582,1585,1587,1588,1589,1594,1597,1598,1599,1600,1601,1602,1603,1604,1605,1612,1615,1616,1621,1624,1625,1634,1636,1637,1643,1644,1645,1648,1650,1655,1657,1658,1660,1661,1662,1663,1677,1678,1681,1685,1688,1692,1693,1695,1698,1700,1705,1707,1708,1709,1710,1715,1721,1722,1723,1725,1733,1734,1738,1741,1742,1744,1745,1746,1747,1751,1754,1755,1756,1761,1763,1768,1769,1770,1771,1772,1774,1775,1776,1778,1780,1781,1782,1785,1786,1787,1790,1793,1803,1805,1807,1808,1809,1812,1821,1823,1828,1831,1832,1834,1838,1839,1844,1850,1851,1853,1855,1856,1859,1863,1864,1870,1871,1873,1881,1886,1888,1901,1903,1910,1912,1920,1979,1993,1994,2005,2007,2011,2015,2017,2021,2024,2025,2047,2052,2054,2072,2101,2105,2106,2109,2110,2111,2112,2116,2125,2151,2152,2153,2154,2157,2172,2174,2187,2194,2197,2203,2204,2205,2210,2211,2212,2214,2216,2220,2221,2224,2228,2231,2232,2233,2236,2245,2246,2252,2254,2255,2257,2259,2262,2273,2279,2299,2303,2306,2307,2308,2310,2311,2312,2315,2319,2320,2321,2341,2342,2354,2362,2365,2366,2367,2368,2380,2381,2382,2389,2403,2408,2411,2412,2413,2418,2419,2420,2421,2422,2423,2442,2443,2458,2459,2460,2461,2464,2466,2470,2473,2474,2480,2492,2503,2504,2526,2537,2541,2544,2546,2547,2548,2549,2555,2556,2559,2560,2581,2582,2594,2620,2640,2697,2703,2713,2727,2728,2729,2730,2731,2734,2743,2745,2747,2751,2753,2754,2760,2764,2768,2796,2797,2806,2809,2818,2820,2823,2825,2851,2853,2865,2867,2870,2871,2872,2874,2875,2890,2892,2895,2897,2898,2902,2904,2905,2907,2908,2911,2912,2913,2915,2917,2927,2933,2934,2938,2945,2956,2957,2958,2987,2990,2992,2998,2999,3018,3019,3022,3024,3029,3030,3031,3033,3034,3035,3036,3037,3040,3043,3044,3045,3049,3052,3057,3060,3064,3066" fi_ids="252"><description><![CDATA[Волшебнику Монти придется использовать всю свою мудрость и заклинания, чтобы преодолеть все 50 комнат ужасающего замка вампира. Отправился он в это страшное место в день Всех Святых, чтобы собрать похищенные главарем нежити, Бароном Клыком, Изумруды Силы. Замок полон опасностей и врагов, в числе которых восставшие из мертвых самураи, призраки, злобоглазы и другие монстры. Комнаты в замке вампира пронизаны защитной магией, поэтому вам придется преодолеть огненные реки лавы, скользкий лед, обрушивающиеся полы и бездонные пропасти. Избегайте препятствий и врагов, применяйте заклинания и собирайте заветные Изумруды. В конце вас ждет встреча с самим Бароном Клыком!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/9_web_118934211948fdd56fa55e8.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/9.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/9_image_119504514148fdd68da190d.gif"/></screenshots></item>
+	  <item id="10" name="Снайпер 3D" genre_id="20" supported_phones="33,55,71,72,75,77,78,81,82,83,106,109,110,122,156,157,162,164,178,223,229,230,241,253,258,272,275,297,301,302,303,304,305,306,307,309,317,318,319,320,321,322,324,327,353,379,383,384,386,387,388,392,407,409,414,415,420,445,447,448,461,467,470,480,481,483,485,486,487,495,498,499,500,501,503,507,511,518,524,526,527,533,537,538,539,540,541,548,549,551,552,553,572,580,581,582,583,584,586,587,588,598,601,602,603,604,605,606,607,632,652,654,657,658,662,663,664,689,690,693,694,695,696,699,716,717,732,735,739,745,747,751,756,765,766,771,772,776,780,781,783,784,785,786,787,788,789,790,791,800,801,802,803,804,810,811,812,813,814,816,817,818,819,820,826,827,829,830,831,832,833,840,841,844,845,848,854,867,868,869,878,882,896,898,899,901,904,906,911,912,913,914,915,916,917,918,927,929,930,931,932,936,946,948,957,958,962,963,964,966,968,974,975,976,979,984,992,993,994,996,998,1001,1009,1016,1017,1019,1023,1032,1040,1042,1043,1044,1045,1054,1055,1056,1059,1060,1061,1062,1069,1070,1071,1072,1076,1077,1078,1079,1080,1081,1082,1087,1088,1089,1090,1091,1094,1095,1096,1097,1098,1101,1102,1103,1106,1109,1110,1112,1113,1114,1115,1119,1125,1126,1127,1131,1132,1133,1134,1135,1137,1138,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1153,1154,1155,1156,1172,1173,1174,1175,1176,1178,1179,1182,1184,1189,1193,1194,1200,1201,1207,1209,1210,1211,1212,1214,1215,1216,1217,1218,1219,1222,1223,1226,1229,1233,1234,1236,1240,1248,1251,1252,1256,1261,1263,1266,1271,1272,1273,1279,1280,1281,1288,1301,1307,1311,1312,1313,1314,1315,1319,1334,1335,1336,1341,1342,1343,1346,1347,1348,1351,1352,1364,1366,1367,1370,1379,1380,1381,1382,1383,1386,1392,1394,1395,1397,1398,1400,1401,1402,1403,1405,1407,1412,1413,1418,1419,1420,1423,1425,1426,1428,1447,1448,1450,1451,1455,1460,1461,1462,1472,1473,1474,1477,1479,1481,1485,1495,1501,1507,1508,1522,1531,1537,1550,1560,1565,1570,1571,1574,1577,1578,1580,1581,1582,1585,1587,1588,1589,1594,1597,1598,1599,1600,1601,1603,1604,1605,1612,1615,1616,1621,1624,1625,1634,1635,1636,1637,1643,1644,1645,1648,1650,1655,1657,1658,1660,1661,1662,1663,1667,1673,1677,1678,1681,1685,1688,1692,1693,1695,1698,1700,1701,1703,1705,1707,1708,1709,1710,1715,1721,1722,1723,1725,1733,1734,1738,1741,1742,1744,1745,1746,1747,1751,1754,1755,1756,1761,1768,1769,1770,1771,1772,1774,1775,1776,1778,1780,1781,1782,1785,1786,1787,1790,1793,1799,1803,1805,1807,1808,1809,1812,1821,1823,1828,1831,1832,1838,1839,1844,1850,1851,1853,1854,1855,1856,1859,1861,1863,1864,1870,1871,1873,1875,1876,1877,1881,1886,1888,1901,1903,1910,1912,1913,1914,1916,1917,1918,1919,1920,2021,2024,2025,2070,2072,2133,2135,2138,2139,2172,2174,2180,2185,2187,2193,2194,2203,2204,2210,2211,2212,2214,2216,2220,2221,2224,2228,2231,2232,2233,2236,2238,2277,2279,2291,2299,2303,2306,2307,2308,2310,2319,2320,2321,2322,2341,2354,2376,2380,2381,2382,2389,2403,2408,2411,2412,2413,2418,2419,2422,2426,2438,2440,2442,2443,2458,2459,2460,2461,2464,2478,2479,2480,2495,2503,2504,2510,2526,2537,2539,2544,2546,2547,2549,2555,2556,2559,2560,2581,2592,2615,2640,2670,2691,2692,2727,2728,2729,2730,2731,2745,2747,2751,2753,2754,2760,2806,2809,2818,2820,2823,2825,2826,2842,2851,2853,2870,2871,2872,2874,2875,2879,2890,2892,2902,2904,2905,2907,2908,2912,2933,2934,2938,2945,2956,2957,2958,3018,3019,3022,3029,3030,3031,3033,3034,3035,3040,3043,3046,3061,3062" fi_ids="252"><description><![CDATA[Сюжет данной игры перенесет вас во времена Великой Отечественной Войны. Вы станете снайпером-профессионалом, привлеченным советскими властями к очень ответственному заданию – освободить заложников и обезвредить сотни врагов. Вас ждет несколько разнообразных секретных операций в различных пунктах, расположенных по всей Европе. Вы – последняя надежда заложников на освобождение. Сможете ли вы спасти невинных жертв этой войны?]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/10_web_186904414548fddd904df55.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/10.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/10_image_18454418048fde07636080.gif"/></screenshots></item>
+	  <item id="11" name="Классный мюзикл 3: Выпускной" genre_id="31" supported_phones="9,11,12,32,33,55,56,60,68,71,72,73,74,75,77,78,81,82,83,88,90,99,104,106,109,110,122,136,138,144,149,150,151,156,157,162,164,167,169,175,176,177,178,180,182,199,200,204,209,210,211,212,213,216,217,218,220,223,225,229,230,241,242,243,245,246,248,249,250,252,253,257,258,261,262,263,267,271,272,275,287,293,297,301,302,303,304,305,306,307,309,311,312,314,315,317,318,319,320,321,322,324,325,327,328,333,334,335,336,342,343,344,346,347,348,349,350,353,354,360,363,364,375,379,380,382,383,384,386,387,388,389,392,393,394,395,396,397,398,404,405,407,408,409,410,414,415,417,418,419,420,423,424,425,428,431,439,441,442,443,444,445,447,448,461,462,467,468,469,470,477,478,479,480,481,483,485,487,490,491,493,494,495,496,497,498,499,500,501,502,503,505,506,507,510,511,513,514,518,523,524,526,527,533,534,535,536,537,538,539,540,541,548,549,551,552,553,554,555,556,557,559,560,561,562,563,564,565,570,571,572,573,580,581,582,583,584,586,587,588,589,590,591,594,595,598,601,602,603,604,605,606,607,609,611,615,616,617,618,619,620,621,622,623,629,631,632,633,634,635,636,647,651,652,654,657,658,662,663,664,665,678,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,719,723,727,729,730,732,735,736,738,739,740,745,747,750,751,752,755,756,764,765,766,769,771,772,773,776,777,780,782,783,784,785,786,787,788,789,790,791,792,794,796,797,801,802,803,804,805,806,810,811,812,813,814,815,817,818,819,820,822,824,825,826,827,829,830,831,832,833,839,840,841,844,845,846,847,848,849,851,852,853,854,862,867,868,869,872,873,874,875,876,877,878,879,882,884,886,896,897,898,899,901,902,903,904,905,906,908,909,911,912,913,914,915,916,917,918,927,928,929,930,931,932,933,934,935,936,937,940,944,945,946,948,949,950,952,953,957,958,960,962,963,964,966,968,973,974,975,976,979,984,987,989,990,992,993,994,996,998,1001,1002,1003,1004,1007,1009,1010,1011,1014,1016,1017,1019,1023,1024,1027,1028,1029,1030,1032,1040,1042,1043,1044,1045,1054,1055,1056,1058,1059,1060,1061,1062,1069,1070,1071,1072,1076,1077,1078,1079,1080,1081,1082,1087,1088,1089,1090,1091,1094,1095,1096,1097,1098,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1112,1113,1114,1115,1119,1120,1121,1122,1123,1125,1126,1127,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1150,1152,1153,1154,1155,1156,1172,1173,1174,1175,1176,1178,1179,1182,1184,1185,1188,1189,1190,1193,1194,1195,1199,1200,1201,1205,1206,1207,1209,1210,1211,1212,1214,1215,1216,1217,1218,1219,1221,1222,1223,1226,1227,1229,1233,1234,1236,1237,1238,1240,1243,1245,1247,1248,1249,1250,1251,1252,1254,1256,1257,1260,1261,1262,1263,1265,1266,1271,1272,1273,1276,1277,1279,1280,1281,1288,1291,1292,1298,1299,1300,1301,1303,1307,1308,1309,1310,1311,1312,1313,1314,1315,1319,1329,1332,1334,1335,1336,1340,1341,1342,1343,1345,1346,1347,1348,1350,1351,1352,1354,1356,1357,1359,1361,1362,1363,1364,1366,1367,1370,1372,1373,1377,1379,1380,1381,1382,1383,1384,1386,1388,1391,1392,1394,1395,1396,1397,1398,1400,1401,1402,1403,1405,1407,1412,1413,1416,1418,1419,1423,1429,1445,1446,1447,1448,1450,1451,1452,1454,1455,1456,1460,1461,1462,1468,1471,1474,1477,1478,1479,1480,1481,1482,1485,1486,1487,1492,1494,1495,1499,1501,1507,1508,1522,1531,1537,1550,1555,1557,1558,1559,1560,1562,1565,1569,1570,1571,1574,1577,1578,1580,1581,1582,1585,1587,1588,1589,1590,1593,1594,1597,1598,1599,1600,1601,1603,1604,1605,1612,1615,1616,1617,1618,1619,1621,1624,1625,1626,1633,1634,1636,1637,1643,1644,1645,1648,1649,1650,1651,1655,1657,1658,1660,1661,1662,1663,1667,1673,1677,1678,1681,1683,1684,1685,1687,1688,1689,1690,1692,1693,1695,1698,1700,1701,1702,1704,1705,1706,1707,1708,1709,1710,1711,1712,1714,1715,1717,1719,1720,1721,1722,1723,1724,1725,1727,1728,1733,1734,1735,1736,1738,1739,1740,1741,1742,1744,1745,1746,1747,1748,1749,1750,1751,1753,1754,1755,1756,1759,1760,1761,1762,1764,1765,1768,1769,1770,1771,1772,1774,1775,1776,1778,1780,1781,1782,1785,1786,1787,1788,1790,1792,1793,1796,1797,1799,1803,1804,1805,1806,1807,1808,1809,1812,1813,1816,1819,1820,1821,1823,1828,1831,1832,1833,1835,1837,1838,1839,1844,1846,1849,1850,1851,1853,1854,1855,1856,1857,1859,1863,1864,1870,1871,1873,1875,1876,1877,1881,1886,1888,1891,1901,1903,1908,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920,1926,1927,1978,1979,1980,1981,1983,1985,1987,1988,1989,1990,1991,1992,1993,1994,1996,1997,1998,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010,2011,2013,2014,2015,2016,2017,2018,2021,2024,2025,2047,2048,2050,2052,2053,2054,2058,2070,2072,2101,2103,2104,2105,2106,2108,2109,2110,2111,2112,2113,2116,2125,2126,2127,2130,2131,2132,2133,2135,2138,2139,2147,2148,2149,2151,2152,2153,2154,2155,2157,2160,2164,2167,2168,2172,2174,2180,2185,2187,2193,2194,2203,2204,2206,2208,2210,2211,2212,2214,2216,2217,2219,2220,2221,2224,2226,2228,2231,2232,2233,2236,2238,2239,2241,2242,2243,2244,2245,2246,2247,2248,2249,2251,2252,2253,2254,2255,2256,2257,2259,2260,2262,2263,2264,2266,2268,2269,2270,2272,2273,2275,2277,2279,2291,2297,2298,2299,2300,2303,2304,2306,2307,2308,2310,2311,2312,2316,2319,2320,2321,2322,2341,2354,2357,2358,2359,2360,2361,2362,2364,2365,2366,2367,2368,2369,2371,2372,2374,2376,2378,2379,2380,2381,2382,2384,2387,2389,2400,2403,2408,2411,2412,2413,2418,2419,2422,2426,2438,2440,2442,2443,2458,2459,2460,2461,2464,2466,2468,2469,2470,2471,2473,2474,2476,2477,2478,2479,2480,2488,2489,2490,2492,2493,2494,2495,2499,2503,2504,2506,2510,2525,2526,2537,2539,2544,2546,2547,2549,2555,2556,2559,2560,2566,2572,2573,2574,2581,2582,2592,2615,2616,2640,2649,2650,2651,2652,2653,2654,2655,2658,2661,2662,2670,2685,2688,2691,2692,2698,2699,2700,2703,2704,2706,2707,2708,2710,2711,2712,2713,2714,2715,2717,2718,2719,2720,2721,2724,2727,2728,2729,2730,2731,2733,2734,2736,2737,2743,2744,2745,2746,2747,2748,2751,2753,2754,2760,2762,2780,2781,2792,2793,2794,2795,2796,2797,2799,2801,2802,2803,2805,2806,2808,2809,2814,2818,2820,2823,2825,2826,2839,2840,2842,2851,2853,2865,2866,2867,2869,2870,2871,2872,2874,2875,2879,2889,2890,2892,2902,2904,2905,2906,2907,2908,2910,2911,2912,2913,2915,2917,2921,2922,2923,2924,2925,2926,2927,2928,2929,2930,2931,2932,2933,2934,2935,2936,2938,2939,2943,2944,2945,2947,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2976,2979,2980,2981,2982,2983,2984,2985,2986,2987,2989,2990,2991,2992,2996,2997,2998,2999,3000,3017,3018,3019,3022,3028,3029,3030,3031,3032,3033,3034,3035,3038,3040,3043,3046,3052,3054,3056,3057,3058,3061,3062,3064,3066,3069,3070,3071" fi_ids="252" isrus="1"><description><![CDATA[Помогите героям своего любимого телесериала закончить их последний год в школе Ист-Хай. Играйте за Троя или Габриеллу – у каждого из них своя сюжетная линия в игре! Вы будете помогать им улучшать навыки и знания, поддерживать хорошие отношения с другими учениками и готовиться к грядущему весеннему мюзиклу. В игре вас ждут две увлекательных мини-игры, две уникальных сюжетных линии и более шести часов захватывающего игрового процесса – скучать не придется! Сделайте этот важный для них год незабываемым для любимых героев!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/11_web_4979645774908509a8b536.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/11.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/11_image_163600301048fdee8506294.gif"/></screenshots></item>
+	  <item id="14" name="Узнай день своей смерти" genre_id="9" supported_phones="12,32,33,55,56,60,68,71,72,73,74,75,77,78,81,82,83,99,104,106,109,110,122,144,156,157,161,162,163,164,178,204,209,210,211,212,213,223,225,229,230,235,236,241,242,246,248,249,250,252,253,257,258,267,271,272,275,287,293,297,301,302,303,304,305,306,307,309,314,315,316,317,318,319,320,321,322,324,325,327,328,336,353,354,360,375,379,380,382,383,384,386,387,388,389,392,396,397,398,404,405,407,408,409,410,414,415,417,418,419,420,423,424,425,428,429,430,445,446,447,448,461,462,467,468,469,470,477,478,479,480,481,483,485,486,490,491,495,498,499,500,501,503,505,507,511,513,514,523,524,526,527,533,537,538,539,540,541,543,545,546,547,548,549,551,552,553,561,562,563,564,565,572,573,580,581,582,583,584,585,586,587,588,598,601,602,603,604,605,606,607,617,618,619,621,622,623,629,631,632,633,636,647,651,652,654,657,658,660,661,662,663,664,665,675,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,719,732,735,736,738,739,740,742,745,747,750,751,752,755,756,765,766,771,772,773,776,777,780,781,782,783,784,785,786,787,788,789,790,791,792,796,797,800,801,802,803,804,810,811,812,813,814,815,816,817,818,819,820,822,825,826,827,828,829,830,831,832,833,839,840,841,844,845,846,847,848,849,851,852,853,854,867,868,869,872,873,875,877,878,879,882,884,886,896,897,898,899,901,902,903,904,905,906,908,909,911,912,913,914,915,916,917,918,927,928,929,930,931,932,933,934,935,936,937,940,944,946,948,950,952,953,957,958,960,962,963,964,966,968,973,974,975,976,979,984,987,989,990,992,993,994,996,998,1001,1002,1007,1009,1010,1011,1014,1016,1017,1019,1023,1028,1029,1032,1040,1042,1043,1044,1045,1054,1055,1056,1058,1059,1060,1061,1062,1069,1070,1071,1072,1076,1077,1078,1079,1080,1081,1082,1087,1088,1089,1090,1091,1094,1095,1096,1097,1098,1100,1101,1102,1103,1104,1106,1107,1109,1110,1112,1113,1114,1115,1119,1120,1121,1122,1123,1125,1126,1127,1130,1131,1132,1133,1134,1135,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1152,1153,1154,1155,1156,1172,1173,1174,1175,1176,1178,1179,1182,1184,1188,1189,1190,1193,1194,1195,1199,1200,1201,1205,1207,1209,1210,1211,1212,1214,1215,1216,1217,1218,1219,1222,1223,1226,1227,1229,1233,1234,1236,1237,1238,1240,1243,1247,1248,1250,1251,1252,1254,1256,1257,1261,1262,1263,1266,1271,1272,1273,1275,1276,1277,1279,1280,1281,1288,1291,1292,1298,1299,1301,1307,1308,1309,1310,1311,1312,1313,1314,1315,1319,1329,1332,1334,1335,1336,1340,1341,1342,1343,1346,1347,1348,1350,1351,1352,1354,1356,1357,1359,1361,1362,1363,1364,1366,1367,1370,1373,1379,1380,1381,1382,1383,1384,1386,1390,1391,1392,1394,1395,1396,1397,1398,1400,1401,1402,1403,1405,1406,1407,1412,1413,1416,1418,1419,1420,1423,1425,1426,1428,1429,1445,1446,1447,1448,1450,1451,1455,1456,1460,1461,1462,1468,1471,1472,1473,1474,1476,1477,1478,1479,1480,1481,1482,1485,1486,1487,1488,1492,1493,1495,1499,1501,1507,1508,1522,1531,1537,1549,1550,1555,1557,1558,1559,1560,1562,1563,1565,1568,1569,1570,1571,1574,1576,1577,1578,1579,1580,1581,1582,1585,1586,1587,1588,1589,1590,1593,1594,1597,1598,1599,1600,1601,1603,1604,1605,1612,1615,1616,1617,1618,1619,1621,1624,1625,1626,1633,1634,1635,1636,1637,1643,1644,1645,1646,1647,1648,1649,1650,1651,1655,1656,1657,1658,1659,1660,1661,1662,1663,1667,1673,1677,1678,1681,1683,1684,1685,1687,1688,1689,1690,1692,1693,1695,1698,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1714,1715,1717,1719,1720,1721,1722,1723,1724,1725,1726,1727,1728,1730,1733,1734,1735,1736,1738,1739,1740,1741,1742,1744,1745,1746,1747,1748,1749,1750,1751,1753,1754,1755,1756,1759,1760,1761,1762,1764,1765,1768,1769,1770,1771,1772,1774,1775,1776,1778,1780,1781,1782,1785,1786,1787,1788,1790,1792,1793,1796,1797,1799,1801,1803,1804,1805,1806,1807,1808,1809,1812,1813,1816,1819,1820,1821,1823,1828,1831,1832,1833,1835,1837,1838,1839,1840,1844,1846,1849,1850,1851,1853,1854,1855,1856,1857,1859,1861,1863,1864,1870,1871,1873,1875,1876,1877,1879,1880,1881,1886,1888,1891,1901,1903,1908,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920,1978,1979,1980,1981,1983,1984,1985,1987,1988,1989,1990,1991,1992,1993,1994,1997,1998,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010,2011,2013,2014,2015,2016,2017,2018,2021,2024,2025,2070,2072,2075,2077,2101,2103,2104,2105,2106,2108,2109,2110,2111,2112,2113,2116,2131,2132,2133,2134,2135,2136,2138,2139,2140,2147,2148,2149,2151,2152,2153,2154,2155,2157,2160,2163,2164,2165,2167,2168,2170,2171,2172,2173,2174,2180,2181,2182,2183,2184,2185,2186,2187,2188,2192,2193,2194,2203,2204,2207,2208,2210,2211,2212,2213,2214,2215,2216,2217,2218,2219,2220,2221,2224,2226,2227,2228,2229,2230,2231,2232,2233,2236,2238,2241,2242,2243,2244,2245,2246,2247,2248,2249,2251,2252,2253,2254,2255,2256,2257,2259,2260,2262,2264,2266,2270,2272,2273,2275,2276,2277,2278,2279,2291,2297,2298,2299,2300,2301,2302,2303,2304,2306,2307,2308,2310,2316,2319,2320,2321,2322,2341,2354,2358,2359,2361,2362,2364,2365,2366,2367,2368,2369,2371,2374,2375,2376,2378,2379,2380,2381,2382,2384,2387,2389,2391,2403,2404,2405,2406,2407,2408,2410,2411,2412,2413,2415,2416,2417,2418,2419,2422,2426,2438,2439,2440,2442,2443,2444,2454,2458,2459,2460,2461,2464,2466,2468,2469,2470,2471,2472,2473,2474,2476,2477,2478,2479,2480,2481,2488,2489,2490,2492,2493,2494,2495,2496,2497,2498,2499,2503,2504,2506,2510,2511,2515,2521,2526,2527,2529,2530,2533,2534,2535,2536,2537,2538,2539,2542,2543,2544,2546,2547,2549,2551,2552,2554,2555,2556,2558,2559,2560,2566,2572,2573,2574,2576,2577,2578,2579,2581,2584,2585,2587,2588,2590,2591,2592,2600,2601,2602,2603,2604,2605,2606,2607,2608,2609,2610,2611,2612,2613,2615,2616,2622,2623,2624,2625,2640,2649,2650,2651,2652,2653,2654,2655,2658,2661,2662,2668,2669,2670,2677,2682,2684,2685,2686,2687,2688,2691,2692,2698,2700,2703,2704,2707,2708,2710,2712,2713,2715,2717,2718,2719,2724,2727,2728,2729,2730,2731,2733,2734,2735,2736,2737,2738,2745,2746,2747,2748,2749,2750,2751,2753,2754,2760,2761,2762,2766,2776,2792,2793,2794,2795,2796,2797,2801,2802,2803,2805,2806,2807,2808,2809,2810,2811,2812,2813,2814,2817,2818,2819,2820,2821,2823,2824,2825,2826,2836,2839,2840,2842,2851,2853,2865,2866,2867,2869,2870,2871,2872,2874,2875,2879,2889,2890,2891,2892,2893,2894,2899,2900,2901,2902,2904,2905,2907,2908,2909,2910,2911,2912,2913,2915,2917,2921,2922,2924,2925,2926,2927,2928,2929,2930,2931,2932,2933,2934,2935,2936,2937,2938,2939,2943,2944,2945,2946,2947,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2976,2979,2980,2981,2982,2983,2985,2986,2987,2988,2989,2990,2991,2992,2996,2997,2998,2999,3000,3008,3011,3017,3018,3019,3021,3022,3023,3029,3030,3031,3032,3033,3034,3035,3038,3040,3043,3046,3047,3052,3054,3056,3057,3058,3061,3062,3063,3064,3066,3069,3070,3071" fi_ids="252" isrus="1"><description><![CDATA[Вы не боитесь заглянуть в будущее? Тогда узнайте день своей смерти! Эта программа основана на научном подходе к расчету продолжительности жизни, ответьте на несколько простых вопросов и узнаете, сколько лет вам осталось прожить. Рискните посмотреть правде в глаза и, может быть, вам откроется секрет о том, как продлить свое время и получить новый шанс на долгую жизнь!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/14_web_146977312248ff146a3d683.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/14.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/14_image_159738459848ff153b801c3.gif"/></screenshots></item>
+	  <item id="15" name="Call of Duty V: Мировая война" genre_id="5" supported_phones="1,3,5,6,7,8,9,11,12,13,25,26,27,28,29,30,32,33,34,51,52,55,56,60,61,62,63,68,69,70,71,72,73,74,75,77,78,81,82,83,84,88,90,95,96,97,99,104,106,107,108,109,110,122,136,138,144,150,151,153,154,155,156,157,161,162,163,164,167,169,175,176,177,178,180,182,183,184,185,186,187,190,191,192,196,199,200,204,209,210,211,212,213,216,217,218,220,222,223,225,229,230,235,236,241,242,243,245,246,248,249,250,252,253,257,258,261,262,263,267,271,272,275,287,288,293,297,301,302,303,304,305,306,307,309,311,312,314,315,316,317,318,319,320,321,322,323,324,325,327,328,333,334,335,336,340,341,342,343,344,346,347,348,349,350,353,354,359,360,363,364,375,379,380,382,383,384,386,387,388,389,392,393,394,395,396,397,398,404,405,407,408,409,410,414,415,417,418,419,420,423,424,425,428,429,430,431,439,441,442,443,444,445,447,448,461,462,467,468,469,470,477,478,479,480,481,483,485,486,487,490,491,493,494,495,496,497,498,499,500,501,502,503,505,506,507,510,511,513,514,518,519,520,522,523,524,526,527,529,531,532,533,534,535,536,537,538,539,540,541,543,545,546,547,548,549,551,552,553,554,555,556,557,559,560,561,562,563,564,565,570,571,572,573,574,575,580,581,582,583,584,586,587,588,589,590,591,594,595,598,601,602,603,604,605,606,607,609,611,615,616,617,618,619,620,621,622,623,629,631,632,633,634,635,636,647,651,652,654,657,658,660,661,662,663,664,665,670,675,678,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,703,704,705,706,707,708,709,710,711,712,713,714,715,716,717,719,727,729,730,732,735,736,738,739,740,742,745,747,749,750,751,752,755,756,764,765,766,769,771,772,773,776,777,780,781,782,783,784,785,786,787,788,789,790,791,792,794,796,797,800,801,802,803,804,805,806,810,811,812,813,814,815,816,817,818,819,820,822,824,825,826,827,829,830,831,832,833,839,840,841,844,845,846,847,848,849,851,852,853,854,857,862,867,868,869,872,873,874,875,876,877,878,879,882,884,885,886,894,896,897,898,899,901,902,903,904,905,906,908,909,911,912,913,914,915,916,917,918,927,928,929,930,931,932,933,934,935,936,937,940,942,944,945,946,948,949,950,952,953,957,958,960,962,963,964,966,968,973,974,975,976,979,984,987,989,990,992,993,994,995,996,997,998,1001,1002,1003,1004,1007,1009,1010,1011,1014,1016,1017,1019,1023,1024,1027,1028,1029,1030,1032,1040,1042,1043,1044,1045,1054,1055,1056,1058,1059,1060,1061,1062,1068,1069,1070,1071,1072,1076,1077,1078,1079,1080,1081,1082,1087,1088,1089,1090,1091,1094,1095,1096,1097,1098,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1119,1120,1121,1122,1123,1125,1126,1127,1131,1132,1133,1134,1135,1136,1137,1138,1139,1140,1141,1142,1143,1144,1145,1146,1147,1148,1149,1150,1152,1153,1154,1155,1156,1172,1173,1174,1175,1176,1178,1179,1182,1184,1185,1188,1189,1190,1193,1194,1195,1199,1200,1201,1205,1206,1207,1209,1210,1211,1212,1214,1215,1216,1217,1218,1219,1221,1222,1223,1226,1227,1229,1233,1234,1236,1237,1238,1240,1243,1245,1247,1248,1249,1250,1251,1252,1254,1256,1257,1260,1261,1262,1263,1265,1266,1269,1270,1271,1272,1273,1275,1276,1277,1279,1280,1281,1282,1283,1284,1285,1286,1288,1291,1292,1294,1298,1299,1300,1301,1303,1306,1307,1308,1309,1310,1311,1312,1313,1314,1315,1319,1329,1330,1332,1333,1334,1335,1336,1337,1338,1340,1341,1342,1343,1345,1346,1347,1348,1350,1351,1352,1354,1356,1357,1359,1361,1362,1363,1364,1366,1367,1370,1372,1373,1377,1378,1379,1380,1381,1382,1383,1384,1386,1388,1390,1391,1392,1394,1395,1396,1397,1398,1400,1401,1402,1403,1405,1406,1407,1411,1412,1413,1415,1416,1418,1419,1420,1423,1424,1425,1426,1428,1429,1432,1444,1445,1446,1447,1448,1449,1450,1451,1452,1453,1454,1455,1456,1458,1460,1461,1462,1466,1468,1471,1472,1473,1474,1477,1478,1479,1480,1481,1482,1485,1486,1487,1488,1492,1493,1494,1495,1497,1499,1501,1507,1508,1522,1531,1537,1549,1550,1555,1557,1558,1559,1560,1562,1563,1565,1568,1569,1570,1571,1574,1576,1577,1578,1579,1580,1581,1582,1585,1586,1587,1588,1589,1590,1593,1594,1597,1598,1599,1600,1601,1603,1604,1605,1609,1612,1613,1615,1616,1617,1618,1619,1621,1624,1625,1626,1633,1634,1635,1636,1637,1639,1643,1644,1645,1646,1647,1648,1649,1650,1651,1655,1656,1657,1658,1659,1660,1661,1662,1663,1667,1673,1677,1678,1681,1683,1684,1685,1687,1688,1689,1690,1692,1693,1695,1698,1700,1701,1702,1703,1704,1705,1706,1707,1708,1709,1710,1711,1712,1714,1715,1717,1719,1720,1721,1722,1723,1724,1725,1726,1727,1728,1730,1733,1734,1735,1736,1738,1739,1740,1741,1742,1744,1745,1746,1747,1748,1749,1750,1751,1753,1754,1755,1756,1759,1760,1761,1762,1764,1765,1768,1769,1770,1771,1772,1774,1775,1776,1778,1780,1781,1782,1783,1785,1786,1787,1788,1790,1792,1793,1795,1796,1797,1799,1801,1803,1804,1805,1806,1807,1808,1809,1812,1813,1816,1819,1820,1821,1823,1828,1831,1832,1833,1835,1837,1838,1839,1840,1844,1846,1849,1850,1851,1853,1854,1855,1856,1857,1859,1861,1862,1863,1864,1870,1871,1873,1875,1876,1877,1878,1879,1880,1881,1886,1888,1891,1901,1903,1908,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1920,1926,1927,1936,1940,1945,1946,1947,1949,1953,1955,1957,1958,1962,1963,1964,1965,1969,1970,1971,1972,1973,1978,1979,1980,1981,1983,1985,1987,1988,1989,1990,1991,1992,1993,1994,1996,1997,1998,2000,2001,2002,2003,2004,2005,2006,2007,2008,2010,2011,2013,2014,2015,2016,2017,2018,2021,2024,2025,2047,2048,2050,2052,2053,2054,2055,2057,2058,2061,2070,2072,2077,2079,2083,2090,2095,2101,2103,2104,2105,2106,2108,2109,2110,2111,2112,2113,2116,2117,2122,2125,2126,2127,2129,2130,2131,2132,2133,2135,2136,2137,2138,2139,2140,2147,2148,2149,2151,2152,2153,2154,2155,2157,2158,2160,2163,2164,2165,2167,2168,2170,2172,2174,2180,2181,2185,2187,2188,2193,2194,2202,2203,2204,2206,2207,2208,2210,2211,2212,2213,2214,2216,2217,2218,2219,2220,2221,2224,2226,2227,2228,2230,2231,2232,2233,2236,2238,2239,2240,2241,2242,2243,2244,2245,2246,2247,2248,2249,2250,2251,2252,2253,2254,2255,2256,2257,2259,2260,2262,2263,2264,2266,2268,2269,2270,2272,2273,2275,2277,2279,2291,2297,2298,2299,2300,2301,2302,2303,2304,2306,2307,2308,2310,2311,2312,2316,2319,2320,2321,2322,2327,2330,2332,2335,2337,2339,2341,2344,2346,2347,2348,2349,2352,2353,2354,2357,2358,2359,2360,2361,2362,2364,2365,2366,2367,2368,2369,2371,2372,2374,2376,2377,2378,2379,2380,2381,2382,2383,2384,2387,2389,2391,2399,2400,2403,2404,2405,2406,2407,2408,2410,2411,2412,2413,2415,2416,2417,2418,2419,2422,2426,2431,2432,2434,2435,2436,2437,2438,2439,2440,2442,2443,2454,2458,2459,2460,2461,2464,2466,2468,2469,2470,2471,2473,2474,2475,2476,2477,2478,2479,2480,2488,2489,2490,2491,2492,2493,2494,2495,2499,2503,2504,2505,2506,2509,2510,2515,2525,2526,2527,2537,2538,2539,2542,2543,2544,2546,2547,2549,2552,2554,2555,2556,2558,2559,2560,2563,2566,2569,2570,2572,2573,2574,2576,2577,2581,2582,2592,2615,2616,2637,2638,2640,2646,2649,2650,2651,2652,2653,2654,2655,2658,2661,2662,2670,2671,2678,2684,2685,2688,2690,2691,2692,2698,2699,2700,2701,2702,2703,2704,2705,2706,2707,2708,2709,2710,2711,2712,2713,2714,2715,2717,2718,2719,2720,2721,2724,2727,2728,2729,2730,2731,2732,2733,2734,2736,2737,2738,2743,2744,2745,2746,2747,2748,2749,2750,2751,2753,2754,2760,2761,2762,2766,2780,2781,2783,2788,2789,2790,2792,2793,2794,2795,2796,2797,2798,2799,2801,2802,2803,2804,2805,2806,2807,2808,2809,2812,2814,2818,2819,2820,2823,2824,2825,2826,2834,2835,2839,2840,2841,2842,2848,2849,2851,2853,2865,2866,2867,2868,2869,2870,2871,2872,2874,2875,2879,2889,2890,2891,2892,2893,2899,2900,2901,2902,2904,2905,2906,2907,2908,2909,2910,2911,2912,2913,2915,2917,2921,2922,2923,2924,2925,2926,2927,2928,2929,2930,2931,2932,2933,2934,2935,2936,2938,2939,2943,2944,2945,2946,2947,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2969,2970,2976,2977,2979,2980,2981,2982,2983,2984,2985,2986,2987,2989,2990,2991,2992,2994,2996,2997,2998,2999,3000,3001,3008,3011,3017,3018,3019,3021,3022,3023,3025,3028,3029,3030,3031,3032,3033,3034,3035,3038,3040,3043,3046,3047,3052,3053,3054,3055,3056,3057,3058,3060,3061,3062,3064,3066,3067,3069,3070,3071" fi_ids="252"><description><![CDATA[Ведите свой отряд к победе в смертельной схватке, которая может изменить историю! Эта игра из одной из лучших серии шутеров возвращает вас к событиям Второй Мировой войны. Сражайтесь против японских и немецких войск, выполняя разнообразные миссии, такие как рейды, шпионаж и боевые операции. Вас ждут реалистичные военные приключения, драматические события и кинематографический сюжет! Выживите в кульминационных сражениях Второй Мировой войны, приведших к поражению фашистов на европейских и тихоокеанских фронтах. Уничтожайте сооружения врага, участвуйте в воздушных боях и используйте новое смертельное оружие, например, огнеметы! Победа зависит только от вас!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/15_web_99966747348ff2a9e22e50.jpg"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/15.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/15_image_132281574248ff2b473e623.gif"/></screenshots></item>
+	  <item id="16" name="Гонки" genre_id="8" supported_phones="1,3,5,6,8,11,12,13,25,26,27,28,29,30,31,34,45,46,47,48,51,52,61,62,66,69,70,73,74,97,107,108,153,183,184,185,186,187,204,216,222,294,323,359,370,371,372,373,438,519,520,554,555,573,665,768,773,796,797,989,995,1014,1416,1525,2297,2298,2300,2304,2316,2378,2379,2384,2387,2506,2733,2808,2839,2947,2959,3060" fi_ids="252"><description><![CDATA[Вас ждут гонки класса Формула-1 на сумасшедшей скорости! Промчитесь по любимой трассе или участвуйте  в соревнованиях на вылет. Хватайте свой шлем, запрыгивайте в болид и мчитесь к победе. Множество сложных трасс с коварными изгибами и поворотами доставят вам немало неприятностей, да и оппоненты не дадут вам спуска – они тоже хотят стать чемпионами! Только ваше непревзойденное мастерство автогонщика поможет вам одержать победу во всех заездах чемпионата и разблокировать особый секретный уровень!]]></description><screenshots><screenshot default="1" url="http://img.playfon.ru/preview/gameimages/16_web_188566406042c54e6ab9692.gif"/><screenshot small="1" url="http://wapg.playfon.ru/i/s/16.jpg"/><screenshot url="http://img.playfon.ru/preview/gameimages/00016_157983714140fb9acaab97e.gif"/></screenshots></item>
+	</items>
+</catalog>

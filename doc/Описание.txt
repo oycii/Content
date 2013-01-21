@@ -1,0 +1,90 @@
+Здравствуйте!
+
+ Наша компания предоставляет возможность экспорта XML в новом формате.
+
+ Про существующий сейчас XML.
+
+ Выгрузки в XML существовавшие ранее game2xml, image2xml, melodies2xml
+ -  останутся  неизменными.  Если у Вас есть необходимость нет желания
+ переходить  на  новый  XML, вы можете продолжать пользоваться старым.
+ НО  все  новые  виды контента будут появляться только в новом формате
+ (video, themes)
+
+ Новый XML. Чем он лучше?
+       *  Больше  информации  о  сервисах  компании.  Список  операторов  с
+их
+ логотипами, сервисными номерами и их ценами.
+       *  Для мелодий все возможные форматы в одном экспорте.
+       *  Значительно меньше размер выгрузки
+
+ Ссылки на новый XML
+ Игры
+http://wwwg.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Мелодии
+http://wwwm.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Картинки
+http://wwwi.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Видео
+http://wwwv.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Темы.
+http://wwwth.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Видеотоны
+http://wwwvt.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ 
+Украина
+
+ Игры
+http://wwwg.playfon.ua/exportXML.php?resource_id=123456&update_id=0
+ Мелодии
+http://wwwm.playfon.ua/exportXML.php?resource_id=123456&update_id=0
+ Картинки
+http://wwwi.playfon.ua/exportXML.php?resource_id=123456&update_id=0
+ Видео
+http://wwwv.playfon.ua/exportXML.php?resource_id=123456&update_id=0
+ Темы.
+http://wwwth.playfon.ua/exportXML.php?resource_id=123456&update_id=0
+
+Казахстан
+
+ Игры
+http://wwwg.kz.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Мелодии
+http://wwwm.kz.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Картинки
+http://wwwi.kz.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Видео
+http://wwwv.kz.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+ Темы.
+http://wwwth.kz.playfon.ru/exportXML.php?resource_id=123456&update_id=0
+
+
+ где 123456 заменяется на ID вашего ресурса
+
+ Особенности работы.
+
+ Код для получения контента.
+   Для  каждого  формата  существует  своя маска для кода заказа.
+   Пример:! Видео
+       <media_format id="27" name="Видео" code_mask="27xxxx9999"
+   Маска кода заказа 27xxxx9999, теперь если id контента равно 321
+   то  код  заказа  будет  2703219999.  Вместо  xxxx  подставляется id
+   контента,  выравненное  по правой стороне. Места остающиеся пустыми
+ заполняются нулями.
+
+  Сервисный номер для получения заказа.
+  У  каждой  единицы  контента  item  есть  аттрибут   fi_ids - format
+  instance.  Группа  связывающая  формат контента со списком сервисных
+  номеров для получения его.
+    <format_instance id="227" mf_id="27" sg_id="200"/>
+    27 формат  - это видео
+    200 сервисная группа.
+  Список   операторов   и  их  сервисных  номеров  находится  в  теге
+  <service_group id="200" price="2.00">
+
+ 
+В приложенных файлах высылаем Вам dtd и небольшое описание
+
+По поводу вопросов обращайтесь:
+tech@playfon.ru
+Андрей Смирнов.
+Программист.

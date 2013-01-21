@@ -1,0 +1,646 @@
+<catalog update_id="0" update_to="72657" media_type="theme" region="RU">
+
+<service_groups>
+
+<service_group id="200" price="2.00">
+<service id="802" operator_name="Билайн" phone="1220" real_price=" 85  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="428" operator_name="МТС" phone="1220" real_price=" 84,67  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="66" operator_name="Мегафон Москва" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="434" operator_name="Мегафон Поволжье" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="231" operator_name="Мегафон Кавказ" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="845" operator_name="СМАРТС" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="38" operator_name="Байкалвестком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="116" operator_name="Мегафон-Сибирь" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="606" operator_name="Теле2" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="89" operator_name="НТК" phone="1220" real_price=" 85,21  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="118" operator_name="Пенза GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="360" operator_name="Stek-GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="482" operator_name="Мотив" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="248" operator_name="Мегафон Дальний Восток" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="226" operator_name="Мегафон центр" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="237" operator_name="Шупашкар-GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="288" operator_name="Мегафон Северо-Запад" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="259" operator_name="Енисей Телеком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="300" operator_name="Мегафон-Урал" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="314" operator_name="Ютел" phone="1220" real_price=" 88,50  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="371" operator_name="Элайн" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="401" operator_name="СМАРТС (Иваново)" phone="1220" real_price=" 84  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="449" operator_name="Астрахань GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="503" operator_name="Оренбург-GSM" phone="1220" real_price=" 70,45  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="514" operator_name="НСС Ульяновск" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="559" operator_name="НСС Чувашия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="548" operator_name="НСС Саратов" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="703" operator_name="СМАРТС (Ярославль)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="855" operator_name="СМАРТС (Волгоград)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="582" operator_name="НСС Нижний Новгород" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="588" operator_name="Улан-Удэнская Сотовая сеть" phone="1220" real_price=" 85  рублей с НДС" operator_logo=""/>
+<service id="569" operator_name="НСС Татарстан" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""/>
+<service id="753" operator_name="НСС Мордовия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""/>
+</service_group>
+
+<service_group id="300" price="3.00">
+<service id="804" operator_name="Билайн" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="24" operator_name="МТС" phone="1717" real_price=" 135,12  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="25" operator_name="Мегафон Москва" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="26" operator_name="Мегафон Поволжье" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="27" operator_name="Мегафон Кавказ" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="33" operator_name="СМАРТС" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="34" operator_name="Байкалвестком" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="415" operator_name="Мегафон-Сибирь" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="604" operator_name="Теле2" phone="1717" real_price=" 129,80  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="96" operator_name="НТК" phone="1717" real_price=" 136,88  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="128" operator_name="Пенза GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="364" operator_name="Stek-GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="481" operator_name="Мотив" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="256" operator_name="Мегафон Дальний Восток" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="225" operator_name="Мегафон центр" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="245" operator_name="Шупашкар-GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="292" operator_name="Мегафон Северо-Запад" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="267" operator_name="Енисей Телеком" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="304" operator_name="Мегафон-Урал" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="316" operator_name="Ютел" phone="1717" real_price=" 123,90  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="375" operator_name="Элайн" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="405" operator_name="СМАРТС (Иваново)" phone="1717" real_price=" 125  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="447" operator_name="Астрахань GSM" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="501" operator_name="Оренбург-GSM" phone="1717" real_price=" 105,85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="512" operator_name="НСС Ульяновск" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="557" operator_name="НСС Чувашия" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="546" operator_name="НСС Саратов" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="701" operator_name="СМАРТС (Ярославль)" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="828" operator_name="СМАРТС (Волгоград)" phone="1717" real_price=" 130  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="584" operator_name="НСС Нижний Новгород" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="590" operator_name="Улан-Удэнская Сотовая сеть" phone="1717" real_price=" 130  рублей с НДС" operator_logo=""/>
+<service id="567" operator_name="НСС Татарстан" phone="1717" real_price=" 132,73  рубля с НДС" operator_logo=""/>
+<service id="759" operator_name="НСС Мордовия" phone="1717" real_price=" 132,79  рубля с НДС" operator_logo=""/>
+</service_group>
+
+<service_group id="400" price="4.00">
+<service id="808" operator_name="Билайн" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="642" operator_name="МТС" phone="1715" real_price=" 186,26  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="643" operator_name="Мегафон Москва" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="644" operator_name="Мегафон Поволжье" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="645" operator_name="Мегафон Кавказ" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="696" operator_name="СМАРТС" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="649" operator_name="Байкалвестком" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="650" operator_name="Мегафон-Сибирь" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="651" operator_name="Теле2" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="652" operator_name="НТК" phone="1715" real_price=" 171,10  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="656" operator_name="Stek-GSM" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="657" operator_name="Мотив" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="253" operator_name="Мегафон Дальний Восток" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="660" operator_name="Мегафон центр" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="661" operator_name="Шупашкар-GSM" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="662" operator_name="Мегафон Северо-Запад" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="664" operator_name="Енисей Телеком" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="665" operator_name="Мегафон-Урал" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="666" operator_name="Ютел" phone="1715" real_price=" 177  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="710" operator_name="Элайн" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="667" operator_name="СМАРТС (Иваново)" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="668" operator_name="Астрахань GSM" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="670" operator_name="Оренбург-GSM" phone="1715" real_price=" 169,33  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="671" operator_name="НСС Ульяновск" phone="1715" real_price=" 170  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="674" operator_name="НСС Чувашия" phone="1715" real_price=" 150  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="675" operator_name="НСС Саратов" phone="1715" real_price=" 150  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="679" operator_name="Улан-Удэнская Сотовая сеть" phone="1715" real_price=" 170  рублей с НДС" operator_logo=""/>
+<service id="680" operator_name="НСС Мордовия" phone="1715" real_price=" 150  рублей с НДС" operator_logo=""/>
+</service_group>
+</service_groups>
+
+<phones>
+<phone id="857" vendor="BenQ-Siemens" model="BenQ-Siemens C81"/>
+<phone id="939" vendor="BenQ-Siemens" model="BenQ-Siemens E71"/>
+<phone id="860" vendor="BenQ-Siemens" model="BenQ-Siemens EF81"/>
+<phone id="861" vendor="BenQ-Siemens" model="BenQ-Siemens EL71"/>
+<phone id="942" vendor="BenQ-Siemens" model="BenQ-Siemens M81"/>
+<phone id="885" vendor="BenQ-Siemens" model="BenQ-Siemens S68"/>
+<phone id="299" vendor="Motorola" model="Motorola A630"/>
+<phone id="65" vendor="Motorola" model="Motorola A835"/>
+<phone id="173" vendor="Motorola" model="Motorola C332"/>
+<phone id="93" vendor="Motorola" model="Motorola C350"/>
+<phone id="111" vendor="Motorola" model="Motorola C370"/>
+<phone id="236" vendor="Motorola" model="Motorola C380"/>
+<phone id="112" vendor="Motorola" model="Motorola C450"/>
+<phone id="80" vendor="Motorola" model="Motorola C550"/>
+<phone id="161" vendor="Motorola" model="Motorola C650"/>
+<phone id="317" vendor="Motorola" model="Motorola C975"/>
+<phone id="301" vendor="Motorola" model="Motorola C980"/>
+<phone id="880" vendor="Motorola" model="Motorola C980M"/>
+<phone id="302" vendor="Motorola" model="Motorola E1000"/>
+<phone id="64" vendor="Motorola" model="Motorola E380"/>
+<phone id="162" vendor="Motorola" model="Motorola E398"/>
+<phone id="318" vendor="Motorola" model="Motorola E550"/>
+<phone id="308" vendor="Motorola" model="Motorola T725"/>
+<phone id="235" vendor="Motorola" model="Motorola V180"/>
+<phone id="163" vendor="Motorola" model="Motorola V220"/>
+<phone id="258" vendor="Motorola" model="Motorola V3"/>
+<phone id="72" vendor="Motorola" model="Motorola V300"/>
+<phone id="77" vendor="Motorola" model="Motorola V400"/>
+<phone id="55" vendor="Motorola" model="Motorola V500"/>
+<phone id="78" vendor="Motorola" model="Motorola V525"/>
+<phone id="83" vendor="Motorola" model="Motorola V535"/>
+<phone id="71" vendor="Motorola" model="Motorola V600"/>
+<phone id="229" vendor="Motorola" model="Motorola V620"/>
+<phone id="322" vendor="Motorola" model="Motorola V635"/>
+<phone id="81" vendor="Motorola" model="Motorola V80"/>
+<phone id="304" vendor="Motorola" model="Motorola V975"/>
+<phone id="306" vendor="Motorola" model="Motorola V980"/>
+<phone id="1261" vendor="Motorola" model="Motorola Z6m"/>
+<phone id="1312" vendor="Nokia" model="Nokia 1680 classic"/>
+<phone id="2376" vendor="Nokia" model="Nokia 2220 slide"/>
+<phone id="2193" vendor="Nokia" model="Nokia 2320 classic"/>
+<phone id="1919" vendor="Nokia" model="Nokia 2323 Classic"/>
+<phone id="1875" vendor="Nokia" model="Nokia 2330 Classic"/>
+<phone id="1067" vendor="Nokia" model="Nokia 2600"/>
+<phone id="1214" vendor="Nokia" model="Nokia 2600 classic"/>
+<phone id="2277" vendor="Nokia" model="Nokia 2605"/>
+<phone id="908" vendor="Nokia" model="Nokia 2610"/>
+<phone id="928" vendor="Nokia" model="Nokia 2626"/>
+<phone id="1070" vendor="Nokia" model="Nokia 2630"/>
+<phone id="1071" vendor="Nokia" model="Nokia 2660"/>
+<phone id="1211" vendor="Nokia" model="Nokia 2680 slide"/>
+<phone id="2440" vendor="Nokia" model="Nokia 2690"/>
+<phone id="2133" vendor="Nokia" model="Nokia 2700 Classic"/>
+<phone id="2454" vendor="Nokia" model="Nokia 2710"/>
+<phone id="1918" vendor="Nokia" model="Nokia 2720 fold"/>
+<phone id="2135" vendor="Nokia" model="Nokia 2730"/>
+<phone id="1072" vendor="Nokia" model="Nokia 2760"/>
+<phone id="929" vendor="Nokia" model="Nokia 2855"/>
+<phone id="996" vendor="Nokia" model="Nokia 2865"/>
+<phone id="967" vendor="Nokia" model="Nokia 2865i"/>
+<phone id="1076" vendor="Nokia" model="Nokia 3109 classic"/>
+<phone id="1059" vendor="Nokia" model="Nokia 3110 classic"/>
+<phone id="498" vendor="Nokia" model="Nokia 3152"/>
+<phone id="581" vendor="Nokia" model="Nokia 3155"/>
+<phone id="669" vendor="Nokia" model="Nokia 3155i"/>
+<phone id="2180" vendor="Nokia" model="Nokia 3208 Classic"/>
+<phone id="241" vendor="Nokia" model="Nokia 3220"/>
+<phone id="324" vendor="Nokia" model="Nokia 3230"/>
+<phone id="518" vendor="Nokia" model="Nokia 3250"/>
+<phone id="1077" vendor="Nokia" model="Nokia 3500 classic"/>
+<phone id="1174" vendor="Nokia" model="Nokia 3555"/>
+<phone id="1351" vendor="Nokia" model="Nokia 3600 slide"/>
+<phone id="1413" vendor="Nokia" model="Nokia 3610 fold"/>
+<phone id="2136" vendor="Nokia" model="Nokia 3710 fold"/>
+<phone id="2170" vendor="Nokia" model="Nokia 3720 Сlassic"/>
+<phone id="1207" vendor="Nokia" model="Nokia 5000"/>
+<phone id="1058" vendor="Nokia" model="Nokia 5070"/>
+<phone id="1522" vendor="Nokia" model="Nokia 5130 XpressMusic"/>
+<phone id="2495" vendor="Nokia" model="Nokia 5132 XpressMusic"/>
+<phone id="98" vendor="Nokia" model="Nokia 5140"/>
+<phone id="477" vendor="Nokia" model="Nokia 5140i"/>
+<phone id="911" vendor="Nokia" model="Nokia 5200"/>
+<phone id="1335" vendor="Nokia" model="Nokia 5220 XpressMusic"/>
+<phone id="2184" vendor="Nokia" model="Nokia 5230"/>
+<phone id="2375" vendor="Nokia" model="Nokia 5233"/>
+<phone id="2496" vendor="Nokia" model="Nokia 5235"/>
+<phone id="912" vendor="Nokia" model="Nokia 5300"/>
+<phone id="1135" vendor="Nokia" model="Nokia 5310 XpressMusic"/>
+<phone id="1352" vendor="Nokia" model="Nokia 5320"/>
+<phone id="2137" vendor="Nokia" model="Nokia 5330 XpressMusic"/>
+<phone id="878" vendor="Nokia" model="Nokia 5500"/>
+<phone id="2134" vendor="Nokia" model="Nokia 5530 XpressMusic"/>
+<phone id="1134" vendor="Nokia" model="Nokia 5610 XpressMusic"/>
+<phone id="2291" vendor="Nokia" model="Nokia 5611 XpressMusic"/>
+<phone id="1876" vendor="Nokia" model="Nokia 5630 XpressMusic"/>
+<phone id="1055" vendor="Nokia" model="Nokia 5700"/>
+<phone id="1225" vendor="Nokia" model="Nokia 5700 Xpress Music"/>
+<phone id="1877" vendor="Nokia" model="Nokia 5730 XpressMusic"/>
+<phone id="1476" vendor="Nokia" model="Nokia 5800 XpressMusic"/>
+<phone id="2186" vendor="Nokia" model="Nokia 5800i XpressMusic"/>
+<phone id="2192" vendor="Nokia" model="Nokia 5802 XpressMusic"/>
+<phone id="325" vendor="Nokia" model="Nokia 6020"/>
+<phone id="404" vendor="Nokia" model="Nokia 6021"/>
+<phone id="478" vendor="Nokia" model="Nokia 6030"/>
+<phone id="523" vendor="Nokia" model="Nokia 6060"/>
+<phone id="846" vendor="Nokia" model="Nokia 6070"/>
+<phone id="847" vendor="Nokia" model="Nokia 6080"/>
+<phone id="930" vendor="Nokia" model="Nokia 6085"/>
+<phone id="931" vendor="Nokia" model="Nokia 6086"/>
+<phone id="382" vendor="Nokia" model="Nokia 6101"/>
+<phone id="405" vendor="Nokia" model="Nokia 6102"/>
+<phone id="965" vendor="Nokia" model="Nokia 6102i"/>
+<phone id="782" vendor="Nokia" model="Nokia 6103"/>
+<phone id="1061" vendor="Nokia" model="Nokia 6110 Navigator"/>
+<phone id="524" vendor="Nokia" model="Nokia 6111"/>
+<phone id="1060" vendor="Nokia" model="Nokia 6120 classic"/>
+<phone id="1078" vendor="Nokia" model="Nokia 6121 classic"/>
+<phone id="1673" vendor="Nokia" model="Nokia 6122c"/>
+<phone id="1215" vendor="Nokia" model="Nokia 6124 classic"/>
+<phone id="820" vendor="Nokia" model="Nokia 6125"/>
+<phone id="817" vendor="Nokia" model="Nokia 6126"/>
+<phone id="791" vendor="Nokia" model="Nokia 6131"/>
+<phone id="964" vendor="Nokia" model="Nokia 6133"/>
+<phone id="818" vendor="Nokia" model="Nokia 6136"/>
+<phone id="913" vendor="Nokia" model="Nokia 6151"/>
+<phone id="526" vendor="Nokia" model="Nokia 6152"/>
+<phone id="527" vendor="Nokia" model="Nokia 6155"/>
+<phone id="528" vendor="Nokia" model="Nokia 6155i"/>
+<phone id="927" vendor="Nokia" model="Nokia 6165"/>
+<phone id="309" vendor="Nokia" model="Nokia 6170"/>
+<phone id="1799" vendor="Nokia" model="Nokia 6208 classic"/>
+<phone id="1216" vendor="Nokia" model="Nokia 6210 Navigator"/>
+<phone id="1451" vendor="Nokia" model="Nokia 6212 classic"/>
+<phone id="2138" vendor="Nokia" model="Nokia 6216 classic"/>
+<phone id="1219" vendor="Nokia" model="Nokia 6220 classic"/>
+<phone id="384" vendor="Nokia" model="Nokia 6230i"/>
+<phone id="480" vendor="Nokia" model="Nokia 6233"/>
+<phone id="819" vendor="Nokia" model="Nokia 6234"/>
+<phone id="156" vendor="Nokia" model="Nokia 6260"/>
+<phone id="1210" vendor="Nokia" model="Nokia 6263"/>
+<phone id="481" vendor="Nokia" model="Nokia 6265"/>
+<phone id="482" vendor="Nokia" model="Nokia 6265i"/>
+<phone id="1069" vendor="Nokia" model="Nokia 6267"/>
+<phone id="580" vendor="Nokia" model="Nokia 6270"/>
+<phone id="998" vendor="Nokia" model="Nokia 6275"/>
+<phone id="483" vendor="Nokia" model="Nokia 6280"/>
+<phone id="790" vendor="Nokia" model="Nokia 6282"/>
+<phone id="915" vendor="Nokia" model="Nokia 6288"/>
+<phone id="963" vendor="Nokia" model="Nokia 6290"/>
+<phone id="962" vendor="Nokia" model="Nokia 6300"/>
+<phone id="1208" vendor="Nokia" model="Nokia 6300i"/>
+<phone id="1132" vendor="Nokia" model="Nokia 6301"/>
+<phone id="1880" vendor="Nokia" model="Nokia 6303 classic"/>
+<phone id="2439" vendor="Nokia" model="Nokia 6303i classic"/>
+<phone id="2188" vendor="Nokia" model="Nokia 6350"/>
+<phone id="1079" vendor="Nokia" model="Nokia 6500 classic"/>
+<phone id="1131" vendor="Nokia" model="Nokia 6500 slide"/>
+<phone id="1062" vendor="Nokia" model="Nokia 6555"/>
+<phone id="33" vendor="Nokia" model="Nokia 6600"/>
+<phone id="1367" vendor="Nokia" model="Nokia 6600 fold"/>
+<phone id="1412" vendor="Nokia" model="Nokia 6600 slide"/>
+<phone id="2141" vendor="Nokia" model="Nokia 6600i"/>
+<phone id="5" vendor="Nokia" model="Nokia 6610"/>
+<phone id="109" vendor="Nokia" model="Nokia 6620"/>
+<phone id="157" vendor="Nokia" model="Nokia 6630"/>
+<phone id="122" vendor="Nokia" model="Nokia 6650 S60 3rd"/>
+<phone id="272" vendor="Nokia" model="Nokia 6670"/>
+<phone id="327" vendor="Nokia" model="Nokia 6680"/>
+<phone id="383" vendor="Nokia" model="Nokia 6681"/>
+<phone id="407" vendor="Nokia" model="Nokia 6682"/>
+<phone id="1879" vendor="Nokia" model="Nokia 6700 Classic"/>
+<phone id="2139" vendor="Nokia" model="Nokia 6710 Navigator"/>
+<phone id="1913" vendor="Nokia" model="Nokia 6720 Classic"/>
+<phone id="1917" vendor="Nokia" model="Nokia 6730 Classic"/>
+<phone id="1801" vendor="Nokia" model="Nokia 6750"/>
+<phone id="2510" vendor="Nokia" model="Nokia 6788i"/>
+<phone id="2132" vendor="Nokia" model="Nokia 6790 Surge"/>
+<phone id="408" vendor="Nokia" model="Nokia 6822"/>
+<phone id="2140" vendor="Nokia" model="Nokia 7020"/>
+<phone id="1212" vendor="Nokia" model="Nokia 7070 Prism"/>
+<phone id="1495" vendor="Nokia" model="Nokia 7100 Supernova"/>
+<phone id="2426" vendor="Nokia" model="Nokia 7208"/>
+<phone id="1405" vendor="Nokia" model="Nokia 7210 Supernova"/>
+<phone id="2185" vendor="Nokia" model="Nokia 7212"/>
+<phone id="2391" vendor="Nokia" model="Nokia 7230"/>
+<phone id="25" vendor="Nokia" model="Nokia 7250"/>
+<phone id="328" vendor="Nokia" model="Nokia 7260"/>
+<phone id="409" vendor="Nokia" model="Nokia 7270"/>
+<phone id="667" vendor="Nokia" model="Nokia 7280"/>
+<phone id="1347" vendor="Nokia" model="Nokia 7310 Supernova"/>
+<phone id="738" vendor="Nokia" model="Nokia 7360"/>
+<phone id="766" vendor="Nokia" model="Nokia 7370"/>
+<phone id="916" vendor="Nokia" model="Nokia 7373"/>
+<phone id="767" vendor="Nokia" model="Nokia 7380"/>
+<phone id="914" vendor="Nokia" model="Nokia 7390"/>
+<phone id="1127" vendor="Nokia" model="Nokia 7500 Prism"/>
+<phone id="1488" vendor="Nokia" model="Nokia 7510 Supernova"/>
+<phone id="110" vendor="Nokia" model="Nokia 7610"/>
+<phone id="1381" vendor="Nokia" model="Nokia 7610 Supernova"/>
+<phone id="1175" vendor="Nokia" model="Nokia 7900 Prism"/>
+<phone id="2322" vendor="Nokia" model="Nokia 8208"/>
+<phone id="1126" vendor="Nokia" model="Nokia 8600 Luna"/>
+<phone id="468" vendor="Nokia" model="Nokia 8800"/>
+<phone id="1178" vendor="Nokia" model="Nokia 8800 Arte"/>
+<phone id="957" vendor="Nokia" model="Nokia 8800 Sirocco Edition"/>
+<phone id="469" vendor="Nokia" model="Nokia 8801"/>
+<phone id="2438" vendor="Nokia" model="Nokia C5"/>
+<phone id="2498" vendor="Nokia" model="Nokia C6-00"/>
+<phone id="2499" vendor="Nokia" model="Nokia E5-00"/>
+<phone id="814" vendor="Nokia" model="Nokia E50"/>
+<phone id="1133" vendor="Nokia" model="Nokia E51"/>
+<phone id="1916" vendor="Nokia" model="Nokia E52"/>
+<phone id="1914" vendor="Nokia" model="Nokia E55"/>
+<phone id="800" vendor="Nokia" model="Nokia E60"/>
+<phone id="815" vendor="Nokia" model="Nokia E61"/>
+<phone id="1026" vendor="Nokia" model="Nokia E61i"/>
+<phone id="987" vendor="Nokia" model="Nokia E62"/>
+<phone id="1487" vendor="Nokia" model="Nokia E63"/>
+<phone id="975" vendor="Nokia" model="Nokia E65"/>
+<phone id="1319" vendor="Nokia" model="Nokia E66"/>
+<phone id="816" vendor="Nokia" model="Nokia E70"/>
+<phone id="1350" vendor="Nokia" model="Nokia E71"/>
+<phone id="1915" vendor="Nokia" model="Nokia E71x"/>
+<phone id="2131" vendor="Nokia" model="Nokia E72"/>
+<phone id="1854" vendor="Nokia" model="Nokia E75"/>
+<phone id="1172" vendor="Nokia" model="Nokia E90 Communicator"/>
+<phone id="485" vendor="Nokia" model="Nokia N70"/>
+<phone id="801" vendor="Nokia" model="Nokia N71"/>
+<phone id="827" vendor="Nokia" model="Nokia N72"/>
+<phone id="812" vendor="Nokia" model="Nokia N73"/>
+<phone id="979" vendor="Nokia" model="Nokia N75"/>
+<phone id="1054" vendor="Nokia" model="Nokia N76"/>
+<phone id="1080" vendor="Nokia" model="Nokia N77"/>
+<phone id="1222" vendor="Nokia" model="Nokia N78"/>
+<phone id="1477" vendor="Nokia" model="Nokia N79"/>
+<phone id="781" vendor="Nokia" model="Nokia N80"/>
+<phone id="1081" vendor="Nokia" model="Nokia N81"/>
+<phone id="2456" vendor="Nokia" model="Nokia N81 8GB"/>
+<phone id="1173" vendor="Nokia" model="Nokia N82"/>
+<phone id="1418" vendor="Nokia" model="Nokia N85"/>
+<phone id="2070" vendor="Nokia" model="Nokia N86 8MP"/>
+<phone id="486" vendor="Nokia" model="Nokia N90"/>
+<phone id="487" vendor="Nokia" model="Nokia N91"/>
+<phone id="2457" vendor="Nokia" model="Nokia N91 8GB"/>
+<phone id="813" vendor="Nokia" model="Nokia N92"/>
+<phone id="811" vendor="Nokia" model="Nokia N93"/>
+<phone id="991" vendor="Nokia" model="Nokia N93i"/>
+<phone id="977" vendor="Nokia" model="Nokia N95"/>
+<phone id="1223" vendor="Nokia" model="Nokia N95 8GB"/>
+<phone id="1217" vendor="Nokia" model="Nokia N96"/>
+<phone id="1130" vendor="Nokia" model="Nokia N97"/>
+<phone id="2182" vendor="Nokia" model="Nokia N97 mini"/>
+<phone id="2181" vendor="Nokia" model="Nokia X3"/>
+<phone id="2183" vendor="Nokia" model="Nokia X6"/>
+<phone id="446" vendor="Panasonic" model="Panasonic X700"/>
+<phone id="683" vendor="Samsung" model="Samsung SGH-D720"/>
+<phone id="585" vendor="Samsung" model="Samsung SGH-D730"/>
+<phone id="572" vendor="Samsung" model="Samsung SGH-Z500"/>
+<phone id="199" vendor="Siemens" model="Siemens C65"/>
+<phone id="493" vendor="Siemens" model="Siemens C75"/>
+<phone id="437" vendor="Siemens" model="Siemens CL75"/>
+<phone id="150" vendor="Siemens" model="Siemens CX65"/>
+<phone id="726" vendor="Siemens" model="Siemens cx65v"/>
+<phone id="262" vendor="Siemens" model="Siemens CX70"/>
+<phone id="441" vendor="Siemens" model="Siemens CX75"/>
+<phone id="151" vendor="Siemens" model="Siemens M65"/>
+<phone id="442" vendor="Siemens" model="Siemens M75"/>
+<phone id="536" vendor="Siemens" model="Siemens ME75"/>
+<phone id="200" vendor="Siemens" model="Siemens S65"/>
+<phone id="351" vendor="Siemens" model="Siemens S65V"/>
+<phone id="497" vendor="Siemens" model="Siemens S66"/>
+<phone id="443" vendor="Siemens" model="Siemens S75"/>
+<phone id="263" vendor="Siemens" model="Siemens SK65"/>
+<phone id="261" vendor="Siemens" model="Siemens SL65"/>
+<phone id="444" vendor="Siemens" model="Siemens SL75"/>
+<phone id="596" vendor="Siemens" model="Siemens SXG75"/>
+<phone id="1179" vendor="SonyEricsson" model="SonyEricsson C702"/>
+<phone id="1180" vendor="SonyEricsson" model="SonyEricsson C702a"/>
+<phone id="1181" vendor="SonyEricsson" model="SonyEricsson C702c"/>
+<phone id="2072" vendor="SonyEricsson" model="SonyEricsson C901"/>
+<phone id="1182" vendor="SonyEricsson" model="SonyEricsson C902"/>
+<phone id="1183" vendor="SonyEricsson" model="SonyEricsson C902c"/>
+<phone id="1379" vendor="SonyEricsson" model="SonyEricsson C905"/>
+<phone id="495" vendor="SonyEricsson" model="SonyEricsson D750i"/>
+<phone id="732" vendor="SonyEricsson" model="SonyEricsson f500c"/>
+<phone id="352" vendor="SonyEricsson" model="SonyEricsson F500i"/>
+<phone id="1263" vendor="SonyEricsson" model="SonyEricsson G502"/>
+<phone id="1234" vendor="SonyEricsson" model="SonyEricsson G700"/>
+<phone id="1235" vendor="SonyEricsson" model="SonyEricsson G700c"/>
+<phone id="1479" vendor="SonyEricsson" model="SonyEricsson G705"/>
+<phone id="770" vendor="SonyEricsson" model="SonyEricsson J210i"/>
+<phone id="821" vendor="SonyEricsson" model="SonyEricsson J220i"/>
+<phone id="799" vendor="SonyEricsson" model="SonyEricsson J230i"/>
+<phone id="410" vendor="SonyEricsson" model="SonyEricsson J300i"/>
+<phone id="2194" vendor="SonyEricsson" model="SonyEricsson Jalou F100i"/>
+<phone id="389" vendor="SonyEricsson" model="SonyEricsson K300(i)"/>
+<phone id="844" vendor="SonyEricsson" model="SonyEricsson K310i"/>
+<phone id="178" vendor="SonyEricsson" model="SonyEricsson K500(i)"/>
+<phone id="733" vendor="SonyEricsson" model="SonyEricsson K500c"/>
+<phone id="533" vendor="SonyEricsson" model="SonyEricsson K506"/>
+<phone id="771" vendor="SonyEricsson" model="SonyEricsson K508"/>
+<phone id="411" vendor="SonyEricsson" model="SonyEricsson K508i"/>
+<phone id="810" vendor="SonyEricsson" model="SonyEricsson K510i"/>
+<phone id="1045" vendor="SonyEricsson" model="SonyEricsson K530i"/>
+<phone id="958" vendor="SonyEricsson" model="SonyEricsson K550"/>
+<phone id="387" vendor="SonyEricsson" model="SonyEricsson K600"/>
+<phone id="499" vendor="SonyEricsson" model="SonyEricsson K608"/>
+<phone id="1465" vendor="SonyEricsson" model="SonyEricsson K610"/>
+<phone id="788" vendor="SonyEricsson" model="SonyEricsson K610i"/>
+<phone id="984" vendor="SonyEricsson" model="SonyEricsson K618i"/>
+<phone id="1096" vendor="SonyEricsson" model="SonyEricsson K630i"/>
+<phone id="1153" vendor="SonyEricsson" model="SonyEricsson K660i"/>
+<phone id="223" vendor="SonyEricsson" model="SonyEricsson K700(i/c)"/>
+<phone id="734" vendor="SonyEricsson" model="SonyEricsson k750c"/>
+<phone id="386" vendor="SonyEricsson" model="SonyEricsson K750i"/>
+<phone id="1095" vendor="SonyEricsson" model="SonyEricsson K770i"/>
+<phone id="783" vendor="SonyEricsson" model="SonyEricsson K790i"/>
+<phone id="785" vendor="SonyEricsson" model="SonyEricsson K800"/>
+<phone id="993" vendor="SonyEricsson" model="SonyEricsson K810i"/>
+<phone id="1700" vendor="SonyEricsson" model="SonyEricsson K818c"/>
+<phone id="1087" vendor="SonyEricsson" model="SonyEricsson K850i"/>
+<phone id="2204" vendor="SonyEricsson" model="SonyEricsson K858c"/>
+<phone id="867" vendor="SonyEricsson" model="SonyEricsson M600i"/>
+<phone id="1701" vendor="SonyEricsson" model="SonyEricsson M608c"/>
+<phone id="1082" vendor="SonyEricsson" model="SonyEricsson P1i"/>
+<phone id="67" vendor="SonyEricsson" model="SonyEricsson P900"/>
+<phone id="273" vendor="SonyEricsson" model="SonyEricsson P910(i)"/>
+<phone id="833" vendor="SonyEricsson" model="SonyEricsson P990i"/>
+<phone id="1315" vendor="SonyEricsson" model="SonyEricsson R300"/>
+<phone id="1370" vendor="SonyEricsson" model="SonyEricsson R306"/>
+<phone id="1040" vendor="SonyEricsson" model="SonyEricsson S500i"/>
+<phone id="164" vendor="SonyEricsson" model="SonyEricsson S700(i)"/>
+<phone id="402" vendor="SonyEricsson" model="SonyEricsson S700a"/>
+<phone id="597" vendor="SonyEricsson" model="SonyEricsson S700c"/>
+<phone id="735" vendor="SonyEricsson" model="SonyEricsson S710"/>
+<phone id="365" vendor="SonyEricsson" model="SonyEricsson S710a"/>
+<phone id="2173" vendor="SonyEricsson" model="SonyEricsson Satio U1i"/>
+<phone id="281" vendor="SonyEricsson" model="SonyEricsson T226"/>
+<phone id="165" vendor="SonyEricsson" model="SonyEricsson T230"/>
+<phone id="1176" vendor="SonyEricsson" model="SonyEricsson T250i"/>
+<phone id="1280" vendor="SonyEricsson" model="SonyEricsson T280i"/>
+<phone id="117" vendor="SonyEricsson" model="SonyEricsson T300"/>
+<phone id="1313" vendor="SonyEricsson" model="SonyEricsson T303"/>
+<phone id="277" vendor="SonyEricsson" model="SonyEricsson T306"/>
+<phone id="118" vendor="SonyEricsson" model="SonyEricsson T310"/>
+<phone id="279" vendor="SonyEricsson" model="SonyEricsson T312"/>
+<phone id="280" vendor="SonyEricsson" model="SonyEricsson T316"/>
+<phone id="36" vendor="SonyEricsson" model="SonyEricsson T610"/>
+<phone id="38" vendor="SonyEricsson" model="SonyEricsson T616"/>
+<phone id="41" vendor="SonyEricsson" model="SonyEricsson T618"/>
+<phone id="197" vendor="SonyEricsson" model="SonyEricsson T628"/>
+<phone id="53" vendor="SonyEricsson" model="SonyEricsson T630"/>
+<phone id="451" vendor="SonyEricsson" model="SonyEricsson T637"/>
+<phone id="1041" vendor="SonyEricsson" model="SonyEricsson T650"/>
+<phone id="1056" vendor="SonyEricsson" model="SonyEricsson T650i"/>
+<phone id="2419" vendor="SonyEricsson" model="SonyEricsson T658"/>
+<phone id="1407" vendor="SonyEricsson" model="SonyEricsson T700"/>
+<phone id="500" vendor="SonyEricsson" model="SonyEricsson V600"/>
+<phone id="1001" vendor="SonyEricsson" model="SonyEricsson V630"/>
+<phone id="1094" vendor="SonyEricsson" model="SonyEricsson V640"/>
+<phone id="353" vendor="SonyEricsson" model="SonyEricsson V800"/>
+<phone id="2278" vendor="SonyEricsson" model="SonyEricsson Vivaz U5i"/>
+<phone id="992" vendor="SonyEricsson" model="SonyEricsson W200i"/>
+<phone id="829" vendor="SonyEricsson" model="SonyEricsson W300i"/>
+<phone id="1228" vendor="SonyEricsson" model="SonyEricsson W350a"/>
+<phone id="1229" vendor="SonyEricsson" model="SonyEricsson W350c"/>
+<phone id="1230" vendor="SonyEricsson" model="SonyEricsson W350i"/>
+<phone id="1154" vendor="SonyEricsson" model="SonyEricsson W380i"/>
+<phone id="1663" vendor="SonyEricsson" model="SonyEricsson W395"/>
+<phone id="1662" vendor="SonyEricsson" model="SonyEricsson W508"/>
+<phone id="503" vendor="SonyEricsson" model="SonyEricsson W550(i/c)"/>
+<phone id="1043" vendor="SonyEricsson" model="SonyEricsson W580i"/>
+<phone id="1380" vendor="SonyEricsson" model="SonyEricsson W595"/>
+<phone id="598" vendor="SonyEricsson" model="SonyEricsson W600"/>
+<phone id="449" vendor="SonyEricsson" model="SonyEricsson W600c"/>
+<phone id="1016" vendor="SonyEricsson" model="SonyEricsson W610i"/>
+<phone id="1017" vendor="SonyEricsson" model="SonyEricsson W660i"/>
+<phone id="786" vendor="SonyEricsson" model="SonyEricsson W700i"/>
+<phone id="1508" vendor="SonyEricsson" model="SonyEricsson W705"/>
+<phone id="830" vendor="SonyEricsson" model="SonyEricsson W710i"/>
+<phone id="1231" vendor="SonyEricsson" model="SonyEricsson W760c"/>
+<phone id="1251" vendor="SonyEricsson" model="SonyEricsson W760i"/>
+<phone id="388" vendor="SonyEricsson" model="SonyEricsson W800i"/>
+<phone id="789" vendor="SonyEricsson" model="SonyEricsson W810i"/>
+<phone id="994" vendor="SonyEricsson" model="SonyEricsson W830i"/>
+<phone id="831" vendor="SonyEricsson" model="SonyEricsson W850i"/>
+<phone id="946" vendor="SonyEricsson" model="SonyEricsson W880i"/>
+<phone id="1537" vendor="SonyEricsson" model="SonyEricsson W888i"/>
+<phone id="1155" vendor="SonyEricsson" model="SonyEricsson W890i"/>
+<phone id="1156" vendor="SonyEricsson" model="SonyEricsson W898"/>
+<phone id="745" vendor="SonyEricsson" model="SonyEricsson W900i"/>
+<phone id="1383" vendor="SonyEricsson" model="SonyEricsson W902"/>
+<phone id="1698" vendor="SonyEricsson" model="SonyEricsson W908c"/>
+<phone id="1089" vendor="SonyEricsson" model="SonyEricsson W910i"/>
+<phone id="784" vendor="SonyEricsson" model="SonyEricsson W950i"/>
+<phone id="1678" vendor="SonyEricsson" model="SonyEricsson W958c"/>
+<phone id="1088" vendor="SonyEricsson" model="SonyEricsson W960i"/>
+<phone id="1279" vendor="SonyEricsson" model="SonyEricsson W980"/>
+<phone id="1232" vendor="SonyEricsson" model="SonyEricsson W980i"/>
+<phone id="1550" vendor="SonyEricsson" model="SonyEricsson W995"/>
+<phone id="1417" vendor="SonyEricsson" model="SonyEricsson Xperia X1"/>
+<phone id="2196" vendor="SonyEricsson" model="SonyEricsson Xperia X2"/>
+<phone id="2172" vendor="SonyEricsson" model="SonyEricsson Yari U100i"/>
+<phone id="75" vendor="SonyEricsson" model="SonyEricsson Z1010"/>
+<phone id="1091" vendor="SonyEricsson" model="SonyEricsson Z250(i/a)"/>
+<phone id="1092" vendor="SonyEricsson" model="SonyEricsson Z250c"/>
+<phone id="792" vendor="SonyEricsson" model="SonyEricsson Z300"/>
+<phone id="966" vendor="SonyEricsson" model="SonyEricsson Z310"/>
+<phone id="1244" vendor="SonyEricsson" model="SonyEricsson Z310a"/>
+<phone id="1090" vendor="SonyEricsson" model="SonyEricsson Z320(i/a)"/>
+<phone id="1093" vendor="SonyEricsson" model="SonyEricsson Z320c"/>
+<phone id="106" vendor="SonyEricsson" model="SonyEricsson Z500(i)"/>
+<phone id="599" vendor="SonyEricsson" model="SonyEricsson Z500a"/>
+<phone id="737" vendor="SonyEricsson" model="SonyEricsson z500c"/>
+<phone id="470" vendor="SonyEricsson" model="SonyEricsson Z520"/>
+<phone id="1042" vendor="SonyEricsson" model="SonyEricsson Z525"/>
+<phone id="787" vendor="SonyEricsson" model="SonyEricsson Z530i"/>
+<phone id="848" vendor="SonyEricsson" model="SonyEricsson Z550i"/>
+<phone id="1252" vendor="SonyEricsson" model="SonyEricsson Z555i"/>
+<phone id="932" vendor="SonyEricsson" model="SonyEricsson Z558"/>
+<phone id="43" vendor="SonyEricsson" model="SonyEricsson Z600"/>
+<phone id="450" vendor="SonyEricsson" model="SonyEricsson Z608"/>
+<phone id="906" vendor="SonyEricsson" model="SonyEricsson Z610i"/>
+<phone id="832" vendor="SonyEricsson" model="SonyEricsson Z710i"/>
+<phone id="1044" vendor="SonyEricsson" model="SonyEricsson Z750i"/>
+<phone id="1233" vendor="SonyEricsson" model="SonyEricsson Z770i"/>
+<phone id="1266" vendor="SonyEricsson" model="SonyEricsson Z780i"/>
+<phone id="392" vendor="SonyEricsson" model="SonyEricsson Z800"/>
+</phones>
+
+<media_formats>
+<media_format id="3" name="Темы" code_mask="xxxxth49" code_mask_old="03xxxx49"/>
+</media_formats>
+
+<format_instances>
+<format_instance id="203" mf_id="3" sg_id="200"/>
+<format_instance id="303" mf_id="3" sg_id="300"/>
+<format_instance id="403" mf_id="3" sg_id="400"/>
+</format_instances>
+
+<genres>
+<genre id="1" name="Sex и эротика" isadult="1"/>
+<genre id="2" name="Девушки"/>
+<genre id="10" name="Обои"/>
+<genre id="11" name="Разное"/>
+<genre id="25" name="Стиль Дракона"/>
+<genre id="12" name="Авиация"/>
+<genre id="8" name="Пейзажи"/>
+<genre id="3" name="Авто/мото"/>
+<genre id="13" name="Валентинки"/>
+<genre id="6" name="Приколы"/>
+<genre id="7" name="Спорт"/>
+<genre id="15" name="Артисты"/>
+<genre id="5" name="Мультяшки"/>
+<genre id="9" name="Цветы"/>
+<genre id="4" name="Животные"/>
+<genre id="24" name="Черепа и скелеты"/>
+<genre id="20" name="Смайлики"/>
+<genre id="16" name="Знаки зодиака"/>
+<genre id="17" name="Новогодние"/>
+<genre id="28" name="Векторный стиль"/>
+<genre id="19" name="Анимированные темы"/>
+<genre id="22" name="Playboy" isadult="1"/>
+<genre id="14" name="Кино и TV"/>
+<genre id="23" name="Наши любимые мультфильмы"/>
+<genre id="26" name="Зачарованная"/>
+<genre id="27" name="Волшебный мир Диснея"/>
+<genre id="30" name="Наша Russia"/>
+<genre id="31" name="ДОМ 2"/>
+</genres>
+
+<items>
+
+<item id="21" name="Таинства джунглей" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/21_intro_24614242042c2a757654b4.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/21_wap_intro_125855217642c3bac5890f6.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/21_menu_59543675442c2a7576a2e1.jpg"/>
+</screenshots>
+</item>
+
+<item id="22" name="Красотка" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/22_intro_160825564342c2ac101f219.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/22_wap_intro_47192836342c3bad9d9b49.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/22_menu_153327335942c2ac10240c9.jpg"/>
+</screenshots>
+</item>
+
+<item id="23" name="Сладкий соблазн" genre_id="2" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/23_intro_47895701542c2b37f179ee.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/23_wap_intro_92475200842c3baf122b09.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/23_menu_22045644542c2b37f1c809.jpg"/>
+</screenshots>
+</item>
+
+<item id="24" name="Искреннее желание" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/24_intro_211057044042c2be60e07fc.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/24_wap_intro_208418559042c3bb0d64b7e.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/24_menu_27942484042c2be60e5636.jpg"/>
+</screenshots>
+</item>
+
+<item id="25" name="Сексуальные фантазии" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/25_intro_41060183942c2c04e2daf9.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/25_wap_intro_82831652242c3bb1fd7871.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/25_menu_93402444842c2c04e32922.jpg"/>
+</screenshots>
+</item>
+
+<item id="26" name="Горячий душ" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/26_intro_141631223342c2c2722ade6.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/26_wap_intro_87556620342c3bb304c6d4.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/26_menu_71689761742c2c2722fbea.jpg"/>
+</screenshots>
+</item>
+
+<item id="27" name="Анжелика" genre_id="1" supported_phones="5,33,36,38,41,43,53,55,65,71,72,75,77,78,81,83,98,106,109,110,150,151,156,157,162,164,178,197,199,200,223,229,241,258,261,262,263,272,301,304,306,309,317,318,322,324,325,327,328,351,352,365,382,383,386,387,388,402,404,405,407,408,409,411,441,442,450,451,477,478,485,493,495,497,498,499,500,523,526,527,528,533,536,581,597,599,669,726,732,733,734,735,737,738,771,782,786,788,827,830,832,846,847,880,906,908,928,929,965,984,1001,1058,1154,1465,2204" fi_ids="203">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/themeimages/27_intro_165604363142c3bd8240013.jpg"/>
+<screenshot small="1" url="http://wapth.playfon.ru/i/27_wap_intro_172895217442c3bd8249c54.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/themeimages/27_menu_68406326342c3bd8244e37.jpg"/>
+</screenshots>
+</item>
+</items>
+</catalog>

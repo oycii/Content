@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % boolean "(1|0)">
+<!ENTITY % url "CDATA">
+<!ENTITY % fieldlist "CDATA">
+<!ELEMENT catalog (service_groups, phones?, media_formats, format_instances, platforms?, genres?, deleted_items?, items)>
+<!ATTLIST catalog
+	update_id NMTOKEN #REQUIRED
+	update_to NMTOKEN #REQUIRED
+	media_type CDATA #REQUIRED
+	region CDATA #REQUIRED
+>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre EMPTY>
+<!ATTLIST genre
+	id NMTOKEN #REQUIRED
+	name CDATA #REQUIRED
+	isadult %boolean; #IMPLIED
+>
+<!ELEMENT item (description?, screenshots?, previews?)>
+<!ATTLIST item
+	id NMTOKEN #REQUIRED
+	name CDATA #IMPLIED
+	short_name CDATA #IMPLIED
+	genre_id NMTOKEN #REQUIRED
+	singer CDATA #IMPLIED
+	supported_phones %fieldlist; #IMPLIED
+	fi_ids %fieldlist; #REQUIRED
+	ispremium %boolean; #IMPLIED
+	isrus %boolean; #IMPLIED
+	platform_id NMTOKEN #IMPLIED
+>
+<!ELEMENT items (item*)>
+<!ATTLIST items
+	platform_default NMTOKEN #IMPLIED
+>
+
+<!ELEMENT deleted_item EMPTY>
+<!ATTLIST deleted_item
+	id NMTOKEN #REQUIRED
+>
+<!ELEMENT deleted_items (deleted_item+)>
+<!ELEMENT media_format EMPTY>
+<!ATTLIST media_format
+	id NMTOKEN #REQUIRED
+	name CDATA #REQUIRED
+	code_mask CDATA #REQUIRED
+	code_mask_old CDATA #REQUIRED
+	preview_field CDATA #IMPLIED
+	supported_phones %fieldlist; #IMPLIED
+>
+<!ELEMENT media_formats (media_format+)>
+<!ELEMENT format_instance EMPTY>
+<!ATTLIST format_instance
+	id NMTOKEN #REQUIRED
+	mf_id NMTOKEN #REQUIRED
+	sg_id NMTOKEN #REQUIRED
+>
+<!ELEMENT format_instances (format_instance+)>
+<!ELEMENT service EMPTY>
+<!ATTLIST service
+	id NMTOKEN #REQUIRED
+	operator_name CDATA #REQUIRED
+	phone CDATA #REQUIRED
+	real_price CDATA #REQUIRED
+	operator_logo %url; #IMPLIED
+>
+<!ELEMENT phone EMPTY>
+<!ATTLIST phone
+	id NMTOKEN #REQUIRED
+	vendor CDATA #IMPLIED
+	model CDATA #REQUIRED
+	supported_media_formats %fieldlist; #IMPLIED
+>
+<!ELEMENT phones (phone+)>
+<!ELEMENT service_group (service+)>
+<!ATTLIST service_group
+	id NMTOKEN #REQUIRED
+	price CDATA #REQUIRED
+>
+<!ELEMENT service_groups (service_group+)>
+<!ELEMENT platform EMPTY>
+<!ATTLIST platform
+	id NMTOKEN #REQUIRED
+	name CDATA #REQUIRED
+>
+<!ELEMENT platforms (platform+)>
+<!ELEMENT screenshot EMPTY>
+<!ATTLIST screenshot
+	url %url; #REQUIRED
+	default %boolean; #IMPLIED
+	small %boolean; #IMPLIED
+>
+<!ELEMENT screenshots (screenshot+)>
+<!ELEMENT preview EMPTY>
+<!ATTLIST preview
+	name CDATA #REQUIRED
+	url %url; #REQUIRED
+>
+<!ELEMENT previews (preview+)>

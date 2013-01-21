@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Tahoma, sans-serif, Verdana, Arial, Helvetica;
+  font-size: smaller;
+  margin: 14px 14px 14px 14px;
+}
+
+img {
+	border: 0;
+	border-color: white;
+	padding: 0px 0px 0px 0px;
+}
+
+a {
+	border: 0;
+	padding: 0 0 0 0;
+	left-padding: 0px;
+	left-margin: 0px;
+}
+

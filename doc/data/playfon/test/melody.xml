@@ -1,0 +1,520 @@
+<catalog update_id="0" update_to="52700" media_type="melody" region="RU">
+
+<service_groups>
+
+<service_group id="100" price="1.00">
+<service id="799" operator_name="Билайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="13" operator_name="МТС" phone="1615" real_price=" 44,03  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="14" operator_name="Мегафон Москва" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="15" operator_name="Мегафон Поволжье" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="16" operator_name="Мегафон Кавказ" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="39" operator_name="СМАРТС" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="35" operator_name="Байкалвестком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="411" operator_name="Мегафон-Сибирь" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="602" operator_name="Теле2" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="95" operator_name="НТК" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="125" operator_name="Пенза GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="359" operator_name="Stek-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="479" operator_name="Мотив" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="223" operator_name="Мегафон центр" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="242" operator_name="Шупашкар-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="286" operator_name="Мегафон Северо-Запад" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="264" operator_name="Енисей Телеком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="298" operator_name="Мегафон-Урал" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="311" operator_name="Ютел" phone="1615" real_price=" 44,25  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="370" operator_name="Элайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="400" operator_name="СМАРТС (Иваново)" phone="1615" real_price=" 46  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="444" operator_name="Астрахань GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="499" operator_name="Оренбург-GSM" phone="1615" real_price=" 35,05  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="510" operator_name="НСС Ульяновск" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="555" operator_name="НСС Чувашия" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="544" operator_name="НСС Саратов" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="699" operator_name="СМАРТС (Ярославль)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="830" operator_name="СМАРТС (Волгоград)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="580" operator_name="НСС Нижний Новгород" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="586" operator_name="Улан-Удэнская Сотовая сеть" phone="1615" real_price=" 44  рубля с НДС" operator_logo=""/>
+<service id="570" operator_name="НСС Татарстан" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo=""/>
+</service_group>
+
+<service_group id="200" price="2.00">
+<service id="802" operator_name="Билайн" phone="1220" real_price=" 85  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="428" operator_name="МТС" phone="1220" real_price=" 84,67  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="66" operator_name="Мегафон Москва" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="434" operator_name="Мегафон Поволжье" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="231" operator_name="Мегафон Кавказ" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="845" operator_name="СМАРТС" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="38" operator_name="Байкалвестком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="116" operator_name="Мегафон-Сибирь" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="606" operator_name="Теле2" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="89" operator_name="НТК" phone="1220" real_price=" 85,21  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="118" operator_name="Пенза GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="360" operator_name="Stek-GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="482" operator_name="Мотив" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="248" operator_name="Мегафон Дальний Восток" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="226" operator_name="Мегафон центр" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="237" operator_name="Шупашкар-GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="288" operator_name="Мегафон Северо-Запад" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="259" operator_name="Енисей Телеком" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="300" operator_name="Мегафон-Урал" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="314" operator_name="Ютел" phone="1220" real_price=" 88,50  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="371" operator_name="Элайн" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="401" operator_name="СМАРТС (Иваново)" phone="1220" real_price=" 84  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="449" operator_name="Астрахань GSM" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="503" operator_name="Оренбург-GSM" phone="1220" real_price=" 70,45  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="514" operator_name="НСС Ульяновск" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="559" operator_name="НСС Чувашия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="548" operator_name="НСС Саратов" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="703" operator_name="СМАРТС (Ярославль)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="855" operator_name="СМАРТС (Волгоград)" phone="1220" real_price=" 85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="582" operator_name="НСС Нижний Новгород" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="588" operator_name="Улан-Удэнская Сотовая сеть" phone="1220" real_price=" 85  рублей с НДС" operator_logo=""/>
+<service id="569" operator_name="НСС Татарстан" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""/>
+<service id="753" operator_name="НСС Мордовия" phone="1220" real_price=" 82,95  рубля с НДС" operator_logo=""/>
+</service_group>
+</service_groups>
+
+<phones>
+<phone id="1377" vendor="Alcatel" model="Alcatel Mandarina Duck"/>
+<phone id="128" vendor="Alcatel" model="Alcatel OT 332"/>
+<phone id="2239" vendor="Alcatel" model="Alcatel OT 363"/>
+<phone id="139" vendor="Alcatel" model="Alcatel OT 535"/>
+<phone id="311" vendor="Alcatel" model="Alcatel OT 556"/>
+<phone id="1296" vendor="BenQ" model="BenQ C30"/>
+<phone id="1931" vendor="BenQ" model="BenQ C36"/>
+<phone id="895" vendor="BenQ" model="BenQ CF61"/>
+<phone id="910" vendor="BenQ" model="BenQ E61"/>
+<phone id="2445" vendor="BenQ" model="BenQ E81"/>
+<phone id="988" vendor="BenQ" model="BenQ M300"/>
+<phone id="1433" vendor="BlackBerry" model="BlackBerry 7100"/>
+<phone id="1942" vendor="BlackBerry" model="BlackBerry 7130"/>
+<phone id="2092" vendor="BlackBerry" model="BlackBerry 7290"/>
+<phone id="1434" vendor="BlackBerry" model="BlackBerry 8110"/>
+<phone id="1435" vendor="BlackBerry" model="BlackBerry 8120"/>
+<phone id="1436" vendor="BlackBerry" model="BlackBerry 8130"/>
+<phone id="924" vendor="FLY" model="FLY 2040"/>
+<phone id="938" vendor="FLY" model="FLY 2040i"/>
+<phone id="1049" vendor="FLY" model="FLY 2050"/>
+<phone id="1048" vendor="FLY" model="FLY 2060"/>
+<phone id="1050" vendor="FLY" model="FLY 2080"/>
+<phone id="1443" vendor="HP" model="HP iPAQ 510"/>
+<phone id="1953" vendor="HTC" model="HTC 2125"/>
+<phone id="2334" vendor="HTC" model="HTC 3100"/>
+<phone id="1965" vendor="HTC" model="HTC 6900"/>
+<phone id="1955" vendor="HTC" model="HTC 8100"/>
+<phone id="2097" vendor="HTC" model="HTC 8500"/>
+<phone id="1956" vendor="HTC" model="HTC 8900"/>
+<phone id="1328" vendor="HTC" model="HTC Diamond P3700"/>
+<phone id="1282" vendor="HTC" model="HTC Elf P3450"/>
+<phone id="1283" vendor="HTC" model="HTC Herald P4350"/>
+<phone id="1966" vendor="HTC" model="HTC MAX 4G"/>
+<phone id="2345" vendor="Huawei" model="Huawei M750"/>
+<phone id="2435" vendor="Huawei" model="Huawei T7200"/>
+<phone id="2431" vendor="Huawei" model="Huawei U1250"/>
+<phone id="2347" vendor="Huawei" model="Huawei U1280"/>
+<phone id="2353" vendor="Huawei" model="Huawei U1315"/>
+<phone id="266" vendor="Innostream" model="Innostream Inno 55"/>
+<phone id="1409" vendor="Lenovo" model="LENOVO E307"/>
+<phone id="2482" vendor="Lenovo" model="Lenovo ET960"/>
+<phone id="2483" vendor="Lenovo" model="Lenovo ET980"/>
+<phone id="2487" vendor="Lenovo" model="Lenovo i300"/>
+<phone id="2294" vendor="Lenovo" model="Lenovo i389"/>
+<phone id="2368" vendor="LG" model="LG 260"/>
+<phone id="2272" vendor="LG" model="LG 290"/>
+<phone id="2373" vendor="LG" model="LG 380"/>
+<phone id="630" vendor="LG" model="LG 8100"/>
+<phone id="631" vendor="LG" model="LG 8150"/>
+<phone id="633" vendor="LG" model="LG 8180"/>
+<phone id="129" vendor="Maxon" model="Maxon MX-7931"/>
+<phone id="130" vendor="Maxon" model="Maxon MX-7941"/>
+<phone id="286" vendor="Motorola" model="Motorola A1000"/>
+<phone id="600" vendor="Motorola" model="Motorola A1010"/>
+<phone id="1204" vendor="Motorola" model="Motorola A1200r"/>
+<phone id="2309" vendor="Motorola" model="Motorola A1600"/>
+<phone id="300" vendor="Motorola" model="Motorola A388"/>
+<phone id="2339" vendor="МТС" model="MTC 733"/>
+<phone id="2337" vendor="МТС" model="MTC 736"/>
+<phone id="2335" vendor="МТС" model="MTC 835"/>
+<phone id="2509" vendor="МТС" model="MTC 840"/>
+<phone id="40" vendor="NEC" model="NEC 515"/>
+<phone id="255" vendor="NEC" model="NEC 525"/>
+<phone id="2393" vendor="NEC" model="NEC C616"/>
+<phone id="838" vendor="NEC" model="NEC e101"/>
+<phone id="837" vendor="NEC" model="NEC e121"/>
+<phone id="1667" vendor="Nokia" model="Nokia 1006"/>
+<phone id="2449" vendor="Nokia" model="Nokia 1650"/>
+<phone id="2450" vendor="Nokia" model="Nokia 1661"/>
+<phone id="2451" vendor="Nokia" model="Nokia 1662"/>
+<phone id="1312" vendor="Nokia" model="Nokia 1680 classic"/>
+<phone id="2478" vendor="Nokia" model="Nokia 1682 Classic"/>
+<phone id="2376" vendor="Nokia" model="Nokia 2220 slide"/>
+<phone id="2193" vendor="Nokia" model="Nokia 2320 classic"/>
+<phone id="1919" vendor="Nokia" model="Nokia 2323 Classic"/>
+<phone id="1875" vendor="Nokia" model="Nokia 2330 Classic"/>
+<phone id="254" vendor="Panasonic" model="Panasonic EB-65"/>
+<phone id="140" vendor="Panasonic" model="Panasonic G50"/>
+<phone id="132" vendor="Panasonic" model="Panasonic G60"/>
+<phone id="115" vendor="Panasonic" model="Panasonic GD67"/>
+<phone id="120" vendor="Panasonic" model="Panasonic GD87"/>
+<phone id="2394" vendor="Pantech" model="Pantech C510"/>
+<phone id="226" vendor="Pantech" model="Pantech G200"/>
+<phone id="227" vendor="Pantech" model="Pantech G300"/>
+<phone id="458" vendor="Pantech" model="Pantech G500"/>
+<phone id="453" vendor="Pantech" model="Pantech G600"/>
+<phone id="202" vendor="Pantech" model="Pantech G670"/>
+<phone id="1483" vendor="Philips" model="Philips 198"/>
+<phone id="1475" vendor="Philips" model="Philips 199"/>
+<phone id="1302" vendor="Philips" model="Philips 292"/>
+<phone id="133" vendor="Philips" model="Philips 350"/>
+<phone id="134" vendor="Philips" model="Philips 355"/>
+<phone id="1330" vendor="Sagem" model="Sagem mc2007"/>
+<phone id="332" vendor="Sagem" model="Sagem my C4"/>
+<phone id="333" vendor="Sagem" model="Sagem my C5-2"/>
+<phone id="677" vendor="Sagem" model="Sagem my S7"/>
+<phone id="1389" vendor="Sagem" model="Sagem my202C"/>
+<phone id="361" vendor="Samsung" model="Samsung A-500"/>
+<phone id="1364" vendor="Samsung" model="Samsung A-920"/>
+<phone id="1908" vendor="Samsung" model="Samsung C3053"/>
+<phone id="1870" vendor="Samsung" model="Samsung C3060"/>
+<phone id="1839" vendor="Samsung" model="Samsung C5220"/>
+<phone id="1862" vendor="Samsung" model="Samsung C6625"/>
+<phone id="1556" vendor="Samsung" model="SAMSUNG E1210"/>
+<phone id="1629" vendor="Samsung" model="SAMSUNG E1210M"/>
+<phone id="1716" vendor="Samsung" model="Samsung E1410"/>
+<phone id="1651" vendor="Samsung" model="Samsung GT-B2100"/>
+<phone id="591" vendor="Sharp" model="Sharp 703"/>
+<phone id="720" vendor="Sharp" model="Sharp 703sh"/>
+<phone id="570" vendor="Sharp" model="Sharp 802"/>
+<phone id="571" vendor="Sharp" model="Sharp 902"/>
+<phone id="590" vendor="Sharp" model="Sharp 903"/>
+<phone id="1463" vendor="Sharp" model="Sharp 903SH"/>
+<phone id="1464" vendor="SonyEricsson" model="SonyEricsson A101"/>
+<phone id="1832" vendor="SonyEricsson" model="SonyEricsson A120"/>
+<phone id="2458" vendor="SonyEricsson" model="SonyEricsson A130i"/>
+<phone id="1831" vendor="SonyEricsson" model="SonyEricsson A250"/>
+<phone id="1828" vendor="SonyEricsson" model="SonyEricsson A260"/>
+<phone id="1267" vendor="Toshiba" model="Toshiba TS605"/>
+<phone id="1268" vendor="Toshiba" model="Toshiba TS608"/>
+<phone id="2422" vendor="Vodafone" model="Vodafone 715"/>
+<phone id="1466" vendor="Vodafone" model="Vodafone 720"/>
+<phone id="2421" vendor="Vodafone" model="Vodafone 725"/>
+<phone id="2340" vendor="Vodafone" model="Vodafone 733"/>
+<phone id="2338" vendor="Vodafone" model="Vodafone 736"/>
+<phone id="2423" vendor="Vodafone" model="Vodafone 810"/>
+<phone id="2420" vendor="Vodafone" model="Vodafone 830"/>
+<phone id="2336" vendor="Vodafone" model="Vodafone 835"/>
+<phone id="763" vendor="Voxtel" model="Voxtel 3iD"/>
+<phone id="1295" vendor="Voxtel" model="Voxtel RX800"/>
+<phone id="2437" vendor="МТС" model="МТС 535"/>
+</phones>
+
+<media_formats>
+<media_format id="08" name="Polyphony" code_mask="xxxxmp49" code_mask_old="08xxxx49" code_mask_old_10000="06xxxx49" code_mask_old_20000="16xxxx49" preview_field="previewpoly" supported_phones="1377,128,2239,139,311,1296,1931,895,910,2445,988,1433,1942,2092,1434,1435,1436,924,938,1049,1048,1050,1443,1953,2334,1965,1955,2097,1956,1328,1282,1283,1966,2345,2435,2431,2347,2353,266,1409,2482,2483,2487,2294,2368,2272,2373,630,631,633,129,130,286,600,1204,2309,300,2339,2337,2335,2509,40,255,2393,838,837,1667,2449,2450,2451,1312,2478,2376,2193,1919,1875,254,140,132,115,120,2394,226,227,458,453,202,1483,1475,1302,133,134,1330,332,333,677,1389,361,1364,1908,1870,1839,1862,1556,1629,1716,1651,591,720,570,571,590,1463,1464,1832,2458,1831,1828,1267,1268,2422,1466,2421,2340,2338,2423,2420,2336,763,1295,2437"/>
+<media_format id="98" name="Realtone" code_mask="xxxxmr49" code_mask_old="98xxxx49" code_mask_old_10000="96xxxx49" code_mask_old_20000="36xxxx49" preview_field="previewreal" supported_phones="1377,128,2239,139,311,1296,1931,895,910,2445,988,1433,1942,2092,1434,1435,1436,924,938,1049,1048,1050,1443,1953,2334,1965,1955,2097,1956,1328,1282,1283,1966,2345,2435,2431,2347,2353,266,1409,2482,2483,2487,2294,2368,2272,2373,630,631,633,129,130,286,600,1204,2309,300,2339,2337,2335,2509,40,255,2393,838,837,1667,2449,2450,2451,1312,2478,2376,2193,1919,1875,254,140,132,115,120,2394,226,227,458,453,202,1483,1475,1302,133,134,1330,332,333,677,1389,361,1364,1908,1870,1839,1862,1556,1629,1716,1651,591,720,570,571,590,1463,1464,1832,2458,1831,1828,1267,1268,2422,1466,2421,2340,2338,2423,2420,2336,763,1295,2437"/>
+<media_format id="88" name="Full mp3" code_mask="xxxxmf49" code_mask_old="88xxxx49" code_mask_old_10000="86xxxx49" code_mask_old_20000="26xxxx49" preview_field="previewreal" supported_phones="1377,128,2239,139,311,1296,1931,895,910,2445,988,1433,1942,2092,1434,1435,1436,924,938,1049,1048,1050,1443,1953,2334,1965,1955,2097,1956,1328,1282,1283,1966,2345,2435,2431,2347,2353,266,1409,2482,2483,2487,2294,2368,2272,2373,630,631,633,129,130,286,600,1204,2309,300,2339,2337,2335,2509,40,255,2393,838,837,1667,2449,2450,2451,1312,2478,2376,2193,1919,1875,254,140,132,115,120,2394,226,227,458,453,202,1483,1475,1302,133,134,1330,332,333,677,1389,361,1364,1908,1870,1839,1862,1556,1629,1716,1651,591,720,570,571,590,1463,1464,1832,2458,1831,1828,1267,1268,2422,1466,2421,2340,2338,2423,2420,2336,763,1295,2437"/>
+</media_formats>
+
+<format_instances>
+<format_instance id="108" mf_id="08" sg_id="100"/>
+<format_instance id="298" mf_id="98" sg_id="200"/>
+<format_instance id="288" mf_id="88" sg_id="200"/>
+</format_instances>
+
+<genres>
+<genre id="115" name="Hip Hop / R&amp;B"/>
+<genre id="108" name="Народные"/>
+<genre id="137" name="Rock"/>
+<genre id="134" name="Electronic / Dance"/>
+<genre id="121" name="Pop"/>
+<genre id="104" name="Классика"/>
+<genre id="133" name="Alternative"/>
+<genre id="129" name="Голосовые звонки"/>
+<genre id="105" name="Музыка из Кино, ТВ"/>
+<genre id="136" name="Retro"/>
+<genre id="196" name="Танцпол 90-х"/>
+<genre id="112" name="Новогодние"/>
+<genre id="195" name="Дискотека 80-х"/>
+<genre id="192" name="Для пoдoнкoв"/>
+<genre id="150" name="Смешки и приколы"/>
+<genre id="123" name="Приколы"/>
+<genre id="203" name="Romantic Collection"/>
+<genre id="138" name="Музыкальные темы"/>
+<genre id="113" name="Jazz"/>
+<genre id="143" name="Шансон"/>
+<genre id="159" name="Обращения телефона к владельцу"/>
+<genre id="152" name="Телефон Разговаривает"/>
+<genre id="161" name="Забавные Леди и мадам"/>
+<genre id="106" name="Музыка из Мультфильмов"/>
+<genre id="193" name="Звонки от знаменитостей"/>
+<genre id="135" name="Reggae"/>
+<genre id="167" name="Звонки от подруг"/>
+<genre id="109" name="Звуки, Эффекты"/>
+<genre id="127" name="ЗооПарк"/>
+<genre id="131" name="Охи-ахи, вздохи-тр@хи"/>
+<genre id="172" name="Гoвopит Paбинoвич"/>
+<genre id="162" name="Гoлoc, pитм, нapacпeв"/>
+<genre id="151" name="Для SMS"/>
+<genre id="173" name="Имeнныe звoнки, для мужчин"/>
+<genre id="160" name="Крепко и весело"/>
+<genre id="170" name="Пapoдии нa извecтныx людeй"/>
+<genre id="171" name="Пapoдии нa cмeшныx дeтeй"/>
+<genre id="158" name="Пpoдвинутыe дeд и бaбкa"/>
+<genre id="153" name="Фpaзы: Aллo! Aллoу!"/>
+<genre id="107" name="Патриотические"/>
+<genre id="163" name="Яркие образы"/>
+<genre id="166" name="Футбoльныe Kpичaлки"/>
+<genre id="141" name="Будильники"/>
+<genre id="177" name="Именные Будильники"/>
+<genre id="178" name="Прикольные Будильники"/>
+<genre id="146" name="Гимны"/>
+<genre id="174" name="Имeнныe звoнки, для дeвушeк"/>
+<genre id="175" name="Имeнныe Opгaзмoтoны"/>
+<genre id="176" name="Имeнныe пapoдии"/>
+<genre id="194" name="Поздравления"/>
+<genre id="168" name="Звонки от родственников"/>
+<genre id="157" name="Смешные мотоциклы"/>
+<genre id="156" name="Бaндepлoги"/>
+<genre id="155" name="Забулдыги"/>
+<genre id="202" name="8 марта"/>
+<genre id="145" name="SMS-Тоны (NEW)"/>
+<genre id="169" name="От друзей-мужчин"/>
+<genre id="147" name="АвтоТоны"/>
+<genre id="114" name="Восточная"/>
+<genre id="206" name="Дзэн ДжаДо"/>
+<genre id="220" name="Детские Песенки"/>
+<genre id="211" name="Олимпийские звонки"/>
+<genre id="212" name="Comedy"/>
+<genre id="215" name="Именные Новогодние"/>
+<genre id="216" name="Emo-Rock"/>
+<genre id="217" name="RNB-тоны"/>
+<genre id="124" name="Голоса Звезд"/>
+<genre id="218" name="Folk"/>
+<genre id="219" name="Indie Rock"/>
+<genre id="102" name="Русские"/>
+<genre id="103" name="Зарубежные"/>
+<genre id="213" name="World"/>
+</genres>
+
+<items>
+
+<item id="2" name="Я Не Люблю Тебя" genre_id="115" singer="Бандэрос" fi_ids="298">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/2_poly_205493957645dd73373c4e1.mp3"/>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/2_m_previewreal_12536925734b98f3c738b11.mp3"/>
+</previews>
+
+</item>
+
+<item id="3" name="Семь сорок" genre_id="108" singer="Народная" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/00003_poly_2579.mid"/>
+</previews>
+</item>
+
+<item id="5" name="Nobody's Home" genre_id="137" singer="Avril Lavigne" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/5_poly_174677488445dd915b85adf.mp3"/>
+</previews>
+</item>
+
+<item id="6" name="Plug It In" genre_id="134" singer="BASEMENT JAXX" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/6_poly_123663411945dd9374bd63b.mp3"/>
+</previews>
+</item>
+
+<item id="7" name="I Want It All" genre_id="134" singer="Depeche Mode" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/7_poly_181314984445dd96f4343a8.mp3"/>
+</previews>
+</item>
+
+<item id="8" name="Nothing's Impossible" genre_id="134" singer="Depeche Mode" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/8_poly_49240170145dd9c3445797.mp3"/>
+</previews>
+</item>
+<item id="9" name="Destination Unknown" genre_id="134" singer="Alex Gaudino ft. Crystal Waters" fi_ids="108"/>
+
+<item id="10" name="Suffer Well" genre_id="134" singer="Depeche Mode" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/10_poly_209522440645dda0c27aadb.mp3"/>
+</previews>
+</item>
+
+<item id="14" name="Москва слезам не верит (Москва С. Н. В.)" genre_id="121" singer="Чай Вдвоем" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/14_poly_8663755745e40c4ae4c9c.mp3"/>
+</previews>
+</item>
+
+<item id="16" name="Я это вижу я это знаю" genre_id="121" singer="Орбакайте Кристина" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/16_poly_74088122945e40b1a42780.mp3"/>
+</previews>
+</item>
+
+<item id="17" name="30 лет" genre_id="137" singer="Сектор Газа" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/17_41c1b372c1ce5_poly.mp3"/>
+</previews>
+</item>
+
+<item id="20" name="Desecration Smile" genre_id="137" singer="Red Hot Chili Peppers" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/20_poly_106006740845e40a3a4411e.mp3"/>
+</previews>
+</item>
+
+<item id="24" name="Поцелуи" genre_id="121" singer="Виа Гра" fi_ids="298,288,108">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/24_real_187748404946f8d62bd9280.mp3"/>
+</previews>
+</item>
+
+<item id="26" name="5ая Симфония" genre_id="104" singer="Бетховен" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/26_poly_135345726644a103b361d4f.mp3"/>
+</previews>
+</item>
+
+<item id="29" name="Две дороги, два пути" genre_id="121" singer="Агутин Л. и Варум А." fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/29_real_196901370946f79f1c0201d.mp3"/>
+</previews>
+</item>
+
+<item id="30" name="7 Nation Army" genre_id="137" singer="White Stripes" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/00030_poly_2902.mid"/>
+</previews>
+</item>
+
+<item id="31" name="Самый любимый враг" genre_id="121" singer="Гости Из Будущего" fi_ids="108">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/31_real_9063052746f79b03dc3e6.mp3"/>
+</previews>
+</item>
+
+<item id="42" name="Adam`s Song" genre_id="133" singer="Blink 182" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/42_poly_1541451119426ce217bcb6d.mid"/>
+</previews>
+</item>
+
+<item id="43" name="Алло,генерал" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/43_real_88320941845dcdea680997.wma"/>
+</previews>
+</item>
+
+<item id="45" name="Я знаю" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/45_real_95555970545dcdddeb3134.wma"/>
+</previews>
+</item>
+
+<item id="46" name="Парни не плачут, из т\с «Кадетство»" genre_id="105" singer="Айвазов Александр" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/46_real_53813256746f249e7cf2b2.mp3"/>
+</previews>
+</item>
+
+<item id="49" name="Мужчинам свободу!" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/49_real_208517333945dcdd045a234.wma"/>
+</previews>
+</item>
+
+<item id="50" name="Лёгким движением руки..." genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/50_real_173151877345dcdc160f976.wma"/>
+</previews>
+</item>
+
+<item id="51" name="Дрессировка" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/51_real_41725153545dcdb38a3af3.wma"/>
+</previews>
+</item>
+
+<item id="52" name="Боевой товарищь" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/52_real_135803271745dcda707bde9.wma"/>
+</previews>
+</item>
+
+<item id="53" name="В телефоне бомба" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/53_real_122148200645dcd4963ba8c.wma"/>
+</previews>
+</item>
+
+<item id="54" name="Але,супермен?" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/54_real_119041890645dcd3bc8dd95.wma"/>
+</previews>
+</item>
+
+<item id="57" name="В военкомат шагом марш!" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/57_real_53597660745dcd1e0b0aeb.wma"/>
+</previews>
+</item>
+
+<item id="58" name="Боец,возьми трубку" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/58_real_5654241545dcd0ea2bebe.wma"/>
+</previews>
+</item>
+
+<item id="59" name="300 отжиманий" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/59_real_120858568845dccfebbd73b.wma"/>
+</previews>
+</item>
+
+<item id="60" name="Хватайте уклониста!" genre_id="129" fi_ids="298">
+
+<previews>
+<preview name="previewreal" url="http://img.playfon.ru/preview/melodies/60_real_180484115945dccab2d520e.wma"/>
+</previews>
+</item>
+<item id="64" name="Green Light" genre_id="115" singer="Beyonce" fi_ids="108,298,288"/>
+
+<item id="65" name="All That She Wants" genre_id="121" singer="Ace Of Base" fi_ids="108">
+
+<previews>
+<preview name="previewpoly" url="http://img.playfon.ru/preview/melodies/65_poly_8956515264288a7e8dfd49.mp3"/>
+</previews>
+</item>
+</items>
+</catalog>

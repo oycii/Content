@@ -1,0 +1,477 @@
+<catalog update_id="0" update_to="70232" media_type="images" region="RU">
+
+<service_groups>
+
+<service_group id="100" price="1.00">
+<service id="799" operator_name="Билайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="13" operator_name="МТС" phone="1615" real_price=" 44,03  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="14" operator_name="Мегафон Москва" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="15" operator_name="Мегафон Поволжье" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="16" operator_name="Мегафон Кавказ" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="39" operator_name="СМАРТС" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="35" operator_name="Байкалвестком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="411" operator_name="Мегафон-Сибирь" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="602" operator_name="Теле2" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="95" operator_name="НТК" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="125" operator_name="Пенза GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="359" operator_name="Stek-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="479" operator_name="Мотив" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="223" operator_name="Мегафон центр" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="242" operator_name="Шупашкар-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="286" operator_name="Мегафон Северо-Запад" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="264" operator_name="Енисей Телеком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="298" operator_name="Мегафон-Урал" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="311" operator_name="Ютел" phone="1615" real_price=" 44,25  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="370" operator_name="Элайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="400" operator_name="СМАРТС (Иваново)" phone="1615" real_price=" 46  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="444" operator_name="Астрахань GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="499" operator_name="Оренбург-GSM" phone="1615" real_price=" 35,05  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="510" operator_name="НСС Ульяновск" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="555" operator_name="НСС Чувашия" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="544" operator_name="НСС Саратов" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="699" operator_name="СМАРТС (Ярославль)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="830" operator_name="СМАРТС (Волгоград)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="580" operator_name="НСС Нижний Новгород" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="586" operator_name="Улан-Удэнская Сотовая сеть" phone="1615" real_price=" 44  рубля с НДС" operator_logo=""/>
+<service id="570" operator_name="НСС Татарстан" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo=""/>
+</service_group>
+</service_groups>
+
+<media_formats>
+<media_format id="40" name="Картинки" code_mask="xxxxic49" code_mask_old="40xxxx49"/>
+</media_formats>
+
+<format_instances>
+<format_instance id="140" mf_id="40" sg_id="100"/>
+</format_instances>
+
+<genres>
+<genre id="100" name="Мир дикой природы"/>
+<genre id="109" name="Современное авто"/>
+<genre id="7" name="Обои"/>
+<genre id="28" name="Цветы"/>
+<genre id="19" name="Валентинки"/>
+<genre id="18" name="Мультяшки"/>
+<genre id="154" name="Люди"/>
+<genre id="175" name="Ну, погоди!"/>
+<genre id="163" name="Хит-мульт"/>
+<genre id="166" name="Для самых маленьких"/>
+<genre id="170" name="Приключенческие"/>
+<genre id="174" name="Веселая карусель"/>
+<genre id="97" name="Подводный мир"/>
+<genre id="106" name="Спортивные"/>
+<genre id="142" name="Море, Пальмы..."/>
+<genre id="176" name="Ребятам о Зверятах"/>
+<genre id="103" name="Прикольные зверюги"/>
+<genre id="95" name="Птицы"/>
+<genre id="105" name="Concept car"/>
+<genre id="6" name="Разное"/>
+<genre id="104" name="Малыши"/>
+<genre id="172" name="Национальные/народы мира"/>
+<genre id="179" name="Супер-мультфильм Гарфилд"/>
+<genre id="189" name="Мистер Бин"/>
+<genre id="101" name="Насекомые"/>
+<genre id="96" name="Кошки и собаки"/>
+<genre id="119" name="Экстрим"/>
+<genre id="108" name="Классика"/>
+<genre id="167" name="Для взрослых"/>
+<genre id="168" name="Школа"/>
+<genre id="161" name="Шрек 3"/>
+<genre id="126" name="Драконы"/>
+<genre id="125" name="Фантастические пейзажи"/>
+<genre id="102" name="Иллюстрированные животные"/>
+<genre id="107" name="Иллюстрации"/>
+<genre id="144" name="Небо"/>
+<genre id="152" name="Граффити"/>
+<genre id="16" name="Девушки"/>
+<genre id="121" name="Разное"/>
+<genre id="205" name="Евровидение 2009"/>
+<genre id="145" name="Архитектура"/>
+<genre id="1" name="Автомобили"/>
+<genre id="182" name="Волшебный мир Диснея"/>
+<genre id="61" name="Праздники"/>
+<genre id="193" name="Супермульт Кунг-Фу Панда"/>
+<genre id="201" name="Мадагаскар 2 : Побег в Африку Суперхит!!!"/>
+<genre id="5" name="Новый год"/>
+<genre id="164" name="Наши сказки"/>
+<genre id="169" name="Спортивные"/>
+<genre id="177" name="к/ф Трансформеры (2007)"/>
+<genre id="202" name="м/ф Вольт"/>
+<genre id="115" name="Футбол"/>
+<genre id="63" name="День Защитника Отечества"/>
+<genre id="141" name="Астрология"/>
+<genre id="124" name="Музыка"/>
+<genre id="129" name="Иероглифы"/>
+<genre id="197" name="Феи"/>
+<genre id="157" name="Черепашки Ниндзя(2007)"/>
+<genre id="56" name="Из мультфильмов"/>
+<genre id="159" name="Пасха"/>
+<genre id="4" name="Пейзажи"/>
+<genre id="185" name="Супермультфильм Тачки"/>
+<genre id="187" name="Бой с тенью 2"/>
+<genre id="184" name="Новогодние поздравления"/>
+<genre id="181" name="сериал Папины дочки"/>
+<genre id="165" name="Любимые праздники"/>
+<genre id="99" name="Сафари"/>
+<genre id="8" name="Знаменитости"/>
+<genre id="146" name="Города"/>
+<genre id="134" name="Спортивное мото"/>
+<genre id="149" name="Аниме"/>
+<genre id="20" name="Тату"/>
+<genre id="128" name="Братство кольца"/>
+<genre id="62" name="8 марта"/>
+<genre id="198" name="Классный Мьюзикл: Выпускной"/>
+<genre id="58" name="Подводная братва"/>
+<genre id="200" name="Disney's Halloween"/>
+<genre id="150" name="Манга"/>
+<genre id="122" name="Велоспорт"/>
+<genre id="118" name="Зимние виды спорта"/>
+<genre id="117" name="Серфинг"/>
+<genre id="199" name="к/ф Мираж"/>
+<genre id="204" name="к/ф Шопоголик"/>
+<genre id="180" name="Хеллоуин"/>
+<genre id="55" name="Царство небесное"/>
+<genre id="12" name="Манга"/>
+<genre id="3" name="Животные"/>
+<genre id="91" name="Смайлики"/>
+<genre id="21" name="Фэнтези"/>
+<genre id="59" name="Тутенштейн"/>
+<genre id="25" name="Анимашки"/>
+<genre id="13" name="Спорт"/>
+<genre id="116" name="Баскетбол"/>
+<genre id="98" name="Пингвины"/>
+<genre id="123" name="Кино/ТВ"/>
+<genre id="147" name="Горы"/>
+<genre id="51" name="Зорро"/>
+<genre id="207" name="Книга Мастеров"/>
+<genre id="191" name="сериал Остаться в живых (LOST)"/>
+<genre id="23" name="Из кинофильмов"/>
+<genre id="192" name="Хроники Нарнии"/>
+<genre id="196" name="Ханна Монтана"/>
+<genre id="155" name="Еда"/>
+<genre id="131" name="Индийские знаки"/>
+<genre id="53" name="Олигарх"/>
+<genre id="50" name="Бумер"/>
+<genre id="64" name="Супер-мультфильм Ледниковый период"/>
+<genre id="143" name="Леса, деревья"/>
+<genre id="90" name="Том и Джерри"/>
+<genre id="113" name="Флаги"/>
+<genre id="183" name="Зачарованная"/>
+<genre id="173" name="Фантастика"/>
+<genre id="93" name="Охота на пиранью"/>
+<genre id="135" name="Истребители"/>
+<genre id="140" name="Кукурузники"/>
+<genre id="138" name="Вертолеты"/>
+<genre id="148" name="Водопады"/>
+<genre id="114" name="Американский футбол"/>
+<genre id="133" name="Классика жанра"/>
+<genre id="110" name="Грузовики"/>
+<genre id="208" name="Зимняя Олимпиада Vancouver 2010"/>
+<genre id="209" name="Белка и Стрелка. Звездные собаки"/>
+<genre id="210" name="1 апреля"/>
+<genre id="211" name="9 мая"/>
+<genre id="212" name="1 мая"/>
+<genre id="213" name="Принц Персии: Пески времени"/>
+</genres>
+
+<items>
+
+
+<item id="26" name="Ну,погоди! Выпуск10_2" genre_id="175" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/26_1335929032466ff8f1db89a.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/26_1335929032466ff8f1db89a.jpg"/>
+</screenshots>
+</item>
+
+<item id="27" name="Ну,погоди! Выпуск10_3" genre_id="175" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/27_906479119466ff93d50a9e.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/27_906479119466ff93d50a9e.jpg"/>
+</screenshots>
+</item>
+
+<item id="28" name="Ну,погоди! Выпуск10_4" genre_id="175" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/28_689302292466ff990b9f44.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/28_689302292466ff990b9f44.jpg"/>
+</screenshots>
+</item>
+
+<item id="30" name="Винни Пух_2" genre_id="163" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/30_1908394807466ffff29de77.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/30_1908394807466ffff29de77.jpg"/>
+</screenshots>
+</item>
+
+<item id="31" name="Винни Пух2_2" genre_id="163" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/31_81704496946700052a326b.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/31_81704496946700052a326b.jpg"/>
+</screenshots>
+</item>
+
+<item id="32" name="Винни Пух2_3" genre_id="163" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/32_15940104554670009e5ca19.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/32_15940104554670009e5ca19.jpg"/>
+</screenshots>
+</item>
+
+<item id="33" name="Катерок_5" genre_id="166" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/33_101158325046728d1733fed.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/33_101158325046728d1733fed.jpg"/>
+</screenshots>
+</item>
+
+<item id="34" name="Катерок_6" genre_id="166" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/34_89989932846728d6b23d98.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/34_89989932846728d6b23d98.jpg"/>
+</screenshots>
+</item>
+
+<item id="35" name="Катерок_7" genre_id="166" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/35_85946938346728dcc3de72.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/35_85946938346728dcc3de72.jpg"/>
+</screenshots>
+</item>
+
+<item id="36" name="Катерок_8" genre_id="166" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/36_19083148346728e62742e0.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/36_19083148346728e62742e0.jpg"/>
+</screenshots>
+</item>
+
+<item id="37" name="Бременские музыканты_1" genre_id="170" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/37_1962867044467291a7ccc51.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/37_1962867044467291a7ccc51.jpg"/>
+</screenshots>
+</item>
+
+<item id="38" name="Бременские музыканты_2" genre_id="170" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/38_234322690467291f91115a.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/38_234322690467291f91115a.jpg"/>
+</screenshots>
+</item>
+
+<item id="39" name="Бременские музыканты_3" genre_id="170" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/39_1909499303467292428b6e7.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/39_1909499303467292428b6e7.jpg"/>
+</screenshots>
+</item>
+
+<item id="40" name="Бременские музыканты_4" genre_id="170" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/40_79300519146729284ed56d.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/40_79300519146729284ed56d.jpg"/>
+</screenshots>
+</item>
+
+<item id="43" name="Разгром_1" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/43_116809256546729f087e3e6.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/43_116809256546729f087e3e6.jpg"/>
+</screenshots>
+</item>
+
+<item id="44" name="Разгром_2" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/44_185740159246729f55ec658.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/44_185740159246729f55ec658.jpg"/>
+</screenshots>
+</item>
+
+<item id="45" name="Рыжий рыжий конопатый_1" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/45_97218147446729fcfb728d.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/45_97218147446729fcfb728d.jpg"/>
+</screenshots>
+</item>
+
+<item id="46" name="Рыжий рыжий конопатый_2" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/46_13233038694672a01e50e61.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/46_13233038694672a01e50e61.jpg"/>
+</screenshots>
+</item>
+
+<item id="55" name="Завтра будет завтра_1" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/55_245090139467695af4cf9c.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/55_245090139467695af4cf9c.jpg"/>
+</screenshots>
+</item>
+
+<item id="56" name="Завтра будет завтра_2" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/56_1241622870467695ff87df4.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/56_1241622870467695ff87df4.jpg"/>
+</screenshots>
+</item>
+
+<item id="57" name="Завтра будет завтра_3" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/57_10448660344676964fd16a7.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/57_10448660344676964fd16a7.jpg"/>
+</screenshots>
+</item>
+
+<item id="58" name="Завтра будет завтра_4" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/58_1209581761467696932e1a3.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/58_1209581761467696932e1a3.jpg"/>
+</screenshots>
+</item>
+
+<item id="59" name="Завтра будет завтра_5" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/59_479123613467696cd9c2d8.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/59_479123613467696cd9c2d8.jpg"/>
+</screenshots>
+</item>
+
+<item id="61" name="Волк и козленок_1" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/61_9317110944678e4a39e2df.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/61_9317110944678e4a39e2df.jpg"/>
+</screenshots>
+</item>
+
+<item id="62" name="Волк и козленок_2" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/62_7111466324678e4e8d69d4.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/62_7111466324678e4e8d69d4.jpg"/>
+</screenshots>
+</item>
+
+<item id="63" name="Волк и козленок_3" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/63_1186511844678e52b83e00.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/63_1186511844678e52b83e00.jpg"/>
+</screenshots>
+</item>
+
+<item id="64" name="Волк и козленок_4" genre_id="176" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/64_5020301994678e57e694a4.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/64_5020301994678e57e694a4.jpg"/>
+</screenshots>
+</item>
+
+<item id="68" genre_id="103" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/10021_12518201484616518ab64b0.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/10021_12518201484616518ab64b0.jpg"/>
+</screenshots>
+</item>
+
+<item id="70" genre_id="7" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/10023_1448216036461652252e2a4.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/10023_1448216036461652252e2a4.jpg"/>
+</screenshots>
+</item>
+
+<item id="82" name="Антошка_1" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/82_223730837467935f1904d6.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/82_223730837467935f1904d6.jpg"/>
+</screenshots>
+</item>
+
+<item id="83" name="Антошка_2" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/83_15128921514679363eb7a76.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/83_15128921514679363eb7a76.jpg"/>
+</screenshots>
+</item>
+
+<item id="84" name="Антошка_3" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/84_927633947467936880d078.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/84_927633947467936880d078.jpg"/>
+</screenshots>
+</item>
+
+<item id="85" name="Антошка_4" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/85_1213746769467936d436d1b.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/85_1213746769467936d436d1b.jpg"/>
+</screenshots>
+</item>
+
+<item id="87" name="Рассеянный Джаванни_1" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/87_94621914846793adfc84e2.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/87_94621914846793adfc84e2.jpg"/>
+</screenshots>
+</item>
+
+<item id="88" name="Рассеянный Джаванни_2" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/88_89116752646793b24276da.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/88_89116752646793b24276da.jpg"/>
+</screenshots>
+</item>
+
+<item id="89" name="Рассеянный Джаванни_3" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/89_72342512346793b736252e.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/89_72342512346793b736252e.jpg"/>
+</screenshots>
+</item>
+
+<item id="90" name="Рассеянный Джаванни_4" genre_id="174" fi_ids="140">
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/imageimages/90_62070360746793bbc84c69.jpg"/>
+<screenshot small="1" url="http://wapi.playfon.ru/i/s/90_62070360746793bbc84c69.jpg"/>
+</screenshots>
+</item>
+
+</items>
+</catalog>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "http://wwwg.playfon.ru/exportXML.dtd">
+<catalog update_id="0" update_to="57966" media_type="Polyphonia"
+	region="RU">
+	<parts>
+		<part id="1"
+			url="http://localhost:8080/Content/testLoad/index?region=RU&amp;contenttype=Melody&amp;resource_id=123456&amp;update_id=0&amp;part=1" />
+		<part id="2"
+			url="http://localhost:8080/Content/testLoad/index?region=RU&amp;contenttype=Melody&amp;resource_id=123456&amp;update_id=0&amp;part=2" />
+		<part id="3"
+			url="http://localhost:8080/Content/testLoad/index?region=RU&amp;contenttype=Melody&amp;resource_id=123456&amp;update_id=0&amp;part=3" />
+	</parts>
+	<service_groups>
+		<service_group id="100" price="1.00">
+			<service id="799" operator_name="Билайн" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif" />
+			<service id="13" operator_name="МТС" phone="1615"
+				real_price=" 44,03  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif" />
+			<service id="14" operator_name="Мегафон Москва" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="15" operator_name="Мегафон Поволжье" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="16" operator_name="Мегафон Кавказ" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="39" operator_name="СМАРТС" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="35" operator_name="Байкалвестком" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif" />
+			<service id="411" operator_name="Мегафон-Сибирь" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="602" operator_name="Теле2" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif" />
+			<service id="95" operator_name="НТК" phone="1615" real_price=" 44  рубля с НДС"
+				operator_logo="http://img.playfon.ru/img/operators/ntk.gif" />
+			<service id="125" operator_name="Пенза GSM" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="479" operator_name="Мотив" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif" />
+			<service id="223" operator_name="Мегафон центр" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="242" operator_name="Шупашкар-GSM" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="286" operator_name="Мегафон Северо-Запад" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="264" operator_name="Енисей Телеком" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif" />
+			<service id="298" operator_name="Мегафон-Урал" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif" />
+			<service id="311" operator_name="Ютел" phone="1615"
+				real_price=" 45  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif" />
+			<service id="370" operator_name="Элайн" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif" />
+			<service id="400" operator_name="СМАРТС (Иваново)" phone="1615"
+				real_price=" 46  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="444" operator_name="Астрахань GSM" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="499" operator_name="Оренбург-GSM" phone="1615"
+				real_price=" 35,05  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif" />
+			<service id="510" operator_name="НСС Ульяновск" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="555" operator_name="НСС Чувашия" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif" />
+			<service id="544" operator_name="НСС Саратов" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif" />
+			<service id="699" operator_name="СМАРТС (Ярославль)" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="830" operator_name="СМАРТС (Волгоград)" phone="1615"
+				real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif" />
+			<service id="580" operator_name="НСС Нижний Новгород" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg" />
+			<service id="586" operator_name="Улан-Удэнская Сотовая сеть"
+				phone="1615" real_price=" 44  рубля с НДС" operator_logo="" />
+			<service id="570" operator_name="НСС Татарстан" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="" />
+			<service id="1035" operator_name="НСС Пенза" phone="1615"
+				real_price=" 43,14  рубля с НДС" operator_logo="" />
+		</service_group>
+	</service_groups>
+	<phones>
+		<phone id="2547" vendor="Samsung" model="Samsung M2513" />
+		<phone id="2548" vendor="Samsung" model="Samsung i688" />
+		<phone id="2549" vendor="Samsung" model="Samsung M2520 Beat" />
+		<phone id="2551" vendor="Samsung" model="Samsung S8500 Wave" />
+		<phone id="2552" vendor="Samsung" model="Samsung A886 Forever" />
+		<phone id="2554" vendor="Samsung" model="Samsung A797 Flight" />
+		<phone id="2555" vendor="Samsung" model="Samsung D788" />
+		<phone id="2556" vendor="Samsung" model="Samsung S5503" />
+		<phone id="2557" vendor="Samsung" model="Samsung A177" />
+		<phone id="2558" vendor="Samsung" model="Samsung A697 Sunburst" />
+		<phone id="2559" vendor="Samsung" model="Samsung T636" />
+		<phone id="2560" vendor="Samsung" model="Samsung S5500 Eco" />
+		<phone id="2563" vendor="Vodafone" model="Vodafone 716" />
+		<phone id="2566" vendor="Nokia" model="Nokia E73 Mode" />
+		<phone id="2569" vendor="HTC" model="HTC P5500 Nike" />
+		<phone id="2570" vendor="HTC" model="HTC P5520 Touch Dual" />
+		<phone id="2572" vendor="LG" model="LG U400" />
+		<phone id="2573" vendor="LG" model="LG KU970 Shine" />
+		<phone id="2574" vendor="LG" model="LG U900" />
+		<phone id="2576" vendor="Samsung" model="Samsung I6220 Star TV" />
+		<phone id="2577" vendor="Samsung" model="Samsung S7550 Blue Earth" />
+		<phone id="2578" vendor="Samsung" model="Samsung ZX10" />
+		<phone id="2579" vendor="Samsung" model="Samsung ZX20" />
+		<phone id="2581" vendor="Motorola" model="Motorola V540" />
+		<phone id="2582" vendor="Sharp" model="Sharp GX-40" />
+		<phone id="2584" vendor="Samsung" model="Samsung I7500 Galaxy" />
+		<phone id="2585" vendor="Samsung" model="Samsung I5700 Galaxy Spica" />
+		<phone id="2587" vendor="Nokia" model="Nokia C7-00" />
+		<phone id="2588" vendor="HTC" model="HTC Droid Eris" />
+		<phone id="2590" vendor="FLY" model="Fly G1" />
+		<phone id="2591" vendor="HTC" model="HTC Magic" />
+		<phone id="2592" vendor="Nokia" model="Nokia 6131 NFC" />
+		<phone id="2594" vendor="FLY" model="Fly MC220" />
+		<phone id="2600" vendor="Motorola" model="Motorola MB300 Backflip" />
+		<phone id="2601" vendor="Motorola" model="Motorola A555 Devour" />
+		<phone id="2602" vendor="Motorola" model="Motorola MB200 Cliq/Dext" />
+		<phone id="2603" vendor="Motorola" model="Motorola A853 Milestone" />
+		<phone id="2604" vendor="Motorola" model="Motorola XT720 Motoroi" />
+		<phone id="2605" vendor="LG" model="LG GW620 Eve" />
+		<phone id="2606" vendor="LG" model="LG GT540 Optimus/Swift" />
+		<phone id="2607" vendor="Huawei" model="Huawei U8220 Pulse" />
+		<phone id="2608" vendor="Huawei" model="Huawei U8230 RBM2" />
+		<phone id="2609" vendor="Samsung" model="Samsung I5800 Galaxy 3" />
+		<phone id="2610" vendor="Samsung" model="Samsung I5801 Galaxy Apollo" />
+		<phone id="2611" vendor="SonyEricsson" model="SonyEricsson Xperia X3" />
+		<phone id="2612" vendor="Nokia" model="Nokia 5228" />
+		<phone id="2613" vendor="SonyEricsson" model="Sony Xperia X8" />
+		<phone id="2615" vendor="Nokia" model="Nokia C5-01" />
+		<phone id="2616" vendor="Nokia" model="Nokia X5-01" />
+		<phone id="2620" vendor="FLY" model="Fly E150" />
+		<phone id="2622" vendor="HTC" model="HTC A3333 Wildfire" />
+		<phone id="2623" vendor="HTC" model="HTC Nexus One" />
+		<phone id="2624" vendor="Samsung" model="Samsung I9000 Galaxy S" />
+		<phone id="2625" vendor="Acer" model="Acer S100 Liquid" />
+		<phone id="2637" vendor="HTC" model="HTC T3320 Touch2" />
+		<phone id="2638" vendor="HTC" model="HTC Gemini" />
+		<phone id="2640" vendor="SonyEricsson" model="SonyEricsson J108i Cedar" />
+		<phone id="2646" vendor="Huawei" model="Huawei U3100" />
+		<phone id="2649" vendor="LG" model="LG GX300" />
+		<phone id="2650" vendor="LG" model="LG GS500 Cookie Plus" />
+		<phone id="2651" vendor="LG" model="LG GX500" />
+		<phone id="2652" vendor="LG" model="LG GU230" />
+		<phone id="2653" vendor="LG" model="LG GS205" />
+		<phone id="2654" vendor="LG" model="LG GT400 Viewty Smile" />
+		<phone id="2655" vendor="LG" model="LG GM360" />
+		<phone id="2658" vendor="LG" model="LG GX200" />
+		<phone id="2661" vendor="LG" model="LG GT350 Town" />
+		<phone id="2662" vendor="LG" model="LG KT525" />
+		<phone id="2668" vendor="Motorola" model="Motorola A855 Droid" />
+		<phone id="2669" vendor="Samsung" model="Samsung T939 Behold 2" />
+		<phone id="2670" vendor="SonyEricsson" model="SonyEricsson P200i Paris" />
+		<phone id="2671" vendor="HTC" model="HTC 9090 Blue Angel" />
+		<phone id="2677" vendor="HTC" model="HTC ADR6300 Incredible" />
+		<phone id="2678" vendor="Motorola" model="Motorola RIZR Z10" />
+		<phone id="2682" vendor="Samsung" model="Samsung I8320" />
+		<phone id="2684" vendor="Samsung" model="Samsung S5320 Star" />
+		<phone id="2685" vendor="LG" model="LG GM750 Layla" />
+		<phone id="2686" vendor="LG" model="LG VS740 Ally" />
+		<phone id="2687" vendor="Motorola" model="Motorola i1 Opus One" />
+		<phone id="2688" vendor="LG" model="LG VX9700 Dare" />
+		<phone id="2690" vendor="LG" model="LG VX9400" />
+		<phone id="2691" vendor="Nokia" model="Nokia 2322 Classic" />
+		<phone id="2692" vendor="Nokia" model="Nokia 2332 Classic" />
+		<phone id="2697" vendor="LG" model="LG VX5600 Accolade" />
+		<phone id="2698" vendor="LG" model="LG MG280" />
+		<phone id="2699" vendor="LG" model="LG KG210" />
+		<phone id="2700" vendor="LG" model="LG KS365" />
+		<phone id="2701" vendor="LG" model="LG LX610 Lotus Elite" />
+		<phone id="2702" vendor="LG" model="LG GW305" />
+		<phone id="2703" vendor="LG" model="LG MU500" />
+		<phone id="2704" vendor="LG" model="LG VX8550" />
+		<phone id="2705" vendor="LG" model="LG 265 Script" />
+		<phone id="2706" vendor="LG" model="LG GB165" />
+		<phone id="2707" vendor="LG" model="LG GM210" />
+		<phone id="2708" vendor="LG" model="LG GS390 Prime" />
+		<phone id="2709" vendor="LG" model="LG U370" />
+		<phone id="2710" vendor="LG" model="LG T300 Cookie" />
+		<phone id="2711" vendor="LG" model="LG GB175" />
+		<phone id="2712" vendor="LG" model="LG MX505" />
+		<phone id="2713" vendor="LG" model="LG AX310" />
+		<phone id="2714" vendor="LG" model="LG MG120" />
+		<phone id="2715" vendor="LG" model="LG TU720 Shine" />
+		<phone id="2717" vendor="LG" model="LG KD876" />
+		<phone id="2718" vendor="LG" model="LG KM570 Cookie Music" />
+		<phone id="2719" vendor="LG" model="LG KP505" />
+		<phone id="2720" vendor="LG" model="LG MG200" />
+		<phone id="2721" vendor="LG" model="LG MG235" />
+		<phone id="2724" vendor="LG" model="LG U830" />
+		<phone id="2727" vendor="SonyEricsson" model="SonyEricsson T123i" />
+		<phone id="2728" vendor="Motorola" model="Motorola VE20" />
+		<phone id="2729" vendor="Motorola" model="Motorola W755" />
+		<phone id="2730" vendor="Motorola" model="Motorola WX404 Grasp" />
+		<phone id="2731" vendor="Motorola" model="Motorola ROKR EM35" />
+		<phone id="2732" vendor="Motorola" model="Motorola W403" />
+		<phone id="2733" vendor="Motorola" model="Motorola WX295" />
+		<phone id="2734" vendor="LG" model="LG KE520" />
+		<phone id="2735" vendor="LG" model="LG GW820 eXpo" />
+		<phone id="2736" vendor="Samsung" model="Samsung C5010" />
+		<phone id="2737" vendor="Samsung" model="Samsung E2550 Monte Slider" />
+		<phone id="2738" vendor="Nokia" model="Nokia X3-02" />
+		<phone id="2740" vendor="Pantech" model="Pantech P7040" />
+		<phone id="2743" vendor="Sagem" model="Sagem my401Z" />
+		<phone id="2744" vendor="Sagem" model="Sagem VF540" />
+		<phone id="2745" vendor="Samsung" model="Samsung C3200 Monte Bar" />
+		<phone id="2746" vendor="Samsung" model="Samsung E2152 Duos Lite" />
+		<phone id="2747" vendor="Samsung" model="Samsung C3303" />
+		<phone id="2748" vendor="Samsung" model="Samsung E2370 Xcover" />
+		<phone id="2749" vendor="Samsung" model="Samsung B7722" />
+		<phone id="2750" vendor="Samsung" model="Samsung S5250 Wave 2" />
+		<phone id="2751" vendor="Samsung" model="Samsung T359 Smiley" />
+		<phone id="2752" vendor="Samsung" model="Samsung B7350 Omnia PRO 4" />
+		<phone id="2753" vendor="Samsung" model="Samsung T669 Gravity T" />
+		<phone id="2754" vendor="Samsung" model="Samsung W259" />
+		<phone id="2760" vendor="Samsung" model="Samsung A687 Strive" />
+		<phone id="2761" vendor="Samsung" model="Samsung S5628" />
+		<phone id="2762" vendor="LG" model="LG KP550 Rip Curl" />
+		<phone id="2764" vendor="Toshiba" model="Toshiba G500" />
+		<phone id="2765" vendor="Vodafone" model="Vodafone 546" />
+		<phone id="2766" vendor="Vodafone" model="Vodafone 547" />
+		<phone id="2768" vendor="Vodafone" model="Vodafone 543" />
+		<phone id="2776" vendor="Acer" model="Acer E110 beTouch" />
+		<phone id="2780" vendor="Alcatel" model="Alcatel OT 255" />
+		<phone id="2781" vendor="Alcatel" model="Alcatel OT 508" />
+		<phone id="2783" vendor="BlackBerry" model="BlackBerry 9800 Torch" />
+		<phone id="2784" vendor="BlackBerry" model="BlackBerry 9300 Curve 3G" />
+		<phone id="2788" vendor="Huawei" model="Huawei U3205 Pulso" />
+		<phone id="2789" vendor="Huawei" model="Huawei G7002" />
+		<phone id="2790" vendor="Huawei" model="Huawei U3311" />
+		<phone id="2792" vendor="LG" model="LG LN510 Rumor" />
+		<phone id="2793" vendor="LG" model="LG LX370" />
+		<phone id="2794" vendor="LG" model="LG AX830 Glimmer" />
+		<phone id="2795" vendor="LG" model="LG GM630" />
+		<phone id="2796" vendor="LG" model="LG C100" />
+		<phone id="2797" vendor="LG" model="LG A133" />
+		<phone id="2798" vendor="LG" model="LG KT610" />
+		<phone id="2799" vendor="LG" model="LG C1500" />
+		<phone id="2801" vendor="LG" model="LG GR501" />
+		<phone id="2802" vendor="LG" model="LG KE608" />
+		<phone id="2803" vendor="LG" model="LG GM600 Scarlet 2" />
+		<phone id="2804" vendor="LG" model="LG CB630" />
+		<phone id="2805" vendor="LG" model="LG GD310" />
+		<phone id="2806" vendor="Motorola" model="Motorola ZN300" />
+		<phone id="2807" vendor="Motorola" model="Motorola W231" />
+		<phone id="2808" vendor="Motorola" model="Motorola WX290" />
+		<phone id="2809" vendor="Motorola" model="Motorola SLVR V280" />
+		<phone id="2810" vendor="Nokia" model="Nokia E7-00" />
+		<phone id="2811" vendor="Samsung" model="Samsung i5500 Galaxy 5" />
+		<phone id="2812" vendor="Samsung" model="Samsung S3350 Corby 3G" />
+		<phone id="2813" vendor="Samsung" model="Samsung I5510 Galaxy 551" />
+		<phone id="2814" vendor="Samsung" model="Samsung E2530" />
+		<phone id="2817" vendor="Samsung" model="Samsung S7230 Wave 723" />
+		<phone id="2818" vendor="Samsung" model="Samsung B2710 Xcover 271" />
+		<phone id="2819" vendor="Samsung" model="Samsung S5330 Wave 2 Pro" />
+		<phone id="2820" vendor="Samsung" model="Samsung S5530" />
+		<phone id="2821" vendor="Samsung" model="Samsung I8330" />
+		<phone id="2823" vendor="Samsung" model="Samsung S9110" />
+		<phone id="2824" vendor="Samsung" model="Samsung I7410" />
+		<phone id="2825" vendor="Samsung" model="Samsung C5110" />
+		<phone id="2826" vendor="NEC" model="NEC C228" />
+		<phone id="2827" vendor="Panasonic" model="Panasonic MX6" />
+		<phone id="2833" vendor="BlackBerry" model="BlackBerry 9330 Curve" />
+		<phone id="2834" vendor="HTC" model="HTC P5310 Neon" />
+		<phone id="2835" vendor="HTC" model="HTC S630 Cavalier" />
+		<phone id="2836" vendor="Nokia" model="Nokia C5-03" />
+		<phone id="2839" vendor="Motorola" model="Motorola U3 PEBL" />
+		<phone id="2840" vendor="LG" model="LG KS500" />
+		<phone id="2841" vendor="LG" model="LG KT770" />
+		<phone id="2842" vendor="Nokia" model="Nokia C3-01" />
+		<phone id="2844" vendor="Samsung" model="Samsung C3222" />
+		<phone id="2848" vendor="Motorola" model="Motorola EX115" />
+		<phone id="2849" vendor="Motorola" model="Motorola EX300" />
+		<phone id="2851" vendor="SonyEricsson" model="SonyEricsson K758i" />
+		<phone id="2853" vendor="SonyEricsson" model="SonyEricsson W618i" />
+		<phone id="2865" vendor="LG" model="LG KP330" />
+		<phone id="2866" vendor="LG" model="LG LX265" />
+		<phone id="2867" vendor="LG" model="LG U250" />
+		<phone id="2868" vendor="LG" model="LG U450" />
+		<phone id="2869" vendor="LG" model="LG U990" />
+		<phone id="2870" vendor="Samsung" model="Samsung D810" />
+		<phone id="2871" vendor="Samsung" model="Samsung E388" />
+		<phone id="2872" vendor="Samsung" model="Samsung E788" />
+		<phone id="2874" vendor="Samsung" model="Samsung T709" />
+		<phone id="2875" vendor="Samsung" model="Samsung U540" />
+		<phone id="2876" vendor="Samsung" model="Samsung Z700" />
+		<phone id="2879" vendor="Nokia" model="Nokia C2-00" />
+		<phone id="2889" vendor="LG" model="LG KM710" />
+		<phone id="2890" vendor="Motorola" model="Motorola ROKR E3" />
+		<phone id="2891" vendor="Samsung" model="Samsung M6710 Beat DISC" />
+		<phone id="2892" vendor="Samsung" model="Samsung S5630" />
+		<phone id="2893" vendor="Samsung" model="Samsung S5750 Wave 575" />
+		<phone id="2894" vendor="Samsung" model="Samsung S8530 Wave II" />
+		<phone id="2895" vendor="FLY" model="Fly ST230" />
+		<phone id="2897" vendor="FLY" model="Fly MC175 DS" />
+		<phone id="2898" vendor="FLY" model="Fly DS186" />
+		<phone id="2899" vendor="Samsung" model="Samsung S5253 Wave 525" />
+		<phone id="2900" vendor="Samsung" model="Samsung S5333" />
+		<phone id="2901" vendor="Samsung" model="Samsung S7233 Wave 723" />
+		<phone id="2902" vendor="Samsung" model="Samsung C3530" />
+		<phone id="2904" vendor="Samsung" model="Samsung T369" />
+		<phone id="2905" vendor="Samsung" model="Samsung D988" />
+		<phone id="2906" vendor="Siemens" model="Siemens CT66" />
+		<phone id="2907" vendor="Samsung" model="Samsung A257 Magnet" />
+		<phone id="2908" vendor="Samsung" model="Samsung A187" />
+		<phone id="2909" vendor="Samsung" model="Samsung A927 Flight II" />
+		<phone id="2910" vendor="Samsung" model="Samsung T139 Mayon" />
+		<phone id="2911" vendor="LG" model="LG ME500" />
+		<phone id="2912" vendor="Samsung" model="Samsung A847 Rugby II" />
+		<phone id="2913" vendor="LG" model="LG ME540" />
+		<phone id="2915" vendor="LG" model="LG MG800" />
+		<phone id="2917" vendor="LG" model="LG U8210" />
+		<phone id="2920" vendor="Samsung" model="Samsung i760" />
+		<phone id="2921" vendor="LG" model="LG CG300" />
+		<phone id="2922" vendor="LG" model="LG CE500" />
+		<phone id="2923" vendor="LG" model="LG CE110" />
+		<phone id="2924" vendor="LG" model="LG F9100" />
+		<phone id="2925" vendor="LG" model="LG L1200" />
+		<phone id="2926" vendor="LG" model="LG LX160" />
+		<phone id="2927" vendor="LG" model="LG LX550 Fusic" />
+		<phone id="2928" vendor="LG" model="LG LX350" />
+		<phone id="2929" vendor="LG" model="LG VX9900 enV" />
+		<phone id="2930" vendor="LG" model="LG PM325" />
+		<phone id="2931" vendor="LG" model="LG PM225" />
+		<phone id="2932" vendor="Samsung" model="Samsung D347" />
+		<phone id="2933" vendor="Samsung" model="Samsung D307" />
+		<phone id="2934" vendor="Motorola" model="Motorola IC902" />
+		<phone id="2935" vendor="Samsung" model="Samsung D407" />
+		<phone id="2936" vendor="Samsung" model="Samsung D357" />
+		<phone id="2937" vendor="Nokia" model="Nokia X2-01" />
+		<phone id="2938" vendor="Motorola" model="Motorola RAZR2 V9x" />
+		<phone id="2939" vendor="LG" model="LG F9200" />
+		<phone id="2942" vendor="Samsung" model="Samsung i601" />
+		<phone id="2943" vendor="Samsung" model="Samsung A570" />
+		<phone id="2944" vendor="Samsung" model="Samsung A560" />
+		<phone id="2945" vendor="Samsung" model="Samsung A501" />
+		<phone id="2946" vendor="Samsung" model="Samsung R800 Delve" />
+		<phone id="2947" vendor="Motorola" model="Motorola V191" />
+		<phone id="2948" vendor="Samsung" model="Samsung A600" />
+		<phone id="2949" vendor="Samsung" model="Samsung A620" />
+		<phone id="2950" vendor="Samsung" model="Samsung A630" />
+		<phone id="2951" vendor="Samsung" model="Samsung A650" />
+		<phone id="2952" vendor="Samsung" model="Samsung A660" />
+		<phone id="2953" vendor="Samsung" model="Samsung A670" />
+		<phone id="2954" vendor="Samsung" model="Samsung A760" />
+		<phone id="2955" vendor="Samsung" model="Samsung A850" />
+		<phone id="2956" vendor="Samsung" model="Samsung A880" />
+		<phone id="2957" vendor="Samsung" model="Samsung A890" />
+		<phone id="2958" vendor="Samsung" model="Samsung A940" />
+		<phone id="2959" vendor="Motorola" model="Motorola IC402" />
+		<phone id="2960" vendor="Alcatel" model="Alcatel OT 606 Chat" />
+		<phone id="2961" vendor="Alcatel" model="Alcatel OT 710" />
+		<phone id="2962" vendor="Alcatel" model="Alcatel OT 909 MAX" />
+		<phone id="2963" vendor="Alcatel" model="Alcatel OT 300" />
+		<phone id="2969" vendor="HTC" model="НТС Prophet" />
+		<phone id="2970" vendor="HTC" model="HTC P3451 Touch" />
+		<phone id="2976" vendor="LG" model="LG LX150" />
+		<phone id="2977" vendor="Motorola" model="Motorola Q8" />
+		<phone id="2978" vendor="Samsung" model="Samsung I770 Saga" />
+		<phone id="2979" vendor="LG" model="LG T320 Cookie Style" />
+		<phone id="2980" vendor="LG" model="LG T310 Cookie 3G" />
+		<phone id="2981" vendor="LG" model="LG GW370 Rumour Plus" />
+		<phone id="2982" vendor="LG" model="LG CF750 Secret" />
+		<phone id="2983" vendor="LG" model="LG KU830" />
+		<phone id="2984" vendor="LG" model="LG KP15xQ" />
+		<phone id="2985" vendor="LG" model="LG S310" />
+		<phone id="2986" vendor="LG" model="LG P520" />
+		<phone id="2987" vendor="LG" model="LG C105" />
+		<phone id="2988" vendor="LG" model="LG VX11000 enV Touch" />
+		<phone id="2989" vendor="LG" model="LG MG296" />
+		<phone id="2990" vendor="LG" model="LG GB280" />
+		<phone id="2991" vendor="LG" model="LG BL42 New Chocolate" />
+		<phone id="2992" vendor="LG" model="LG MG295" />
+		<phone id="2994" vendor="LG" model="LG C300" />
+		<phone id="2996" vendor="LG" model="LG 3300" />
+		<phone id="2997" vendor="LG" model="LG GT550" />
+		<phone id="2998" vendor="LG" model="LG KF301" />
+		<phone id="2999" vendor="LG" model="LG KG77" />
+		<phone id="3000" vendor="LG" model="LG VN250 Cosmos" />
+		<phone id="3001" vendor="LG" model="LG GW550" />
+		<phone id="3008" vendor="Lenovo" model="Lenovo A332" />
+		<phone id="3011" vendor="Pantech" model="Pantech P4000" />
+		<phone id="3012" vendor="Samsung" model="Samsung C3630" />
+		<phone id="3014" vendor="Samsung" model="Samsung I220 Code" />
+		<phone id="3015" vendor="Samsung" model="Samsung R900" />
+		<phone id="3016" vendor="Samsung" model="Samsung R561" />
+		<phone id="3017" vendor="Samsung" model="Samsung R100 Stunt" />
+		<phone id="3018" vendor="Samsung" model="Samsung T249" />
+		<phone id="3019" vendor="Samsung" model="Samsung M350 Seek" />
+		<phone id="3020" vendor="Samsung" model="Samsung R351 Freeform" />
+		<phone id="3021" vendor="Samsung" model="Samsung A817 Solstice II" />
+		<phone id="3022" vendor="Samsung" model="Samsung T301" />
+		<phone id="3023" vendor="Samsung" model="Samsung T746 Impact" />
+		<phone id="3024" vendor="Toshiba" model="Toshiba TS921" />
+		<phone id="3025" vendor="Motorola" model="Motorola QA1 Karma" />
+		<phone id="3028" vendor="ZTE" model="ZTE S213" />
+		<phone id="3029" vendor="ZTE" model="ZTE F100" />
+		<phone id="3030" vendor="ZTE" model="ZTE T100" />
+		<phone id="3031" vendor="ZTE" model="ZTE R230" />
+		<phone id="3032" vendor="ZTE" model="ZTE R221" />
+		<phone id="3033" vendor="ZTE" model="ZTE R100" />
+		<phone id="3034" vendor="ZTE" model="ZTE F102" />
+		<phone id="3035" vendor="ZTE" model="ZTE F188" />
+		<phone id="3036" vendor="ZTE" model="ZTE E520" />
+		<phone id="3037" vendor="ZTE" model="ZTE X760" />
+		<phone id="3038" vendor="ZTE" model="ZTE R220" />
+		<phone id="3040" vendor="ZTE" model="ZTE R6" />
+		<phone id="3041" vendor="ZTE" model="ZTE X991 Orange Rio" />
+		<phone id="3042" vendor="ZTE" model="ZTE V8301" />
+		<phone id="3043" vendor="ZTE" model="ZTE F101" />
+		<phone id="3044" vendor="ZTE" model="ZTE F912" />
+		<phone id="3045" vendor="ZTE" model="ZTE T930" />
+		<phone id="3046" vendor="Nokia" model="Nokia 2692" />
+		<phone id="3047" vendor="Nokia" model="Nokia 6316" />
+		<phone id="3049" vendor="FLY" model="Fly MC180" />
+		<phone id="3052" vendor="LG" model="LG GS170" />
+		<phone id="3053" vendor="LG" model="LG X330" />
+		<phone id="3054" vendor="LG" model="LG F2250" />
+		<phone id="3055" vendor="LG" model="LG C305" />
+		<phone id="3056" vendor="LG" model="LG A140" />
+		<phone id="3057" vendor="LG" model="LG ME770" />
+		<phone id="3058" vendor="LG" model="LG MX8500" />
+		<phone id="3060" vendor="Nokia" model="Nokia 3320" />
+		<phone id="3061" vendor="Nokia" model="Nokia C2-01" />
+		<phone id="3062" vendor="Nokia" model="Nokia E76" />
+		<phone id="3063" vendor="SonyEricsson" model="SonyEricsson A8i" />
+		<phone id="3064" vendor="LG" model="LG G7200" />
+		<phone id="3066" vendor="LG" model="LG M4300" />
+		<phone id="3067" vendor="LG" model="LG LN240" />
+		<phone id="3069" vendor="LG" model="LG ME830" />
+		<phone id="3070" vendor="LG" model="LG MS25" />
+		<phone id="3071" vendor="LG" model="LG TU915" />
+	</phones>
+	<media_formats>
+		<media_format id="08" name="Polyphonia" code_mask="xxxxmp49"
+			code_mask_old="08xxxx49" code_mask_old_10000="06xxxx49"
+			code_mask_old_20000="16xxxx49" preview_field="previewpoly"
+			supported_phones="2547,2548,2549,2551,2552,2554,2555,2556,2557,2558,2559,2560,2563,2566,2569,2570,2572,2573,2574,2576,2577,2578,2579,2581,2582,2584,2585,2587,2588,2590,2591,2592,2594,2600,2601,2602,2603,2604,2605,2606,2607,2608,2609,2610,2611,2612,2613,2615,2616,2620,2622,2623,2624,2625,2637,2638,2640,2646,2649,2650,2651,2652,2653,2654,2655,2658,2661,2662,2668,2669,2670,2671,2677,2678,2682,2684,2685,2686,2687,2688,2690,2691,2692,2697,2698,2699,2700,2701,2702,2703,2704,2705,2706,2707,2708,2709,2710,2711,2712,2713,2714,2715,2717,2718,2719,2720,2721,2724,2727,2728,2729,2730,2731,2732,2733,2734,2735,2736,2737,2738,2740,2743,2744,2745,2746,2747,2748,2749,2750,2751,2752,2753,2754,2760,2761,2762,2764,2765,2766,2768,2776,2780,2781,2783,2784,2788,2789,2790,2792,2793,2794,2795,2796,2797,2798,2799,2801,2802,2803,2804,2805,2806,2807,2808,2809,2810,2811,2812,2813,2814,2817,2818,2819,2820,2821,2823,2824,2825,2826,2827,2833,2834,2835,2836,2839,2840,2841,2842,2844,2848,2849,2851,2853,2865,2866,2867,2868,2869,2870,2871,2872,2874,2875,2876,2879,2889,2890,2891,2892,2893,2894,2895,2897,2898,2899,2900,2901,2902,2904,2905,2906,2907,2908,2909,2910,2911,2912,2913,2915,2917,2920,2921,2922,2923,2924,2925,2926,2927,2928,2929,2930,2931,2932,2933,2934,2935,2936,2937,2938,2939,2942,2943,2944,2945,2946,2947,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2963,2969,2970,2976,2977,2978,2979,2980,2981,2982,2983,2984,2985,2986,2987,2988,2989,2990,2991,2992,2994,2996,2997,2998,2999,3000,3001,3008,3011,3012,3014,3015,3016,3017,3018,3019,3020,3021,3022,3023,3024,3025,3028,3029,3030,3031,3032,3033,3034,3035,3036,3037,3038,3040,3041,3042,3043,3044,3045,3046,3047,3049,3052,3053,3054,3055,3056,3057,3058,3060,3061,3062,3063,3064,3066,3067,3069,3070,3071" />
+	</media_formats>
+	<format_instances>
+		<format_instance id="108" mf_id="8" sg_id="100" />
+	</format_instances>
+	<genres>
+		<genre id="108" name="Народные" />
+		<genre id="134" name="Electronic / Dance" />
+		<genre id="121" name="Pop" />
+		<genre id="137" name="Russian" />
+		<genre id="203" name="Romantic Collection" />
+		<genre id="104" name="Классика" />
+		<genre id="115" name="Russian" />
+		<genre id="196" name="Танцпол 90-х" />
+		<genre id="105" name="Russian" />
+		<genre id="133" name="Alternative" />
+		<genre id="195" name="Дискотека 80-х" />
+		<genre id="143" name="Шансон" />
+		<genre id="136" name="Russian" />
+		<genre id="123" name="Приколы" />
+		<genre id="106" name="Russian" />
+		<genre id="135" name="Reggae" />
+		<genre id="107" name="Патриотические" />
+		<genre id="109" name="Звуки, Эффекты" />
+		<genre id="138" name="Музыкальные темы" />
+	</genres>
+	<items>
+		<item id="3" name="Семь сорок" genre_id="108" singer="Народная"
+			fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/00003_poly_2579.mid" />
+			</previews>
+		</item>
+		<item id="6" name="Plug It In" genre_id="134" singer="BASEMENT JAXX"
+			fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/6_poly_123663411945dd9374bd63b.mp3" />
+			</previews>
+		</item>
+		<item id="8" name="Nothing's Impossible" genre_id="134" singer="Depeche Mode"
+			fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/8_poly_49240170145dd9c3445797.mp3" />
+			</previews>
+		</item>
+		<item id="14" name="Москва слезам не верит (Москва С. Н. В.)"
+			genre_id="121" singer="Чай Вдвоем" fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/14_poly_8663755745e40c4ae4c9c.mp3" />
+			</previews>
+		</item>
+		<item id="16" name="Я это вижу я это знаю" genre_id="121"
+			singer="Орбакайте Кристина" fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/16_poly_74088122945e40b1a42780.mp3" />
+			</previews>
+		</item>
+		<item id="20" name="Desecration Smile" genre_id="137"
+			singer="Red Hot Chili Peppers" fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/20_poly_106006740845e40a3a4411e.mp3" />
+			</previews>
+		</item>
+		<item id="24" name="Поцелуи" genre_id="203" singer="Виа Гра"
+			fi_ids="108"></item>
+		<item id="26" name="5ая Симфония" genre_id="104" singer="Бетховен Л.В."
+			fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/26_poly_135345726644a103b361d4f.mp3" />
+			</previews>
+		</item>
+		<item id="31" name="Самый любимый враг" genre_id="121"
+			singer="Гости Из Будущего" fi_ids="108"></item>
+		<item id="87" name="Another Brick In the Wall" genre_id="137"
+			singer="Pink Floyd" fi_ids="108">
+			<previews>
+				<preview name="previewpoly"
+					url="http://img.playfon.ru/preview/melodies/00087_poly_2549.mid" />
+			</previews>
+		</item>
+	</items>
+</catalog>

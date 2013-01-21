@@ -1,0 +1,276 @@
+
+<catalog update_id="0" update_to="61072" media_type="games" region="RU">
+
+<service_groups>
+
+<service_group id="250" price="2.50">
+<service id="797" operator_name="Билайн" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="440" operator_name="МТС" phone="1515" real_price=" 101,26  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="431" operator_name="Мегафон Москва" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="432" operator_name="Мегафон Поволжье" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="234" operator_name="Мегафон Кавказ" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="695" operator_name="СМАРТС" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="441" operator_name="Байкалвестком" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="416" operator_name="Мегафон-Сибирь" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="610" operator_name="Теле2" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="541" operator_name="НТК" phone="1515" real_price=" 102,32  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="124" operator_name="Пенза GSM" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="365" operator_name="Stek-GSM" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="976" operator_name="Мотив" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="258" operator_name="Мегафон Дальний Восток" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="222" operator_name="Мегафон центр" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="247" operator_name="Шупашкар-GSM" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="293" operator_name="Мегафон Северо-Запад" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="269" operator_name="Енисей Телеком" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="305" operator_name="Мегафон-Урал" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="309" operator_name="Ютел" phone="1515" real_price=" 105,85  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="376" operator_name="Элайн" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="406" operator_name="СМАРТС (Иваново)" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="453" operator_name="Астрахань GSM" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="507" operator_name="Оренбург-GSM" phone="1515" real_price=" 141,60  рубль с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="518" operator_name="НСС Ульяновск" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="563" operator_name="НСС Чувашия" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="552" operator_name="НСС Саратов" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="707" operator_name="СМАРТС (Ярославль)" phone="1515" real_price=" 100  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="833" operator_name="СМАРТС (Волгоград)" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="585" operator_name="НСС Нижний Новгород" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="591" operator_name="Улан-Удэнская Сотовая сеть" phone="1515" real_price=" 100,01  рублей с НДС" operator_logo=""/>
+<service id="572" operator_name="НСС Татарстан" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo=""/>
+<service id="761" operator_name="НСС Мордовия" phone="1515" real_price=" 99,54  рублей с НДС" operator_logo=""/>
+</service_group>
+
+<service_group id="50" price="0.50">
+<service id="795" operator_name="Билайн" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="2" operator_name="МТС" phone="1313" real_price=" 16,93  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="3" operator_name="Мегафон Москва" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="4" operator_name="Мегафон Поволжье" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="5" operator_name="Мегафон Кавказ" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="57" operator_name="СМАРТС" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="58" operator_name="Байкалвестком" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="408" operator_name="Мегафон-Сибирь" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="600" operator_name="Теле2" phone="1313" real_price=" 17,11  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="90" operator_name="НТК" phone="1313" real_price=" 17,11  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="127" operator_name="Пенза GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="966" operator_name="Stek-GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="478" operator_name="Мотив" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="255" operator_name="Мегафон Дальний Восток" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="220" operator_name="Мегафон центр" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="244" operator_name="Шупашкар-GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="283" operator_name="Мегафон Северо-Запад" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="266" operator_name="Енисей Телеком" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="295" operator_name="Мегафон-Урал" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="307" operator_name="Ютел" phone="1313" real_price=" 17,70  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="367" operator_name="Элайн" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="397" operator_name="СМАРТС (Иваново)" phone="1313" real_price=" 17,70  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="442" operator_name="Астрахань GSM" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="497" operator_name="Оренбург-GSM" phone="1313" real_price=" 13,81  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="508" operator_name="НСС Ульяновск" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="553" operator_name="НСС Чувашия" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="542" operator_name="НСС Саратов" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="697" operator_name="СМАРТС (Ярославль)" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="831" operator_name="СМАРТС (Волгоград)" phone="1313" real_price=" 17  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="820" operator_name="НСС Нижний Новгород" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="888" operator_name="Улан-Удэнская Сотовая сеть" phone="1313" real_price=" 17  рублей с НДС" operator_logo=""/>
+<service id="826" operator_name="НСС Татарстан" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo=""/>
+<service id="756" operator_name="НСС Мордовия" phone="1313" real_price=" 16,59  рублей с НДС" operator_logo=""/>
+</service_group>
+
+<service_group id="100" price="1.00">
+<service id="799" operator_name="Билайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/beeline.gif"/>
+<service id="13" operator_name="МТС" phone="1615" real_price=" 44,03  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/mts.gif"/>
+<service id="14" operator_name="Мегафон Москва" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="15" operator_name="Мегафон Поволжье" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="16" operator_name="Мегафон Кавказ" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="39" operator_name="СМАРТС" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="35" operator_name="Байкалвестком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/bwc.gif"/>
+<service id="411" operator_name="Мегафон-Сибирь" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="602" operator_name="Теле2" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="95" operator_name="НТК" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ntk.gif"/>
+<service id="125" operator_name="Пенза GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="359" operator_name="Stek-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/stek.gif"/>
+<service id="479" operator_name="Мотив" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/motiv.gif"/>
+<service id="223" operator_name="Мегафон центр" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="242" operator_name="Шупашкар-GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="286" operator_name="Мегафон Северо-Запад" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="264" operator_name="Енисей Телеком" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/enisei.gif"/>
+<service id="298" operator_name="Мегафон-Урал" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/megafon.gif"/>
+<service id="311" operator_name="Ютел" phone="1615" real_price=" 44,25  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/usi.gif"/>
+<service id="370" operator_name="Элайн" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/elane.gif"/>
+<service id="400" operator_name="СМАРТС (Иваново)" phone="1615" real_price=" 46  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="444" operator_name="Астрахань GSM" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="499" operator_name="Оренбург-GSM" phone="1615" real_price=" 35,05  рублей с НДС" operator_logo="http://img.playfon.ru/img/operators/orenburg.gif"/>
+<service id="510" operator_name="НСС Ульяновск" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="555" operator_name="НСС Чувашия" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="544" operator_name="НСС Саратов" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/tele2.gif"/>
+<service id="699" operator_name="СМАРТС (Ярославль)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="830" operator_name="СМАРТС (Волгоград)" phone="1615" real_price=" 44  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/smarts.gif"/>
+<service id="580" operator_name="НСС Нижний Новгород" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo="http://img.playfon.ru/img/operators/ncc.jpg"/>
+<service id="586" operator_name="Улан-Удэнская Сотовая сеть" phone="1615" real_price=" 44  рубля с НДС" operator_logo=""/>
+<service id="570" operator_name="НСС Татарстан" phone="1615" real_price=" 43,14  рубля с НДС" operator_logo=""/>
+</service_group>
+</service_groups>
+
+<phones>
+<phone id="1" vendor="Nokia" model="Nokia 7650"/>
+<phone id="2" vendor="SonyEricsson" model="SonyEricsson P800"/>
+<phone id="3" vendor="Nokia" model="Nokia 3300"/>
+<phone id="5" vendor="Nokia" model="Nokia 6610"/>
+<phone id="6" vendor="Nokia" model="Nokia 7210"/>
+<phone id="7" vendor="Nokia" model="Nokia 3410"/>
+<phone id="8" vendor="Nokia" model="Nokia 3100"/>
+<phone id="9" vendor="Siemens" model="Siemens M50"/>
+<phone id="10" vendor="Siemens" model="Siemens C55"/>
+<phone id="11" vendor="Sharp" model="Sharp GX-10"/>
+<phone id="12" vendor="Motorola" model="Motorola T720"/>
+<phone id="13" vendor="Nokia" model="Nokia 3650"/>
+<phone id="14" vendor="Siemens" model="Siemens SL45"/>
+<phone id="15" vendor="Nokia" model="Nokia 3510i"/>
+<phone id="17" vendor="Nokia" model="Nokia 8910i"/>
+<phone id="20" vendor="Nokia" model="Nokia 9210i"/>
+<phone id="25" vendor="Nokia" model="Nokia 7250"/>
+<phone id="26" vendor="Nokia" model="Nokia 6100"/>
+<phone id="27" vendor="Nokia" model="Nokia 5100"/>
+<phone id="28" vendor="Nokia" model="Nokia 6800"/>
+<phone id="29" vendor="Nokia" model="Nokia 6220"/>
+<phone id="30" vendor="Nokia" model="Nokia N-Gage"/>
+<phone id="31" vendor="Siemens" model="Siemens S55"/>
+<phone id="32" vendor="Samsung" model="Samsung SGH-S100"/>
+<phone id="33" vendor="Nokia" model="Nokia 6600"/>
+<phone id="34" vendor="Nokia" model="Nokia 3200"/>
+<phone id="35" vendor="Nokia" model="Nokia 7250i"/>
+<phone id="36" vendor="SonyEricsson" model="SonyEricsson T610"/>
+<phone id="37" vendor="Siemens" model="Siemens SL45i"/>
+<phone id="38" vendor="SonyEricsson" model="SonyEricsson T616"/>
+<phone id="39" vendor="Motorola" model="Motorola T722"/>
+<phone id="40" vendor="NEC" model="NEC 515"/>
+<phone id="41" vendor="SonyEricsson" model="SonyEricsson T618"/>
+<phone id="42" vendor="Motorola" model="Motorola T720i"/>
+<phone id="43" vendor="SonyEricsson" model="SonyEricsson Z600"/>
+<phone id="44" vendor="Motorola" model="Motorola T722i"/>
+<phone id="45" vendor="Siemens" model="Siemens M55"/>
+<phone id="46" vendor="Siemens" model="Siemens SL55"/>
+<phone id="47" vendor="Siemens" model="Siemens MC60"/>
+<phone id="48" vendor="Siemens" model="Siemens C60"/>
+<phone id="49" vendor="Samsung" model="Samsung SGH-S200"/>
+<phone id="50" vendor="Samsung" model="Samsung SGH-S300"/>
+</phones>
+
+<media_formats>
+<media_format id="2" name="games" code_mask="xxxxgj49" code_mask_old="xxxx49"/>
+</media_formats>
+
+<format_instances>
+<format_instance id="202" mf_id="2" sg_id="250"/>
+<format_instance id="2" mf_id="2" sg_id="50"/>
+<format_instance id="102" mf_id="2" sg_id="100"/>
+</format_instances>
+
+<genres>
+<genre id="9" name="Программы"/>
+<genre id="7" name="Аркады"/>
+<genre id="2" name="Логические"/>
+<genre id="20" name="3D игры"/>
+<genre id="31" name="Волшебный мир Диснея"/>
+<genre id="5" name="Стрелялки"/>
+<genre id="8" name="Гонки"/>
+<genre id="4" name="Спорт"/>
+<genre id="10" name="Драки"/>
+<genre id="12" name="Азартные"/>
+<genre id="1" name="Action"/>
+<genre id="6" name="Настольные"/>
+<genre id="28" name="RPG"/>
+<genre id="11" name="Стратегии"/>
+<genre id="23" name="Слайдшоу"/>
+<genre id="15" name="Квесты"/>
+<genre id="22" name="Сетевые игры"/>
+<genre id="35" name="Сборники SMS"/>
+<genre id="21" name="Книги"/>
+<genre id="26" name="Шпаргалки"/>
+<genre id="33" name="Flash-lite"/>
+<genre id="29" name="Symbian"/>
+<genre id="34" name="Комиксы"/>
+</genres>
+
+<items>
+
+<item id="1" name="Биоритмы" genre_id="9" supported_phones="1,3,5,6,7,8,9,11,12,13,15,17,25,26,27,28,29,30,34,35,39,42,44" fi_ids="202">
+
+<description>
+Это полезнейшее приложение поможет вам узнать, как настроены биоритмы вашего организма в любой день – просто введите свою дату рождения! Ваша жизнь подчинена трем биоритмам – физическому, эмоциональному и интеллектуальному, и эта программа покажет вам уровень каждого из них. От того, насколько сильны вы духом или сердцем, зависит многое. Живите современно!
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/1_def.gif"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/1.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/00001_162953010140fb9a827a681.gif"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/00001_182536364840fb9a827c1de.gif"/>
+</screenshots>
+</item>
+
+<item id="2" name="Искатель Приключений" genre_id="7" supported_phones="1,3,5,6,7,8,13,15,17,25,26,27,28,29,30,33,34,35" fi_ids="202">
+
+<description>
+Больше всего на свете герой этой игры, маленькая летучая мышь, любит драгоценные камни и приключения. Он готов на все ради того, чтобы набить карманы бриллиантами, даже отправиться в негостеприимные края, полные опасных монстров. Ему предстоит пройти 16 различных уровней, и на каждом из них собрать все самоцветы, разнообразные бонусы и не попасться чудовищам.<br/>Одна из первых мобильных аркад предлагает вам классический геймплей и прекрасное звуковое сопровождение!
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/2_web_146588293342c5485774fa0.gif"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/2.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/00002_64825389340fb9a6ca5e0e.gif"/>
+</screenshots>
+</item>
+
+<item id="4" name="Блоки" genre_id="2" supported_phones="3,5,6,7,8,15,17,25,26,27,28,29,34,35" fi_ids="202">
+
+<description>
+Это простая и великая игра на все времена! В новой версии нетленного «Тетриса» сложность возрастает с каждым новым уровнем и появляются новые неожиданные трудности, которые прибавляют классическому складыванию блоков разных форм в линии дополнительного азарта! Выполненная в двух вариантах – цветном и монохромном эта игра с легкостью установится даже на самый старый телефон!
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/4_web_105303179742c547309d674.gif"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/4.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/00004_16314072240fb9a835d033.gif"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/00004_89053845840fb9a8361e62.gif"/>
+</screenshots>
+</item>
+
+<item id="8" name="Вечеринки выпускников" genre_id="7" supported_phones="3,5,6,8,9,11,25,26,27,28,29,31,32,33,34,35,36,37,38,41,43,45,46,47,48" fi_ids="202">
+
+<description>
+Школьные годы подходят к концу – настало время веселиться на всю катушку! Вас ждёт более 20 самых угарных вечеринок, свидания с девушками и сражения за популярность. Множество разнообразных, но одинаково забавных мини-игр подарят вам отличное настроение и создадут неповторимую атмосферу окончания выпускного класса школы! Вы уже не дети, пора задать жару в этом городке!
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/8_web_32033488148fdc94b07544.jpg"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/8.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/8_image_63604535248fdc96ce0be5.gif"/>
+</screenshots>
+</item>
+
+<item id="9" name="Halloween: В замке вампира" genre_id="7" supported_phones="1,3,5,6,8,11,13,25,26,27,28,29,30,31,33,34,35,37,45,46,47,48" fi_ids="202">
+
+<description>
+Волшебнику Монти придется использовать всю свою мудрость и заклинания, чтобы преодолеть все 50 комнат ужасающего замка вампира. Отправился он в это страшное место в день Всех Святых, чтобы собрать похищенные главарем нежити, Бароном Клыком, Изумруды Силы. Замок полон опасностей и врагов, в числе которых восставшие из мертвых самураи, призраки, злобоглазы и другие монстры. Комнаты в замке вампира пронизаны защитной магией, поэтому вам придется преодолеть огненные реки лавы, скользкий лед, обрушивающиеся полы и бездонные пропасти. Избегайте препятствий и врагов, применяйте заклинания и собирайте заветные Изумруды. В конце вас ждет встреча с самим Бароном Клыком!
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/9_web_118934211948fdd56fa55e8.jpg"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/9.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/9_image_119504514148fdd68da190d.gif"/>
+</screenshots>
+</item>
+
+<item id="10" name="Снайпер 3D" genre_id="20" supported_phones="33" fi_ids="202">
+
+<description>
+Сюжет данной игры перенесет вас во времена Великой Отечественной Войны. Вы станете снайпером-профессионалом, привлеченным советскими властями к очень ответственному заданию – освободить заложников и обезвредить сотни врагов. Вас ждет несколько разнообразных секретных операций в различных пунктах, расположенных по всей Европе. Вы – последняя надежда заложников на освобождение. Сможете ли вы спасти невинных жертв этой войны?
+</description>
+
+<screenshots>
+<screenshot default="1" url="http://img.playfon.ru/preview/gameimages/10_web_186904414548fddd904df55.jpg"/>
+<screenshot small="1" url="http://wapg.playfon.ru/i/s/10.jpg"/>
+<screenshot url="http://img.playfon.ru/preview/gameimages/10_image_18454418048fde07636080.gif"/>
+</screenshots>
+</item>
+</items>
+</catalog>
