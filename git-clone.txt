@@ -1,0 +1,43 @@
+1) В хосты прописать git 192.168.1.100
+git clone ssh://sanya@git/opt/git/projects/MBuilder.git
+git clone ssh://sanya@git/opt/git/projects/ImageManager.git
+git clone ssh://sanya@git/opt/git/projects/Partner/Content.git
+git clone ssh://sanya@git/opt/git/projects/Tools/SubversionCleaner.git
+git clone ssh://sanya@git/opt/git/projects/Html/oycii.git
+
+Переход на текущую ветку
+git checkout develop
+
+Просмотр веток
+git branch -a
+
+----------------------------------------------------------------------
+
+Создание репозитария для сервера:
+
+1) Инициализация репозитария на локальной машине, например
+cd /home/sanya/projects/Html/oycii
+git init
+git add *
+git commit -m "initial project version"
+
+2) Создание репозитария для сервера
+cd /home/sanya/projects/Html
+git clone --bare oycii oycii.git
+
+3) Создадим каталог Html для нового репозитария:
+ssh sanya@git
+cd /opt/git/projects
+mkdir Html
+
+3) Копируем репозитарий на сервер
+scp -r oycii.git sanya@git:/opt/git/projects/Html
+
+4) Раздача прав для изменения в репозитарии:
+ssh sanya@git
+cd /opt/git/projects/Html/oycii.git
+git init --bare --shared
+
+5) Клонируем на клиента:
+git clone ssh://sanya@git/opt/git/projects/Html/oycii.git
+
